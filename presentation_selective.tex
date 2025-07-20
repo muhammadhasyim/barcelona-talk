@@ -1,0 +1,288 @@
+\documentclass[9pt,professionalfont,t,aspectratio=169]{beamer}
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{amsthm}
+\usepackage{empheq}
+\usepackage{xparse}
+\usepackage[export]{adjustbox}
+\usepackage{varwidth}
+\usepackage{tabulary}
+\usepackage{xcolor}
+\usepackage{hhline}
+\usepackage{relsize}
+\usepackage{framed}
+\usepackage[beamer]{hf-tikz}
+\usepackage{multirow}
+
+\usepackage[style=authoryear]{biblatex}
+\usepackage{bm}
+\usepackage{changepage}
+\usepackage[T1]{fontenc}
+\usepackage{concmath}
+\usepackage{mathrsfs}
+\usepackage{mathtools}
+\usepackage[thinlines]{easytable}
+\usepackage{xy}
+\usepackage{wrapfig}
+\usepackage{pgfplots,tikz}
+\usepackage{soul}
+\usepackage{verbatim}
+\usetikzlibrary{matrix,positioning,arrows}
+\usetikzlibrary{tikzmark}
+\usetikzlibrary{fit}
+\usetheme[progressbar=frametitle]{metropolis}
+\usepackage{appendixnumberbeamer}
+\usepackage{ wasysym }
+
+\usepackage{booktabs}
+%\usepackage[scale=2]{ccicons}
+\usepackage{lmodern}
+\usepackage{xspace}
+\usepackage{graphicx}
+\usepackage{mathtools}
+\usepackage{float}
+\usepackage{amstext}
+\usepackage{array}
+\usepackage{lipsum}
+\usepackage{amsfonts}              
+\usepackage{amsthm}               
+\usepackage{amssymb}
+%\usepackage{multimedia}
+\usepackage{media9}
+\usepackage[absolute,overlay]{textpos}
+\usepackage[font=small]{caption}
+\captionsetup[figure]{labelformat=empty}%
+\captionsetup[table]{labelformat=empty}%
+\usepackage{pgfplots,tikz}
+\usepackage{soul}
+\usepackage{verbatim}
+\usetikzlibrary{matrix,positioning,arrows}
+\usetikzlibrary{tikzmark}
+\usetikzlibrary{fit}
+
+
+\DeclareMathOperator{\Avg}{\mathbb{E}}
+
+\newcommand*\numcircledmod[1]{\raisebox{.5pt}{\textcircled{\raisebox{-.9pt} {#1}}}}
+
+%\usepackage{animate}
+\usepackage{etoolbox}% http://ctan.org/pkg/etoolbox
+
+\setbeamercolor{block title}{fg=Medalist,bg=white} % Colors of the block titles
+
+\setbeamercolor{block body}{fg=black,bg=white} % Colors of the body of blocks
+
+\setbeamercolor{block alerted title}{fg=white,bg=BerkBlue!80} % Colors of the highlighted block titles
+
+\setbeamercolor{block alerted body}{fg=black,bg=BerkBlue!10} % Colors of the body of highlighted blocks
+
+\setbeamercolor{block title example}{fg=BerkBlue,bg=white} % Colors of the block titles
+
+\setbeamercolor{block body example}{fg=black,bg=white} % Colors of the body of blocks
+
+\setbeamertemplate{caption}{\raggedright\insertcaption\par}
+
+\newcommand\setItemnumber[1]{\setcounter{enumi}{\numexpr#1-1\relax}}
+
+\newcommand{\ch}[1]{{\color{purple}#1}}
+\newcommand{\km}[1]{{\color{red}#1}}
+\newcommand{\ed}[1]{{\color{blue}#1}}
+
+\newbox\FBox
+\NewDocumentCommand\Highlight{O{black}O{white}mO{0.5pt}O{0pt}O{0pt}}{%
+    \setlength\fboxsep{#4}\sbox\FBox{\fcolorbox{#1}{#2}{#3\rule[-#5]{0pt}{#6}}}\usebox\FBox}
+      
+\DeclareCiteCommand{\longcite}{}{%
+    \printnames{author}, \printfield{journaltitle} \printfield{year}}{;}{}%
+    
+
+\newcommand*\diff{\mathop{}\!\mathrm{d}}
+\newcommand*\Diff[1]{\mathop{}\!\mathrm{d^#1}}
+\def\*#1{\mathbf{#1}}
+\DeclareMathOperator{\Tr}{Tr}
+
+% Syntax: \colorboxed[<color model>]{<color specification>}{<math formula>}
+\newcommand*{\colorboxed}{}
+\def\colorboxed#1#{%
+  \colorboxedAux{#1}%
+}
+\newcommand*{\colorboxedAux}[3]{%
+  % #1: optional argument for color model
+  % #2: color specification
+  % #3: formula
+  \begingroup
+    \colorlet{cb@saved}{.}%
+    \color#1{#2}%
+    \boxed{%
+      \color{cb@saved}%
+      #3%
+    }%
+  \endgroup
+}
+
+
+
+\title{Excitations, Emergent Facilitation and Glassy Dynamics in Supercooled Liquids}
+% \date{Virtual Seminar --  Theory Club, \today}
+\date{APS March Meeting 2024, March 4, 2024}
+\author{Muhammad R. Hasyim\inst{1}, Kranthi K. Mandadapu\inst{2}}
+\institute[Affiliations]{
+    \inst{1}%
+    Department of Chemical and Biomolecular Engineering, University of California, Berkeley, CA 94720
+    
+    \inst{2}%
+    Chemical Division, Lawrence Berkeley National Laboratory, Berkeley, CA 94720
+%    \\ 
+%    Contact: \url{mh7373@nyu.edu}
+}
+% \newcommand\FrameText[1]{%
+% \begin{textblock*}{\paperwidth}(\textwidth-\widthof{#1},0.92\textheight)\raggedright #1\hspace{0.5em}
+% \end{textblock*}}
+\metroset{block=fill}
+\begin{document}
+\documentclass[9pt,professionalfont,t,aspectratio=169]{beamer}
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{amsthm}
+\usepackage{empheq}
+\usepackage{xparse}
+\usepackage[export]{adjustbox}
+\usepackage{varwidth}
+\usepackage{tabulary}
+\usepackage{xcolor}
+\usepackage{hhline}
+\usepackage{relsize}
+\usepackage{framed}
+\usepackage[beamer]{hf-tikz}
+\usepackage{multirow}
+
+\usepackage[style=authoryear]{biblatex}
+\usepackage{bm}
+\usepackage{changepage}
+\usepackage[T1]{fontenc}
+\usepackage{concmath}
+\usepackage{mathrsfs}
+\usepackage{mathtools}
+\usepackage[thinlines]{easytable}
+\usepackage{xy}
+\usepackage{wrapfig}
+\usepackage{pgfplots,tikz}
+\usepackage{soul}
+\usepackage{verbatim}
+\usetikzlibrary{matrix,positioning,arrows}
+\usetikzlibrary{tikzmark}
+\usetikzlibrary{fit}
+\usetheme[progressbar=frametitle]{metropolis}
+\usepackage{appendixnumberbeamer}
+\usepackage{ wasysym }
+
+\usepackage{booktabs}
+%\usepackage[scale=2]{ccicons}
+\usepackage{lmodern}
+\usepackage{xspace}
+\usepackage{graphicx}
+\usepackage{mathtools}
+\usepackage{float}
+\usepackage{amstext}
+\usepackage{array}
+\usepackage{lipsum}
+\usepackage{amsfonts}              
+\usepackage{amsthm}               
+\usepackage{amssymb}
+%\usepackage{multimedia}
+\usepackage{media9}
+\usepackage[absolute,overlay]{textpos}
+\usepackage[font=small]{caption}
+\captionsetup[figure]{labelformat=empty}%
+\captionsetup[table]{labelformat=empty}%
+\usepackage{pgfplots,tikz}
+\usepackage{soul}
+\usepackage{verbatim}
+\usetikzlibrary{matrix,positioning,arrows}
+\usetikzlibrary{tikzmark}
+\usetikzlibrary{fit}
+
+
+\DeclareMathOperator{\Avg}{\mathbb{E}}
+
+\newcommand*\numcircledmod[1]{\raisebox{.5pt}{\textcircled{\raisebox{-.9pt} {#1}}}}
+
+%\usepackage{animate}
+\usepackage{etoolbox}% http://ctan.org/pkg/etoolbox
+
+\setbeamercolor{block title}{fg=Medalist,bg=white} % Colors of the block titles
+
+\setbeamercolor{block body}{fg=black,bg=white} % Colors of the body of blocks
+
+\setbeamercolor{block alerted title}{fg=white,bg=BerkBlue!80} % Colors of the highlighted block titles
+
+\setbeamercolor{block alerted body}{fg=black,bg=BerkBlue!10} % Colors of the body of highlighted blocks
+
+\setbeamercolor{block title example}{fg=BerkBlue,bg=white} % Colors of the block titles
+
+\setbeamercolor{block body example}{fg=black,bg=white} % Colors of the body of blocks
+
+\setbeamertemplate{caption}{\raggedright\insertcaption\par}
+
+\newcommand\setItemnumber[1]{\setcounter{enumi}{\numexpr#1-1\relax}}
+
+\newcommand{\ch}[1]{{\color{purple}#1}}
+\newcommand{\km}[1]{{\color{red}#1}}
+\newcommand{\ed}[1]{{\color{blue}#1}}
+
+\newbox\FBox
+\NewDocumentCommand\Highlight{O{black}O{white}mO{0.5pt}O{0pt}O{0pt}}{%
+    \setlength\fboxsep{#4}\sbox\FBox{\fcolorbox{#1}{#2}{#3\rule[-#5]{0pt}{#6}}}\usebox\FBox}
+      
+\DeclareCiteCommand{\longcite}{}{%
+    \printnames{author}, \printfield{journaltitle} \printfield{year}}{;}{}%
+    
+
+\newcommand*\diff{\mathop{}\!\mathrm{d}}
+\newcommand*\Diff[1]{\mathop{}\!\mathrm{d^#1}}
+\def\*#1{\mathbf{#1}}
+\DeclareMathOperator{\Tr}{Tr}
+
+% Syntax: \colorboxed[<color model>]{<color specification>}{<math formula>}
+\newcommand*{\colorboxed}{}
+\def\colorboxed#1#{%
+  \colorboxedAux{#1}%
+}
+\newcommand*{\colorboxedAux}[3]{%
+  % #1: optional argument for color model
+  % #2: color specification
+  % #3: formula
+  \begingroup
+    \colorlet{cb@saved}{.}%
+    \color#1{#2}%
+    \boxed{%
+      \color{cb@saved}%
+      #3%
+    }%
+  \endgroup
+}
+
+
+
+\title{Excitations, Emergent Facilitation and Glassy Dynamics in Supercooled Liquids}
+% \date{Virtual Seminar --  Theory Club, \today}
+\date{APS March Meeting 2024, March 4, 2024}
+\author{Muhammad R. Hasyim\inst{1}, Kranthi K. Mandadapu\inst{2}}
+\institute[Affiliations]{
+    \inst{1}%
+    Department of Chemical and Biomolecular Engineering, University of California, Berkeley, CA 94720
+    
+    \inst{2}%
+    Chemical Division, Lawrence Berkeley National Laboratory, Berkeley, CA 94720
+%    \\ 
+%    Contact: \url{mh7373@nyu.edu}
+}
+% \newcommand\FrameText[1]{%
+% \begin{textblock*}{\paperwidth}(\textwidth-\widthof{#1},0.92\textheight)\raggedright #1\hspace{0.5em}
+% \end{textblock*}}
+\metroset{block=fill}
+\begin{document}
+
+\maketitle 
+
+
