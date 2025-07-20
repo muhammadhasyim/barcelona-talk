@@ -44,58 +44,52 @@
 % \end{frame}
 
 
-\begin{frame}{A Theory of Onset Temperature in 2D: The Nature of Excitations}
-% \begin{columns}
-% \begin{column}{0.5\linewidth}
-% \begin{itemize}
-%     \item T
-% \end{itemize}
-% \end{column}
-\begin{block}{\centering \large Excitations at Finite-$T$}
-Localized pure-shear excitations are emergent objects at low-$T$. They "break apart" as $T \to T_\mathrm{o}$ 
+\begin{frame}{A Theory of Onset Temperature in 2D: Geometric Charges \& Energy-Entropy Framework}
+
+\begin{columns}[T]
+\begin{column}[T]{0.5\textwidth}
+
+\begin{block}{\centering \large Geometric Charges}
+Mathematical analogy (unique to 2D) between elastic excitations and electrostatic multipoles
 \end{block}
 
-% \begin{figure}
-% \vspace{-9pt}
-% \begin{overprint}
-% \onslide<1-10>\centering\includegraphics[width=0.5\linewidth]{3.d-kt_geomcharges/chargesequiv-1.pdf}
-% \onslide<11->\centering\includegraphics[width=0.5\linewidth]{3.d-kt_geomcharges/chargesequiv-2.pdf}\hspace{3pt}\raisebox{12pt}{\includegraphics[width=0.35\linewidth]{3.d-kt_geomcharges/dipolemag.pdf}}
-% \end{overprint}
-% %\begin{equation*}
-
-% %\end{equation*}
-% \end{figure}
-\vspace{-7pt}
-% \begin{column}{0.5\linewidth}
-%hint for onset temperature $T_\mathrm{o}$ lies in the mathematical model for the localized pure-shear excitation
-\begin{itemize}
-\item<2-> Mathematical analogy (unique to 2D) between elastic excitations, i.e., sources of stress $T_{ij}$ and strain $\epsilon_{ij}$, with multipoles in electrostatics, i.e., sources of electric fields $E_i$ and polarization $P_i$. 
-
-\onslide<3->\begin{figure}
-\centering\includegraphics[width=0.6\linewidth]{3.d-kt_geomcharges/chargesequiv-2.pdf}\hspace{3pt}\raisebox{12pt}{\includegraphics[width=0.35\linewidth]{3.d-kt_geomcharges/dipolemag.pdf}}
-\vspace{5pt}
+\begin{figure}
+\centering\includegraphics[width=0.9\linewidth]{c.2-kt_geomcharges_1/chargesequiv-2.pdf}
+\vspace{-5pt}
+\includegraphics[width=0.6\linewidth]{c.2-kt_geomcharges_1/dipolemag.pdf}
+\caption{Pure-shear excitation as bound state of \textbf{geometric dipoles}}
 \end{figure}
 
-%The free-energy of formation for a localized pure-shear excitation:
-% \vspace{8pt}
-% \begin{table}[h]
-% \begin{tabular}{cc}
-% \hline\hline
-% Electrostatics  & 2D Elasticity  \\ \hline
-% \onslide<4->{Electric field $E_i=-\phi_{,i}$} & \onslide<8->{Stress field $T_{ij} = \chi_{,kk} \delta_{ij}-\chi_{,ij}$}  \\
-% \onslide<4->{Potential function $\phi$} & \onslide<9->{Airy stress function $\chi$} \\
-% \onslide<5->{Charge distribution $\rho$} & \onslide<10->{Incompatibility source $\eta$}  \\
-% \onslide<6->{Dielectric constant $\varepsilon$}    & \onslide<11->{Young's modulus $Y$}   \\
-% \onslide<7->{Poisson's equation $-\varepsilon \nabla^2 \phi = \rho$} & \onslide<12->{$\frac{1}{Y} \nabla^4 \chi = \eta$ } \\
-% \hline\hline
-% \end{tabular}
-% %\end{ruledtabular}
-% \end{table}
-% \vspace{8pt}
-\item<4-> A pure-shear excitation is a bound state of \textbf{geometric dipoles} \pause $ \to$ 2D elastic excitations as geometric charges (Moshe, et al. \textit{Proc. Natl. Acad. Sci. U.S.A.} 2015).
+\end{column}
+
+\begin{column}[T]{0.5\textwidth}
+
+\begin{block}{\centering \large Energy-Entropy Framework}
+Free energy of formation for localized excitations
+\end{block}
+
+\vspace{0.3em}
+
+\begin{equation*}
+\underbrace{\Delta F_\mathrm{f}}_{\substack{\text{Free energy of} \\ \text{formation}}} = \underbrace{ \frac{d_{\mathrm{c}}^{2} Y^{\mathrm{IS}}}{8 \pi} \ln \left(\frac{R}{R_{\mathrm{exc}}}\right) }_{\substack{\text{Elastic energy cost}}} - \underbrace{2 k_\mathrm{B} T \ln \left(\sqrt{2 \pi} \frac{R}{R_\mathrm{exc}} \right)}_{\substack{\text{Entropy gain}}}
+\end{equation*}
+
+\vspace{0.5em}
+
+\begin{itemize}
+\item \textbf{Low-$T$:} Bound geometric dipoles (solid behavior)
+\item \textbf{High-$T$:} Free dipoles (fluid behavior)  
+\item \textbf{Critical condition:} Balance of energy vs entropy
 \end{itemize}
-% \end{column}
-% \end{columns}
+
+\end{column}
+\end{columns}
+
+\vspace{0.5em}
+
+\begin{block}{\centering Key Insight}
+Localized excitations are \textbf{bound states of geometric dipoles} that undergo a binding-unbinding transition at $T_\mathrm{o}$
+\end{block}
 
 \end{frame}
 

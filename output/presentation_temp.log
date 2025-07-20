@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.6.13)  20 JUL 2025 15:43
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.6.13)  20 JUL 2025 16:00
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1992,207 +1992,430 @@ Package pdftex.def Info: intro_glassy/timerelax_b2o3_4.pdf  used on input line
 (pdftex.def)             Requested size: 140.08783pt x 140.08397pt.
 LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <8> not available
 (Font)              Font shape `T1/lmss/m/sl' tried instead on input line 84.
-<3.a-intro_dh/softspots_220.png, id=14, 803.0pt x 803.0pt>
-File: 3.a-intro_dh/softspots_220.png Graphic file (type png)
-<use 3.a-intro_dh/softspots_220.png>
-Package pdftex.def Info: 3.a-intro_dh/softspots_220.png  used on input line 84.
 
-(pdftex.def)             Requested size: 140.086pt x 140.08397pt.
-<intro_glassy/softspots_280.png, id=16, 301.125pt x 301.125pt>
+
+LaTeX Warning: File `3.a-intro_dh/softspots_220.png' not found on input line 84
+.
+
+
+! Package pdftex.def Error: File `3.a-intro_dh/softspots_220.png' not found: us
+ing draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.84 \end{frame}
+                
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+LaTeX Font Info:    Trying to load font information for T1+lmtt on input line 8
+4.
+(/usr/local/texlive/2022/texmf-dist/tex/latex/lm/t1lmtt.fd
+File: t1lmtt.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+<intro_glassy/softspots_280.png, id=14, 301.125pt x 301.125pt>
 File: intro_glassy/softspots_280.png Graphic file (type png)
 <use intro_glassy/softspots_280.png>
 Package pdftex.def Info: intro_glassy/softspots_280.png  used on input line 84.
 
 (pdftex.def)             Requested size: 140.09059pt x 140.08397pt.
-<3.a-intro_dh/poly12_lowT.png, id=17, 301.125pt x 301.125pt>
-File: 3.a-intro_dh/poly12_lowT.png Graphic file (type png)
-<use 3.a-intro_dh/poly12_lowT.png>
-Package pdftex.def Info: 3.a-intro_dh/poly12_lowT.png  used on input line 84.
-(pdftex.def)             Requested size: 140.09059pt x 140.08397pt.
 
 
-pdfTeX warning: pdflatex (file ./3.a-intro_dh/gr_poly12_single-1.pdf): PDF incl
-usion: found PDF version <1.6>, but at most version <1.5> allowed
-<3.a-intro_dh/gr_poly12_single-1.pdf, id=18, 325.215pt x 325.215pt>
-File: 3.a-intro_dh/gr_poly12_single-1.pdf Graphic file (type pdf)
-<use 3.a-intro_dh/gr_poly12_single-1.pdf>
-Package pdftex.def Info: 3.a-intro_dh/gr_poly12_single-1.pdf  used on input lin
-e 84.
-(pdftex.def)             Requested size: 140.08783pt x 140.08397pt.
+LaTeX Warning: File `3.a-intro_dh/poly12_lowT.png' not found on input line 84.
+
+
+! Package pdftex.def Error: File `3.a-intro_dh/poly12_lowT.png' not found: usin
+g draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.84 \end{frame}
+                
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+LaTeX Warning: File `3.a-intro_dh/gr_poly12_single-1.pdf' not found on input li
+ne 84.
+
+
+! Package pdftex.def Error: File `3.a-intro_dh/gr_poly12_single-1.pdf' not foun
+d: using draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.84 \end{frame}
+                
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
 ) (./a.2-intro_dftheory/intro_dftheory.tex
 LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <9> not available
 (Font)              Font shape `T1/lmss/m/sl' tried instead on input line 51.
-<2.a-intro_dftheory/DF_Theory_Excitations_Zoom_0.pdf, id=19, 126.4725pt x 155.2
-4399pt>
-File: 2.a-intro_dftheory/DF_Theory_Excitations_Zoom_0.pdf Graphic file (type pd
-f)
-<use 2.a-intro_dftheory/DF_Theory_Excitations_Zoom_0.pdf>
-Package pdftex.def Info: 2.a-intro_dftheory/DF_Theory_Excitations_Zoom_0.pdf  u
-sed on input line 51.
-(pdftex.def)             Requested size: 99.85428pt x 122.5708pt.
-<2.a-intro_dftheory/DF_Theory_Excitations_Zoom_1.pdf, id=20, 126.4725pt x 155.2
-4399pt>
-File: 2.a-intro_dftheory/DF_Theory_Excitations_Zoom_1.pdf Graphic file (type pd
-f)
-<use 2.a-intro_dftheory/DF_Theory_Excitations_Zoom_1.pdf>
-Package pdftex.def Info: 2.a-intro_dftheory/DF_Theory_Excitations_Zoom_1.pdf  u
-sed on input line 51.
-(pdftex.def)             Requested size: 99.85428pt x 122.5708pt.
-<2.a-intro_dftheory/DF_Theory_Excitations_Zoom_2.pdf, id=21, 126.4725pt x 155.2
-4399pt>
-File: 2.a-intro_dftheory/DF_Theory_Excitations_Zoom_2.pdf Graphic file (type pd
-f)
-<use 2.a-intro_dftheory/DF_Theory_Excitations_Zoom_2.pdf>
-Package pdftex.def Info: 2.a-intro_dftheory/DF_Theory_Excitations_Zoom_2.pdf  u
-sed on input line 51.
-(pdftex.def)             Requested size: 99.85428pt x 122.5708pt.
-<2.a-intro_dftheory/facilitation_closer_1.pdf, id=22, 334.91864pt x 312.41719pt
->
-File: 2.a-intro_dftheory/facilitation_closer_1.pdf Graphic file (type pdf)
-<use 2.a-intro_dftheory/facilitation_closer_1.pdf>
-Package pdftex.def Info: 2.a-intro_dftheory/facilitation_closer_1.pdf  used on 
-input line 51.
-(pdftex.def)             Requested size: 131.39963pt x 122.5708pt.
-<2.a-intro_dftheory/facilitation_closer_2.pdf, id=23, 334.91864pt x 312.41719pt
->
-File: 2.a-intro_dftheory/facilitation_closer_2.pdf Graphic file (type pdf)
-<use 2.a-intro_dftheory/facilitation_closer_2.pdf>
-Package pdftex.def Info: 2.a-intro_dftheory/facilitation_closer_2.pdf  used on 
-input line 51.
-(pdftex.def)             Requested size: 131.39963pt x 122.5708pt.
+
+
+LaTeX Warning: File `2.a-intro_dftheory/DF_Theory_Excitations_Zoom_0.pdf' not f
+ound on input line 51.
+
+
+! Package pdftex.def Error: File `2.a-intro_dftheory/DF_Theory_Excitations_Zoom
+_0.pdf' not found: using draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.51 \end{frame}
+                
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+LaTeX Warning: File `2.a-intro_dftheory/DF_Theory_Excitations_Zoom_1.pdf' not f
+ound on input line 51.
+
+
+! Package pdftex.def Error: File `2.a-intro_dftheory/DF_Theory_Excitations_Zoom
+_1.pdf' not found: using draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.51 \end{frame}
+                
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+LaTeX Warning: File `2.a-intro_dftheory/DF_Theory_Excitations_Zoom_2.pdf' not f
+ound on input line 51.
+
+
+! Package pdftex.def Error: File `2.a-intro_dftheory/DF_Theory_Excitations_Zoom
+_2.pdf' not found: using draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.51 \end{frame}
+                
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+LaTeX Warning: File `2.a-intro_dftheory/facilitation_closer_1.pdf' not found on
+ input line 51.
+
+
+! Package pdftex.def Error: File `2.a-intro_dftheory/facilitation_closer_1.pdf'
+ not found: using draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.51 \end{frame}
+                
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+LaTeX Warning: File `2.a-intro_dftheory/facilitation_closer_2.pdf' not found on
+ input line 51.
+
+
+! Package pdftex.def Error: File `2.a-intro_dftheory/facilitation_closer_2.pdf'
+ not found: using draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.51 \end{frame}
+                
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
 ) (./a.3-edf_overview/intermezzo.tex
-File: 2.a-intro_dftheory/DF_Theory_Excitations_Zoom_2.pdf Graphic file (type pd
-f)
-<use 2.a-intro_dftheory/DF_Theory_Excitations_Zoom_2.pdf>
-Package pdftex.def Info: 2.a-intro_dftheory/DF_Theory_Excitations_Zoom_2.pdf  u
-sed on input line 54.
-(pdftex.def)             Requested size: 85.5891pt x 105.06119pt.
+
+LaTeX Warning: File `2.a-intro_dftheory/DF_Theory_Excitations_Zoom_2.pdf' not f
+ound on input line 54.
 
 
-pdfTeX warning: pdflatex (file ./1.d-kt_msdintro/msd-supercooledliq-5.pdf): PDF
- inclusion: found PDF version <1.6>, but at most version <1.5> allowed
-<1.d-kt_msdintro/msd-supercooledliq-5.pdf, id=24, 610.04512pt x 719.2993pt>
-File: 1.d-kt_msdintro/msd-supercooledliq-5.pdf Graphic file (type pdf)
-<use 1.d-kt_msdintro/msd-supercooledliq-5.pdf>
-Package pdftex.def Info: 1.d-kt_msdintro/msd-supercooledliq-5.pdf  used on inpu
-t line 54.
-(pdftex.def)             Requested size: 89.10121pt x 105.06119pt.
-File: 2.a-intro_dftheory/facilitation_closer_2.pdf Graphic file (type pdf)
-<use 2.a-intro_dftheory/facilitation_closer_2.pdf>
-Package pdftex.def Info: 2.a-intro_dftheory/facilitation_closer_2.pdf  used on 
-input line 54.
-(pdftex.def)             Requested size: 112.62387pt x 105.06119pt.
+! Package pdftex.def Error: File `2.a-intro_dftheory/DF_Theory_Excitations_Zoom
+_2.pdf' not found: using draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.54 \end{frame}
+                
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+LaTeX Warning: File `1.d-kt_msdintro/msd-supercooledliq-5.pdf' not found on inp
+ut line 54.
+
+
+! Package pdftex.def Error: File `1.d-kt_msdintro/msd-supercooledliq-5.pdf' not
+ found: using draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.54 \end{frame}
+                
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+LaTeX Warning: File `2.a-intro_dftheory/facilitation_closer_2.pdf' not found on
+ input line 54.
+
+
+! Package pdftex.def Error: File `2.a-intro_dftheory/facilitation_closer_2.pdf'
+ not found: using draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.54 \end{frame}
+                
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
 ) (./b.1-exc_pureshear/exc_pureshear.tex
 LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <7> not available
 (Font)              Font shape `T1/lmss/m/sl' tried instead on input line 80.
 
 
-pdfTeX warning: pdflatex (file ./5.c-fac_summodel/PEL.pdf): PDF inclusion: foun
-d PDF version <1.6>, but at most version <1.5> allowed
-<5.c-fac_summodel/PEL.pdf, id=25, 250.53499pt x 105.34958pt>
-File: 5.c-fac_summodel/PEL.pdf Graphic file (type pdf)
-<use 5.c-fac_summodel/PEL.pdf>
-Package pdftex.def Info: 5.c-fac_summodel/PEL.pdf  used on input line 80.
-(pdftex.def)             Requested size: 175.26726pt x 73.69917pt.
+LaTeX Warning: File `5.c-fac_summodel/PEL.pdf' not found on input line 80.
+
+
+! Package pdftex.def Error: File `5.c-fac_summodel/PEL.pdf' not found: using dr
+aft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.80 \end{frame}
+                
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
 
 Overfull \hbox (15.93427pt too wide) in paragraph at lines 80--80
  [] 
  []
 
-<1.b-exc_pureshear/zoomout_dispmag.png, id=26, 401.5pt x 401.5pt>
-File: 1.b-exc_pureshear/zoomout_dispmag.png Graphic file (type png)
-<use 1.b-exc_pureshear/zoomout_dispmag.png>
-Package pdftex.def Info: 1.b-exc_pureshear/zoomout_dispmag.png  used on input l
-ine 80.
-(pdftex.def)             Requested size: 135.434pt x 135.43607pt.
-<1.b-exc_pureshear/zoomout_dispvector.png, id=27, 401.5pt x 401.5pt>
-File: 1.b-exc_pureshear/zoomout_dispvector.png Graphic file (type png)
-<use 1.b-exc_pureshear/zoomout_dispvector.png>
-Package pdftex.def Info: 1.b-exc_pureshear/zoomout_dispvector.png  used on inpu
-t line 80.
-(pdftex.def)             Requested size: 135.434pt x 135.43607pt.
-<1.b-exc_pureshear/zoomout_dispvector_1.png, id=28, 401.5803pt x 401.5803pt>
-File: 1.b-exc_pureshear/zoomout_dispvector_1.png Graphic file (type png)
-<use 1.b-exc_pureshear/zoomout_dispvector_1.png>
-Package pdftex.def Info: 1.b-exc_pureshear/zoomout_dispvector_1.png  used on in
-put line 80.
-(pdftex.def)             Requested size: 135.434pt x 135.43253pt.
+
+LaTeX Warning: File `1.b-exc_pureshear/zoomout_dispmag.png' not found on input 
+line 80.
 
 
-pdfTeX warning: pdflatex (file ./1.b-exc_pureshear/zoomin-0.pdf): PDF inclusion
-: found PDF version <1.6>, but at most version <1.5> allowed
-<1.b-exc_pureshear/zoomin-0.pdf, id=29, 1003.75pt x 1003.75pt>
-File: 1.b-exc_pureshear/zoomin-0.pdf Graphic file (type pdf)
-<use 1.b-exc_pureshear/zoomin-0.pdf>
-Package pdftex.def Info: 1.b-exc_pureshear/zoomin-0.pdf  used on input line 80.
+! Package pdftex.def Error: File `1.b-exc_pureshear/zoomout_dispmag.png' not fo
+und: using draft setting.
 
-(pdftex.def)             Requested size: 135.434pt x 135.42381pt.
-
-
-pdfTeX warning: pdflatex (file ./1.b-exc_pureshear/zoomin-1.pdf): PDF inclusion
-: found PDF version <1.6>, but at most version <1.5> allowed
-<1.b-exc_pureshear/zoomin-1.pdf, id=30, 1003.75pt x 1003.75pt>
-File: 1.b-exc_pureshear/zoomin-1.pdf Graphic file (type pdf)
-<use 1.b-exc_pureshear/zoomin-1.pdf>
-Package pdftex.def Info: 1.b-exc_pureshear/zoomin-1.pdf  used on input line 80.
-
-(pdftex.def)             Requested size: 135.434pt x 135.42381pt.
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.80 \end{frame}
+                
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
 
 
-pdfTeX warning: pdflatex (file ./1.b-exc_pureshear/zoomin-2.pdf): PDF inclusion
-: found PDF version <1.6>, but at most version <1.5> allowed
-<1.b-exc_pureshear/zoomin-2.pdf, id=31, 1003.75pt x 1003.75pt>
-File: 1.b-exc_pureshear/zoomin-2.pdf Graphic file (type pdf)
-<use 1.b-exc_pureshear/zoomin-2.pdf>
-Package pdftex.def Info: 1.b-exc_pureshear/zoomin-2.pdf  used on input line 80.
-
-(pdftex.def)             Requested size: 135.434pt x 135.42381pt.
+LaTeX Warning: File `1.b-exc_pureshear/zoomout_dispvector.png' not found on inp
+ut line 80.
 
 
-pdfTeX warning: pdflatex (file ./1.b-exc_pureshear/zoomin-3.pdf): PDF inclusion
-: found PDF version <1.6>, but at most version <1.5> allowed
-<1.b-exc_pureshear/zoomin-3.pdf, id=32, 1003.75pt x 1003.75pt>
-File: 1.b-exc_pureshear/zoomin-3.pdf Graphic file (type pdf)
-<use 1.b-exc_pureshear/zoomin-3.pdf>
-Package pdftex.def Info: 1.b-exc_pureshear/zoomin-3.pdf  used on input line 80.
+! Package pdftex.def Error: File `1.b-exc_pureshear/zoomout_dispvector.png' not
+ found: using draft setting.
 
-(pdftex.def)             Requested size: 135.434pt x 135.42381pt.
-<1.b-exc_pureshear/zoomin-7.pdf, id=33, 217.43433pt x 216.79796pt>
-File: 1.b-exc_pureshear/zoomin-7.pdf Graphic file (type pdf)
-<use 1.b-exc_pureshear/zoomin-7.pdf>
-Package pdftex.def Info: 1.b-exc_pureshear/zoomin-7.pdf  used on input line 80.
-
-(pdftex.def)             Requested size: 135.434pt x 135.04187pt.
-<1.b-exc_pureshear/zoomin-8.pdf, id=34, 217.43433pt x 216.79796pt>
-File: 1.b-exc_pureshear/zoomin-8.pdf Graphic file (type pdf)
-<use 1.b-exc_pureshear/zoomin-8.pdf>
-Package pdftex.def Info: 1.b-exc_pureshear/zoomin-8.pdf  used on input line 80.
-
-(pdftex.def)             Requested size: 135.434pt x 135.04187pt.
-<1.b-exc_pureshear/zoomin-9.pdf, id=35, 217.43433pt x 216.79796pt>
-File: 1.b-exc_pureshear/zoomin-9.pdf Graphic file (type pdf)
-<use 1.b-exc_pureshear/zoomin-9.pdf>
-Package pdftex.def Info: 1.b-exc_pureshear/zoomin-9.pdf  used on input line 80.
-
-(pdftex.def)             Requested size: 135.434pt x 135.04187pt.
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.80 \end{frame}
+                
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
 
 
-pdfTeX warning: pdflatex (file ./1.b-exc_pureshear/T1transition.pdf): PDF inclu
-sion: found PDF version <1.6>, but at most version <1.5> allowed
-<1.b-exc_pureshear/T1transition.pdf, id=36, 109.61151pt x 99.35368pt>
-File: 1.b-exc_pureshear/T1transition.pdf Graphic file (type pdf)
-<use 1.b-exc_pureshear/T1transition.pdf>
-Package pdftex.def Info: 1.b-exc_pureshear/T1transition.pdf  used on input line
- 80.
-(pdftex.def)             Requested size: 135.434pt x 122.76065pt.
+LaTeX Warning: File `1.b-exc_pureshear/zoomout_dispvector_1.png' not found on i
+nput line 80.
+
+
+! Package pdftex.def Error: File `1.b-exc_pureshear/zoomout_dispvector_1.png' n
+ot found: using draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.80 \end{frame}
+                
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+LaTeX Warning: File `1.b-exc_pureshear/zoomin-0.pdf' not found on input line 80
+.
+
+
+! Package pdftex.def Error: File `1.b-exc_pureshear/zoomin-0.pdf' not found: us
+ing draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.80 \end{frame}
+                
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+LaTeX Warning: File `1.b-exc_pureshear/zoomin-1.pdf' not found on input line 80
+.
+
+
+! Package pdftex.def Error: File `1.b-exc_pureshear/zoomin-1.pdf' not found: us
+ing draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.80 \end{frame}
+                
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+LaTeX Warning: File `1.b-exc_pureshear/zoomin-2.pdf' not found on input line 80
+.
+
+
+! Package pdftex.def Error: File `1.b-exc_pureshear/zoomin-2.pdf' not found: us
+ing draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.80 \end{frame}
+                
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+LaTeX Warning: File `1.b-exc_pureshear/zoomin-3.pdf' not found on input line 80
+.
+
+
+! Package pdftex.def Error: File `1.b-exc_pureshear/zoomin-3.pdf' not found: us
+ing draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.80 \end{frame}
+                
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+LaTeX Warning: File `1.b-exc_pureshear/zoomin-7.pdf' not found on input line 80
+.
+
+
+! Package pdftex.def Error: File `1.b-exc_pureshear/zoomin-7.pdf' not found: us
+ing draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.80 \end{frame}
+                
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+LaTeX Warning: File `1.b-exc_pureshear/zoomin-8.pdf' not found on input line 80
+.
+
+
+! Package pdftex.def Error: File `1.b-exc_pureshear/zoomin-8.pdf' not found: us
+ing draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.80 \end{frame}
+                
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+LaTeX Warning: File `1.b-exc_pureshear/zoomin-9.pdf' not found on input line 80
+.
+
+
+! Package pdftex.def Error: File `1.b-exc_pureshear/zoomin-9.pdf' not found: us
+ing draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.80 \end{frame}
+                
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+LaTeX Warning: File `1.b-exc_pureshear/T1transition.pdf' not found on input lin
+e 80.
+
+
+! Package pdftex.def Error: File `1.b-exc_pureshear/T1transition.pdf' not found
+: using draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.80 \end{frame}
+                
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
 ) (./b.2-exc_results_1/exc_results_1.tex
-<b.2-exc_results_1/dimshearmodulus.pdf, id=37, 325.215pt x 325.215pt>
+<b.2-exc_results_1/dimshearmodulus.pdf, id=16, 325.215pt x 325.215pt>
 File: b.2-exc_results_1/dimshearmodulus.pdf Graphic file (type pdf)
 <use b.2-exc_results_1/dimshearmodulus.pdf>
 Package pdftex.def Info: b.2-exc_results_1/dimshearmodulus.pdf  used on input l
 ine 42.
 (pdftex.def)             Requested size: 169.2951pt x 169.29637pt.
-<b.2-exc_results_1/csigma.pdf, id=38, 277.51682pt x 277.51682pt>
+<b.2-exc_results_1/csigma.pdf, id=17, 277.51682pt x 277.51682pt>
 File: b.2-exc_results_1/csigma.pdf Graphic file (type pdf)
 <use b.2-exc_results_1/csigma.pdf>
 Package pdftex.def Info: b.2-exc_results_1/csigma.pdf  used on input line 42.
@@ -2206,7 +2429,7 @@ File: ts1lmss.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 (./b.3-exc_results_2/exc_results_2.tex
 LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <7> on input line 49.
-<b.3-exc_results_2/giso_lit.png, id=39, 370.38374pt x 370.88562pt>
+<b.3-exc_results_2/giso_lit.png, id=18, 370.38374pt x 370.88562pt>
 File: b.3-exc_results_2/giso_lit.png Graphic file (type png)
 <use b.3-exc_results_2/giso_lit.png>
 Package pdftex.def Info: b.3-exc_results_2/giso_lit.png  used on input line 49.
@@ -2216,316 +2439,648 @@ Package pdftex.def Info: b.3-exc_results_2/giso_lit.png  used on input line 49.
 
 pdfTeX warning: pdflatex (file ./b.3-exc_results_2/giso-2.pdf): PDF inclusion: 
 found PDF version <1.6>, but at most version <1.5> allowed
-<b.3-exc_results_2/giso-2.pdf, id=40, 361.35pt x 361.35pt>
+<b.3-exc_results_2/giso-2.pdf, id=19, 361.35pt x 361.35pt>
 File: b.3-exc_results_2/giso-2.pdf Graphic file (type pdf)
 <use b.3-exc_results_2/giso-2.pdf>
 Package pdftex.def Info: b.3-exc_results_2/giso-2.pdf  used on input line 49.
 (pdftex.def)             Requested size: 159.333pt x 159.33083pt.
 )
-<ismeltingpaper_screen.png, id=42, 867.24pt x 426.59375pt>
+<ismeltingpaper_screen.png, id=21, 867.24pt x 426.59375pt>
 File: ismeltingpaper_screen.png Graphic file (type png)
 <use ismeltingpaper_screen.png>
 Package pdftex.def Info: ismeltingpaper_screen.png  used on input line 166.
 (pdftex.def)             Requested size: 237.30739pt x 116.73546pt.
  (./c.1-kt_msdintro/kt_msdintro.tex
 
-pdfTeX warning: pdflatex (file ./1.d-kt_msdintro/msd-supercooledliq-0.pdf): PDF
- inclusion: found PDF version <1.6>, but at most version <1.5> allowed
-<1.d-kt_msdintro/msd-supercooledliq-0.pdf, id=43, 610.04512pt x 719.2993pt>
-File: 1.d-kt_msdintro/msd-supercooledliq-0.pdf Graphic file (type pdf)
-<use 1.d-kt_msdintro/msd-supercooledliq-0.pdf>
-Package pdftex.def Info: 1.d-kt_msdintro/msd-supercooledliq-0.pdf  used on inpu
-t line 67.
-(pdftex.def)             Requested size: 148.49892pt x 175.10318pt.
+LaTeX Warning: File `1.d-kt_msdintro/msd-supercooledliq-0.pdf' not found on inp
+ut line 67.
 
 
-pdfTeX warning: pdflatex (file ./1.d-kt_msdintro/msd-supercooledliq-1.pdf): PDF
- inclusion: found PDF version <1.6>, but at most version <1.5> allowed
-<1.d-kt_msdintro/msd-supercooledliq-1.pdf, id=44, 610.04512pt x 719.2993pt>
-File: 1.d-kt_msdintro/msd-supercooledliq-1.pdf Graphic file (type pdf)
-<use 1.d-kt_msdintro/msd-supercooledliq-1.pdf>
-Package pdftex.def Info: 1.d-kt_msdintro/msd-supercooledliq-1.pdf  used on inpu
-t line 67.
-(pdftex.def)             Requested size: 148.49892pt x 175.10318pt.
+! Package pdftex.def Error: File `1.d-kt_msdintro/msd-supercooledliq-0.pdf' not
+ found: using draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.67 \end{frame}
+                
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
 
 
-pdfTeX warning: pdflatex (file ./1.d-kt_msdintro/msd-supercooledliq-2.pdf): PDF
- inclusion: found PDF version <1.6>, but at most version <1.5> allowed
-<1.d-kt_msdintro/msd-supercooledliq-2.pdf, id=45, 610.04512pt x 719.2993pt>
-File: 1.d-kt_msdintro/msd-supercooledliq-2.pdf Graphic file (type pdf)
-<use 1.d-kt_msdintro/msd-supercooledliq-2.pdf>
-Package pdftex.def Info: 1.d-kt_msdintro/msd-supercooledliq-2.pdf  used on inpu
-t line 67.
-(pdftex.def)             Requested size: 148.49892pt x 175.10318pt.
+Overfull \hbox (15.7797pt too wide) in paragraph at lines 67--67
+ [] 
+ []
 
 
-pdfTeX warning: pdflatex (file ./1.d-kt_msdintro/msd-supercooledliq-4.pdf): PDF
- inclusion: found PDF version <1.6>, but at most version <1.5> allowed
-<1.d-kt_msdintro/msd-supercooledliq-4.pdf, id=46, 610.04512pt x 719.2993pt>
-File: 1.d-kt_msdintro/msd-supercooledliq-4.pdf Graphic file (type pdf)
-<use 1.d-kt_msdintro/msd-supercooledliq-4.pdf>
-Package pdftex.def Info: 1.d-kt_msdintro/msd-supercooledliq-4.pdf  used on inpu
-t line 67.
-(pdftex.def)             Requested size: 148.49892pt x 175.10318pt.
-File: 1.d-kt_msdintro/msd-supercooledliq-5.pdf Graphic file (type pdf)
-<use 1.d-kt_msdintro/msd-supercooledliq-5.pdf>
-Package pdftex.def Info: 1.d-kt_msdintro/msd-supercooledliq-5.pdf  used on inpu
-t line 67.
-(pdftex.def)             Requested size: 148.49892pt x 175.10318pt.
+LaTeX Warning: File `1.d-kt_msdintro/msd-supercooledliq-1.pdf' not found on inp
+ut line 67.
+
+
+! Package pdftex.def Error: File `1.d-kt_msdintro/msd-supercooledliq-1.pdf' not
+ found: using draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.67 \end{frame}
+                
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \hbox (15.7797pt too wide) in paragraph at lines 67--67
+ [][] 
+ []
+
+
+LaTeX Warning: File `1.d-kt_msdintro/msd-supercooledliq-2.pdf' not found on inp
+ut line 67.
+
+
+! Package pdftex.def Error: File `1.d-kt_msdintro/msd-supercooledliq-2.pdf' not
+ found: using draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.67 \end{frame}
+                
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \hbox (15.7797pt too wide) in paragraph at lines 67--67
+ [][] 
+ []
+
+
+LaTeX Warning: File `1.d-kt_msdintro/msd-supercooledliq-4.pdf' not found on inp
+ut line 67.
+
+
+! Package pdftex.def Error: File `1.d-kt_msdintro/msd-supercooledliq-4.pdf' not
+ found: using draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.67 \end{frame}
+                
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \hbox (15.7797pt too wide) in paragraph at lines 67--67
+ [][] 
+ []
+
+
+LaTeX Warning: File `1.d-kt_msdintro/msd-supercooledliq-5.pdf' not found on inp
+ut line 67.
+
+
+! Package pdftex.def Error: File `1.d-kt_msdintro/msd-supercooledliq-5.pdf' not
+ found: using draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.67 \end{frame}
+                
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \hbox (15.7797pt too wide) in paragraph at lines 67--67
+ [][] 
+ []
+
 ) (./c.2-kt_geomcharges_1/kt_geomcharges.tex
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10> on input line 100.
+
+LaTeX Warning: File `3.d-kt_geomcharges/chargesequiv-2.pdf' not found on input 
+line 94.
 
 
-pdfTeX warning: pdflatex (file ./3.d-kt_geomcharges/chargesequiv-2.pdf): PDF in
-clusion: found PDF version <1.6>, but at most version <1.5> allowed
-<3.d-kt_geomcharges/chargesequiv-2.pdf, id=47, 589.43816pt x 198.39722pt>
-File: 3.d-kt_geomcharges/chargesequiv-2.pdf Graphic file (type pdf)
-<use 3.d-kt_geomcharges/chargesequiv-2.pdf>
-Package pdftex.def Info: 3.d-kt_geomcharges/chargesequiv-2.pdf  used on input l
-ine 100.
-(pdftex.def)             Requested size: 227.90553pt x 76.71161pt.
+! Package pdftex.def Error: File `3.d-kt_geomcharges/chargesequiv-2.pdf' not fo
+und: using draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.94 \end{frame}
+                
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
 
 
-pdfTeX warning: pdflatex (file ./3.d-kt_geomcharges/dipolemag.pdf): PDF inclusi
-on: found PDF version <1.6>, but at most version <1.5> allowed
-<3.d-kt_geomcharges/dipolemag.pdf, id=48, 313.17pt x 77.28876pt>
-File: 3.d-kt_geomcharges/dipolemag.pdf Graphic file (type pdf)
-<use 3.d-kt_geomcharges/dipolemag.pdf>
-Package pdftex.def Info: 3.d-kt_geomcharges/dipolemag.pdf  used on input line 1
-00.
-(pdftex.def)             Requested size: 132.94586pt x 32.81131pt.
+LaTeX Warning: File `3.d-kt_geomcharges/dipolemag.pdf' not found on input line 
+94.
+
+
+! Package pdftex.def Error: File `3.d-kt_geomcharges/dipolemag.pdf' not found: 
+using draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.94 \end{frame}
+                
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \hbox (13.2435pt too wide) detected at line 94
+[] \OT1/lmr/m/n/9 = [] \OMS/lmsy/m/n/9 ^^@ []
+ []
+
 ) (./c.6-kt_energyentropy/kt_energyentropy.tex
 
-pdfTeX warning: pdflatex (file ./4.d-kt_energyentropy/dofs_quadrupole-0.pdf): P
-DF inclusion: found PDF version <1.6>, but at most version <1.5> allowed
-<4.d-kt_energyentropy/dofs_quadrupole-0.pdf, id=49, 1016.3772pt x 331.00063pt>
-File: 4.d-kt_energyentropy/dofs_quadrupole-0.pdf Graphic file (type pdf)
-<use 4.d-kt_energyentropy/dofs_quadrupole-0.pdf>
-Package pdftex.def Info: 4.d-kt_energyentropy/dofs_quadrupole-0.pdf  used on in
-put line 44.
-(pdftex.def)             Requested size: 258.91765pt x 84.3207pt.
+LaTeX Warning: File `4.d-kt_energyentropy/dofs_quadrupole-0.pdf' not found on i
+nput line 48.
 
 
-pdfTeX warning: pdflatex (file ./4.d-kt_energyentropy/dofs_quadrupole-1.pdf): P
-DF inclusion: found PDF version <1.6>, but at most version <1.5> allowed
-<4.d-kt_energyentropy/dofs_quadrupole-1.pdf, id=50, 1016.3772pt x 331.00063pt>
-File: 4.d-kt_energyentropy/dofs_quadrupole-1.pdf Graphic file (type pdf)
-<use 4.d-kt_energyentropy/dofs_quadrupole-1.pdf>
-Package pdftex.def Info: 4.d-kt_energyentropy/dofs_quadrupole-1.pdf  used on in
-put line 44.
-(pdftex.def)             Requested size: 258.91765pt x 84.3207pt.
+! Package pdftex.def Error: File `4.d-kt_energyentropy/dofs_quadrupole-0.pdf' n
+ot found: using draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.48 \end{frame}
+                
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
 
 
-pdfTeX warning: pdflatex (file ./4.d-kt_energyentropy/dofs_quadrupole-3.pdf): P
-DF inclusion: found PDF version <1.6>, but at most version <1.5> allowed
-<4.d-kt_energyentropy/dofs_quadrupole-3.pdf, id=51, 1016.3772pt x 331.00063pt>
-File: 4.d-kt_energyentropy/dofs_quadrupole-3.pdf Graphic file (type pdf)
-<use 4.d-kt_energyentropy/dofs_quadrupole-3.pdf>
-Package pdftex.def Info: 4.d-kt_energyentropy/dofs_quadrupole-3.pdf  used on in
-put line 44.
-(pdftex.def)             Requested size: 258.91765pt x 84.3207pt.
+LaTeX Warning: File `4.d-kt_energyentropy/dofs_quadrupole-1.pdf' not found on i
+nput line 48.
+
+
+! Package pdftex.def Error: File `4.d-kt_energyentropy/dofs_quadrupole-1.pdf' n
+ot found: using draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.48 \end{frame}
+                
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+LaTeX Warning: File `4.d-kt_energyentropy/dofs_quadrupole-3.pdf' not found on i
+nput line 48.
+
+
+! Package pdftex.def Error: File `4.d-kt_energyentropy/dofs_quadrupole-3.pdf' n
+ot found: using draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.48 \end{frame}
+                
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <6> not available
+(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 48.
+LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <5> not available
+(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 48.
 ) (./c.7-kt_meltingscenario/kt_meltingscenario.tex
 
-pdfTeX warning: pdflatex (file ./5.d-kt_meltingscenario/mechanism-0.pdf): PDF i
-nclusion: found PDF version <1.6>, but at most version <1.5> allowed
-<5.d-kt_meltingscenario/mechanism-0.pdf, id=52, 938.12886pt x 648.62025pt>
-File: 5.d-kt_meltingscenario/mechanism-0.pdf Graphic file (type pdf)
-<use 5.d-kt_meltingscenario/mechanism-0.pdf>
-Package pdftex.def Info: 5.d-kt_meltingscenario/mechanism-0.pdf  used on input 
-line 48.
-(pdftex.def)             Requested size: 227.93257pt x 157.59357pt.
+LaTeX Warning: File `5.d-kt_meltingscenario/mechanism-0.pdf' not found on input
+ line 48.
 
 
-pdfTeX warning: pdflatex (file ./5.d-kt_meltingscenario/mechanism-1.pdf): PDF i
-nclusion: found PDF version <1.6>, but at most version <1.5> allowed
-<5.d-kt_meltingscenario/mechanism-1.pdf, id=53, 938.12886pt x 648.62025pt>
-File: 5.d-kt_meltingscenario/mechanism-1.pdf Graphic file (type pdf)
-<use 5.d-kt_meltingscenario/mechanism-1.pdf>
-Package pdftex.def Info: 5.d-kt_meltingscenario/mechanism-1.pdf  used on input 
-line 48.
-(pdftex.def)             Requested size: 227.93257pt x 157.59357pt.
+! Package pdftex.def Error: File `5.d-kt_meltingscenario/mechanism-0.pdf' not f
+ound: using draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.48 \end{frame}
+                
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+LaTeX Warning: File `5.d-kt_meltingscenario/mechanism-1.pdf' not found on input
+ line 48.
+
+
+! Package pdftex.def Error: File `5.d-kt_meltingscenario/mechanism-1.pdf' not f
+ound: using draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.48 \end{frame}
+                
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
 ) (./c.8-kt_results_1/kt_results.tex
-LaTeX Font Info:    Trying to load font information for T1+lmtt on input line 1
-24.
 
-(/usr/local/texlive/2022/texmf-dist/tex/latex/lm/t1lmtt.fd
-File: t1lmtt.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
-)
+LaTeX Warning: File `7.d-kt_results/new-mechanism-0.pdf' not found on input lin
+e 124.
 
-pdfTeX warning: pdflatex (file ./7.d-kt_results/new-mechanism-0.pdf): PDF inclu
-sion: found PDF version <1.6>, but at most version <1.5> allowed
-<7.d-kt_results/new-mechanism-0.pdf, id=54, 460.31874pt x 581.10202pt>
-File: 7.d-kt_results/new-mechanism-0.pdf Graphic file (type pdf)
-<use 7.d-kt_results/new-mechanism-0.pdf>
-Package pdftex.def Info: 7.d-kt_results/new-mechanism-0.pdf  used on input line
- 124.
-(pdftex.def)             Requested size: 124.83557pt x 157.59357pt.
+
+! Package pdftex.def Error: File `7.d-kt_results/new-mechanism-0.pdf' not found
+: using draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.124 \end{frame}
+                 
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
 
 Overfull \hbox (0.58324pt too wide) detected at line 124
 []
  []
 
 ) (./c.10-kt_merminwagner_1/kt_merminwagner.tex
-<8.d-kt_merminwagner/merminwagner_comparison_0.pdf, id=55, 325.215pt x 198.7425
-pt>
-File: 8.d-kt_merminwagner/merminwagner_comparison_0.pdf Graphic file (type pdf)
 
-<use 8.d-kt_merminwagner/merminwagner_comparison_0.pdf>
-Package pdftex.def Info: 8.d-kt_merminwagner/merminwagner_comparison_0.pdf  use
-d on input line 38.
-(pdftex.def)             Requested size: 191.02661pt x 116.73546pt.
-<8.d-kt_merminwagner/merminwagner_comparison_1.pdf, id=56, 325.215pt x 198.7425
-pt>
-File: 8.d-kt_merminwagner/merminwagner_comparison_1.pdf Graphic file (type pdf)
+LaTeX Warning: File `8.d-kt_merminwagner/merminwagner_comparison_0.pdf' not fou
+nd on input line 38.
 
-<use 8.d-kt_merminwagner/merminwagner_comparison_1.pdf>
-Package pdftex.def Info: 8.d-kt_merminwagner/merminwagner_comparison_1.pdf  use
-d on input line 38.
-(pdftex.def)             Requested size: 191.02661pt x 116.73546pt.
+
+! Package pdftex.def Error: File `8.d-kt_merminwagner/merminwagner_comparison_0
+.pdf' not found: using draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.38 \end{frame}
+                
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+LaTeX Warning: File `8.d-kt_merminwagner/merminwagner_comparison_1.pdf' not fou
+nd on input line 38.
+
+
+! Package pdftex.def Error: File `8.d-kt_merminwagner/merminwagner_comparison_1
+.pdf' not found: using draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.38 \end{frame}
+                
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
 ) (./c.13-kt_keim_1/kt_keim.tex
-<9.d-kt_keim/Yrenorm_poly12.pdf, id=57, 325.215pt x 325.215pt>
-File: 9.d-kt_keim/Yrenorm_poly12.pdf Graphic file (type pdf)
-<use 9.d-kt_keim/Yrenorm_poly12.pdf>
-Package pdftex.def Info: 9.d-kt_keim/Yrenorm_poly12.pdf  used on input line 130
-.
-(pdftex.def)             Requested size: 151.75934pt x 151.75467pt.
+
+LaTeX Warning: File `9.d-kt_keim/Yrenorm_poly12.pdf' not found on input line 13
+0.
 
 
-pdfTeX warning: pdflatex (file ./9.d-kt_keim/keim_setup_0.pdf): PDF inclusion: 
-found PDF version <1.6>, but at most version <1.5> allowed
-<9.d-kt_keim/keim_setup_0.pdf, id=58, 651.43375pt x 274.02374pt>
-File: 9.d-kt_keim/keim_setup_0.pdf Graphic file (type pdf)
-<use 9.d-kt_keim/keim_setup_0.pdf>
-Package pdftex.def Info: 9.d-kt_keim/keim_setup_0.pdf  used on input line 130.
-(pdftex.def)             Requested size: 169.2951pt x 71.21103pt.
+! Package pdftex.def Error: File `9.d-kt_keim/Yrenorm_poly12.pdf' not found: us
+ing draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.130 \end{frame}
+                 
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
 
 
-pdfTeX warning: pdflatex (file ./9.d-kt_keim/keim_setup_1.pdf): PDF inclusion: 
-found PDF version <1.6>, but at most version <1.5> allowed
-<9.d-kt_keim/keim_setup_1.pdf, id=59, 651.43375pt x 274.02374pt>
-File: 9.d-kt_keim/keim_setup_1.pdf Graphic file (type pdf)
-<use 9.d-kt_keim/keim_setup_1.pdf>
-Package pdftex.def Info: 9.d-kt_keim/keim_setup_1.pdf  used on input line 130.
-(pdftex.def)             Requested size: 169.2951pt x 71.21103pt.
-File: 9.d-kt_keim/keim_setup_1.pdf Graphic file (type pdf)
-<use 9.d-kt_keim/keim_setup_1.pdf>
-Package pdftex.def Info: 9.d-kt_keim/keim_setup_1.pdf  used on input line 130.
-(pdftex.def)             Requested size: 169.2951pt x 71.21103pt.
+LaTeX Warning: File `9.d-kt_keim/keim_setup_0.pdf' not found on input line 130.
 
 
-pdfTeX warning: pdflatex (file ./9.d-kt_keim/keim_setup_2.pdf): PDF inclusion: 
-found PDF version <1.6>, but at most version <1.5> allowed
-<9.d-kt_keim/keim_setup_2.pdf, id=60, 651.43375pt x 274.02374pt>
-File: 9.d-kt_keim/keim_setup_2.pdf Graphic file (type pdf)
-<use 9.d-kt_keim/keim_setup_2.pdf>
-Package pdftex.def Info: 9.d-kt_keim/keim_setup_2.pdf  used on input line 130.
-(pdftex.def)             Requested size: 169.2951pt x 71.21103pt.
-<9.d-kt_keim/YRG_keim_exp_0.pdf, id=61, 309.905pt x 311.32748pt>
-File: 9.d-kt_keim/YRG_keim_exp_0.pdf Graphic file (type pdf)
-<use 9.d-kt_keim/YRG_keim_exp_0.pdf>
-Package pdftex.def Info: 9.d-kt_keim/YRG_keim_exp_0.pdf  used on input line 130
-.
-(pdftex.def)             Requested size: 151.06506pt x 151.75467pt.
-<9.d-kt_keim/YRG_keim_exp_1.pdf, id=62, 309.905pt x 311.32748pt>
-File: 9.d-kt_keim/YRG_keim_exp_1.pdf Graphic file (type pdf)
-<use 9.d-kt_keim/YRG_keim_exp_1.pdf>
-Package pdftex.def Info: 9.d-kt_keim/YRG_keim_exp_1.pdf  used on input line 130
-.
-(pdftex.def)             Requested size: 151.06506pt x 151.75467pt.
-<9.d-kt_keim/YRG_keim.pdf, id=63, 346.04pt x 346.97318pt>
-File: 9.d-kt_keim/YRG_keim.pdf Graphic file (type pdf)
-<use 9.d-kt_keim/YRG_keim.pdf>
-Package pdftex.def Info: 9.d-kt_keim/YRG_keim.pdf  used on input line 130.
-(pdftex.def)             Requested size: 151.34459pt x 151.75467pt.
-LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <6> not available
-(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 130.
-LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <5> not available
-(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 130.
-<9.d-kt_keim/YRG_keim_closeup.pdf, id=64, 271.0125pt x 361.35pt>
-File: 9.d-kt_keim/YRG_keim_closeup.pdf Graphic file (type pdf)
-<use 9.d-kt_keim/YRG_keim_closeup.pdf>
-Package pdftex.def Info: 9.d-kt_keim/YRG_keim_closeup.pdf  used on input line 1
-30.
-(pdftex.def)             Requested size: 131.32924pt x 175.10318pt.
-<9.d-kt_keim/msd_keim.png, id=65, 621.32124pt x 436.63126pt>
-File: 9.d-kt_keim/msd_keim.png Graphic file (type png)
-<use 9.d-kt_keim/msd_keim.png>
-Package pdftex.def Info: 9.d-kt_keim/msd_keim.png  used on input line 130.
-(pdftex.def)             Requested size: 169.2951pt x 118.97133pt.
-<9.d-kt_keim/msd_keim_1.png, id=66, 621.32124pt x 436.63126pt>
-File: 9.d-kt_keim/msd_keim_1.png Graphic file (type png)
-<use 9.d-kt_keim/msd_keim_1.png>
-Package pdftex.def Info: 9.d-kt_keim/msd_keim_1.png  used on input line 130.
-(pdftex.def)             Requested size: 169.2951pt x 118.97133pt.
-File: 9.d-kt_keim/YRG_keim_closeup.pdf Graphic file (type pdf)
-<use 9.d-kt_keim/YRG_keim_closeup.pdf>
-Package pdftex.def Info: 9.d-kt_keim/YRG_keim_closeup.pdf  used on input line 1
-30.
-(pdftex.def)             Requested size: 131.32924pt x 175.10318pt.
+
+! Package pdftex.def Error: File `9.d-kt_keim/keim_setup_0.pdf' not found: usin
+g draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.130 \end{frame}
+                 
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+LaTeX Warning: File `9.d-kt_keim/keim_setup_1.pdf' not found on input line 130.
+
+
+
+! Package pdftex.def Error: File `9.d-kt_keim/keim_setup_1.pdf' not found: usin
+g draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.130 \end{frame}
+                 
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+LaTeX Warning: File `9.d-kt_keim/keim_setup_1.pdf' not found on input line 130.
+
+
+
+! Package pdftex.def Error: File `9.d-kt_keim/keim_setup_1.pdf' not found: usin
+g draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.130 \end{frame}
+                 
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+LaTeX Warning: File `9.d-kt_keim/keim_setup_2.pdf' not found on input line 130.
+
+
+
+! Package pdftex.def Error: File `9.d-kt_keim/keim_setup_2.pdf' not found: usin
+g draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.130 \end{frame}
+                 
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+LaTeX Warning: File `9.d-kt_keim/YRG_keim_exp_0.pdf' not found on input line 13
+0.
+
+
+! Package pdftex.def Error: File `9.d-kt_keim/YRG_keim_exp_0.pdf' not found: us
+ing draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.130 \end{frame}
+                 
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+LaTeX Warning: File `9.d-kt_keim/YRG_keim_exp_1.pdf' not found on input line 13
+0.
+
+
+! Package pdftex.def Error: File `9.d-kt_keim/YRG_keim_exp_1.pdf' not found: us
+ing draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.130 \end{frame}
+                 
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+LaTeX Warning: File `9.d-kt_keim/YRG_keim.pdf' not found on input line 130.
+
+
+! Package pdftex.def Error: File `9.d-kt_keim/YRG_keim.pdf' not found: using dr
+aft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.130 \end{frame}
+                 
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+LaTeX Warning: File `9.d-kt_keim/YRG_keim_closeup.pdf' not found on input line 
+130.
+
+
+! Package pdftex.def Error: File `9.d-kt_keim/YRG_keim_closeup.pdf' not found: 
+using draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.130 \end{frame}
+                 
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \hbox (5.81758pt too wide) in paragraph at lines 130--130
+ [][] 
+ []
+
+
+LaTeX Warning: File `9.d-kt_keim/msd_keim.png' not found on input line 130.
+
+
+! Package pdftex.def Error: File `9.d-kt_keim/msd_keim.png' not found: using dr
+aft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.130 \end{frame}
+                 
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+LaTeX Warning: File `9.d-kt_keim/msd_keim_1.png' not found on input line 130.
+
+
+! Package pdftex.def Error: File `9.d-kt_keim/msd_keim_1.png' not found: using 
+draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.130 \end{frame}
+                 
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+LaTeX Warning: File `9.d-kt_keim/YRG_keim_closeup.pdf' not found on input line 
+130.
+
+
+! Package pdftex.def Error: File `9.d-kt_keim/YRG_keim_closeup.pdf' not found: 
+using draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.130 \end{frame}
+                 
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \hbox (5.81758pt too wide) in paragraph at lines 130--130
+ [][] 
+ []
+
 ) (./c.15-kt_spatialcorrel/kt_spatialcorrel.tex
-<10.d-kt_spatialcorrel/spatialcorrel.pdf, id=67, 700.83934pt x 734.88254pt>
-File: 10.d-kt_spatialcorrel/spatialcorrel.pdf Graphic file (type pdf)
-<use 10.d-kt_spatialcorrel/spatialcorrel.pdf>
-Package pdftex.def Info: 10.d-kt_spatialcorrel/spatialcorrel.pdf  used on input
- line 44.
-(pdftex.def)             Requested size: 166.98576pt x 175.10318pt.
+
+LaTeX Warning: File `10.d-kt_spatialcorrel/spatialcorrel.pdf' not found on inpu
+t line 44.
+
+
+! Package pdftex.def Error: File `10.d-kt_spatialcorrel/spatialcorrel.pdf' not 
+found: using draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.44 \end{frame}
+                
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
 ) (./d.1-fac_intro/fac_intro.tex
 
-pdfTeX warning: pdflatex (file ./1.c-fac_intro/interlude1.pdf): PDF inclusion: 
-found PDF version <1.6>, but at most version <1.5> allowed
-<1.c-fac_intro/interlude1.pdf, id=68, 250.53499pt x 225.38202pt>
-File: 1.c-fac_intro/interlude1.pdf Graphic file (type pdf)
-<use 1.c-fac_intro/interlude1.pdf>
-Package pdftex.def Info: 1.c-fac_intro/interlude1.pdf  used on input line 60.
-(pdftex.def)             Requested size: 194.19127pt x 174.69676pt.
+LaTeX Warning: File `1.c-fac_intro/interlude1.pdf' not found on input line 60.
 
 
-pdfTeX warning: pdflatex (file ./1.c-fac_intro/interlude2.pdf): PDF inclusion: 
-found PDF version <1.6>, but at most version <1.5> allowed
-<1.c-fac_intro/interlude2.pdf, id=69, 250.53499pt x 225.38202pt>
-File: 1.c-fac_intro/interlude2.pdf Graphic file (type pdf)
-<use 1.c-fac_intro/interlude2.pdf>
-Package pdftex.def Info: 1.c-fac_intro/interlude2.pdf  used on input line 60.
-(pdftex.def)             Requested size: 194.19127pt x 174.69676pt.
+! Package pdftex.def Error: File `1.c-fac_intro/interlude1.pdf' not found: usin
+g draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.60 \end{frame}
+                
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
 
 
-pdfTeX warning: pdflatex (file ./1.c-fac_intro/bare_test_0.pdf): PDF inclusion:
- found PDF version <1.6>, but at most version <1.5> allowed
-<1.c-fac_intro/bare_test_0.pdf, id=70, 361.35pt x 361.35pt>
-File: 1.c-fac_intro/bare_test_0.pdf Graphic file (type pdf)
-<use 1.c-fac_intro/bare_test_0.pdf>
-Package pdftex.def Info: 1.c-fac_intro/bare_test_0.pdf  used on input line 60.
-(pdftex.def)             Requested size: 189.21022pt x 189.20984pt.
+LaTeX Warning: File `1.c-fac_intro/interlude2.pdf' not found on input line 60.
 
 
-pdfTeX warning: pdflatex (file ./1.c-fac_intro/bare_test_3.pdf): PDF inclusion:
- found PDF version <1.6>, but at most version <1.5> allowed
-<1.c-fac_intro/bare_test_3.pdf, id=71, 361.35pt x 361.35pt>
-File: 1.c-fac_intro/bare_test_3.pdf Graphic file (type pdf)
-<use 1.c-fac_intro/bare_test_3.pdf>
-Package pdftex.def Info: 1.c-fac_intro/bare_test_3.pdf  used on input line 60.
-(pdftex.def)             Requested size: 189.21022pt x 189.20984pt.
+! Package pdftex.def Error: File `1.c-fac_intro/interlude2.pdf' not found: usin
+g draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.60 \end{frame}
+                
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
 
 
-pdfTeX warning: pdflatex (file ./1.c-fac_intro/test_3.pdf): PDF inclusion: foun
-d PDF version <1.6>, but at most version <1.5> allowed
-<1.c-fac_intro/test_3.pdf, id=72, 361.35pt x 361.35pt>
-File: 1.c-fac_intro/test_3.pdf Graphic file (type pdf)
-<use 1.c-fac_intro/test_3.pdf>
-Package pdftex.def Info: 1.c-fac_intro/test_3.pdf  used on input line 60.
-(pdftex.def)             Requested size: 189.21022pt x 189.20984pt.
+LaTeX Warning: File `1.c-fac_intro/bare_test_0.pdf' not found on input line 60.
 
 
-pdfTeX warning: pdflatex (file ./1.c-fac_intro/test_6.pdf): PDF inclusion: foun
-d PDF version <1.6>, but at most version <1.5> allowed
-<1.c-fac_intro/test_6.pdf, id=73, 361.35pt x 361.35pt>
-File: 1.c-fac_intro/test_6.pdf Graphic file (type pdf)
-<use 1.c-fac_intro/test_6.pdf>
-Package pdftex.def Info: 1.c-fac_intro/test_6.pdf  used on input line 60.
-(pdftex.def)             Requested size: 189.21022pt x 189.20984pt.
+
+! Package pdftex.def Error: File `1.c-fac_intro/bare_test_0.pdf' not found: usi
+ng draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.60 \end{frame}
+                
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+LaTeX Warning: File `1.c-fac_intro/bare_test_3.pdf' not found on input line 60.
+
+
+
+! Package pdftex.def Error: File `1.c-fac_intro/bare_test_3.pdf' not found: usi
+ng draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.60 \end{frame}
+                
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+LaTeX Warning: File `1.c-fac_intro/test_3.pdf' not found on input line 60.
+
+
+! Package pdftex.def Error: File `1.c-fac_intro/test_3.pdf' not found: using dr
+aft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.60 \end{frame}
+                
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+LaTeX Warning: File `1.c-fac_intro/test_6.pdf' not found on input line 60.
+
+
+! Package pdftex.def Error: File `1.c-fac_intro/test_6.pdf' not found: using dr
+aft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.60 \end{frame}
+                
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
 ) (./d.2-fac_intrc_1/fac_intrc.tex) (./d.4-fac_results_1/fac_results_1.tex
-<d.4-fac_results_1/displowT3.png, id=76, 501.875pt x 501.875pt>
+<d.4-fac_results_1/displowT3.png, id=24, 501.875pt x 501.875pt>
 File: d.4-fac_results_1/displowT3.png Graphic file (type png)
 <use d.4-fac_results_1/displowT3.png>
 Package pdftex.def Info: d.4-fac_results_1/displowT3.png  used on input line 42
@@ -2535,12 +3090,12 @@ Package pdftex.def Info: d.4-fac_results_1/displowT3.png  used on input line 42
 
 pdfTeX warning: pdflatex (file ./d.4-fac_results_1/out-700.pdf): PDF inclusion:
  found PDF version <1.6>, but at most version <1.5> allowed
-<d.4-fac_results_1/out-700.pdf, id=95, 1447.22678pt x 718.12689pt>
+<d.4-fac_results_1/out-700.pdf, id=43, 1447.22678pt x 718.12689pt>
 File: d.4-fac_results_1/out-700.pdf Graphic file (type pdf)
 <use d.4-fac_results_1/out-700.pdf>
 Package pdftex.def Info: d.4-fac_results_1/out-700.pdf  used on input line 42.
 (pdftex.def)             Requested size: 199.1693pt x 98.82767pt.
-<d.4-fac_results_1/persistlowT3.png, id=96, 501.875pt x 501.875pt>
+<d.4-fac_results_1/persistlowT3.png, id=44, 501.875pt x 501.875pt>
 File: d.4-fac_results_1/persistlowT3.png Graphic file (type png)
 <use d.4-fac_results_1/persistlowT3.png>
 Package pdftex.def Info: d.4-fac_results_1/persistlowT3.png  used on input line
@@ -2550,7 +3105,7 @@ Package pdftex.def Info: d.4-fac_results_1/persistlowT3.png  used on input line
 
 pdfTeX warning: pdflatex (file ./d.4-fac_results_1/persout-012.pdf): PDF inclus
 ion: found PDF version <1.6>, but at most version <1.5> allowed
-<d.4-fac_results_1/persout-012.pdf, id=109, 1681.22096pt x 884.2415pt>
+<d.4-fac_results_1/persout-012.pdf, id=57, 1681.22096pt x 884.2415pt>
 File: d.4-fac_results_1/persout-012.pdf Graphic file (type pdf)
 <use d.4-fac_results_1/persout-012.pdf>
 Package pdftex.def Info: d.4-fac_results_1/persout-012.pdf  used on input line 
@@ -2560,7 +3115,7 @@ Package pdftex.def Info: d.4-fac_results_1/persout-012.pdf  used on input line
 
 pdfTeX warning: pdflatex (file ./d.5-fac_results_2/surveyresults1.pdf): PDF inc
 lusion: found PDF version <1.6>, but at most version <1.5> allowed
-<d.5-fac_results_2/surveyresults1.pdf, id=110, 1003.75pt x 616.3025pt>
+<d.5-fac_results_2/surveyresults1.pdf, id=58, 1003.75pt x 616.3025pt>
 File: d.5-fac_results_2/surveyresults1.pdf Graphic file (type pdf)
 <use d.5-fac_results_2/surveyresults1.pdf>
 Package pdftex.def Info: d.5-fac_results_2/surveyresults1.pdf  used on input li
@@ -2570,7 +3125,7 @@ ne 11.
 
 pdfTeX warning: pdflatex (file ./d.5-fac_results_2/surveyresults2.pdf): PDF inc
 lusion: found PDF version <1.6>, but at most version <1.5> allowed
-<d.5-fac_results_2/surveyresults2.pdf, id=111, 1003.75pt x 616.3025pt>
+<d.5-fac_results_2/surveyresults2.pdf, id=59, 1003.75pt x 616.3025pt>
 File: d.5-fac_results_2/surveyresults2.pdf Graphic file (type pdf)
 <use d.5-fac_results_2/surveyresults2.pdf>
 Package pdftex.def Info: d.5-fac_results_2/surveyresults2.pdf  used on input li
@@ -2580,7 +3135,7 @@ ne 11.
 
 pdfTeX warning: pdflatex (file ./d.5-fac_results_2/surveyresults3.pdf): PDF inc
 lusion: found PDF version <1.6>, but at most version <1.5> allowed
-<d.5-fac_results_2/surveyresults3.pdf, id=112, 1003.75pt x 616.3025pt>
+<d.5-fac_results_2/surveyresults3.pdf, id=60, 1003.75pt x 616.3025pt>
 File: d.5-fac_results_2/surveyresults3.pdf Graphic file (type pdf)
 <use d.5-fac_results_2/surveyresults3.pdf>
 Package pdftex.def Info: d.5-fac_results_2/surveyresults3.pdf  used on input li
@@ -2590,7 +3145,7 @@ ne 11.
 
 pdfTeX warning: pdflatex (file ./d.5-fac_results_2/surveyresults.pdf): PDF incl
 usion: found PDF version <1.6>, but at most version <1.5> allowed
-<d.5-fac_results_2/surveyresults.pdf, id=113, 1003.75pt x 616.3025pt>
+<d.5-fac_results_2/surveyresults.pdf, id=61, 1003.75pt x 616.3025pt>
 File: d.5-fac_results_2/surveyresults.pdf Graphic file (type pdf)
 <use d.5-fac_results_2/surveyresults.pdf>
 Package pdftex.def Info: d.5-fac_results_2/surveyresults.pdf  used on input lin
@@ -2600,7 +3155,7 @@ e 11.
 
 pdfTeX warning: pdflatex (file ./d.6-fac_results_3/pes.pdf): PDF inclusion: fou
 nd PDF version <1.6>, but at most version <1.5> allowed
-<d.6-fac_results_3/pes.pdf, id=114, 250.53499pt x 102.75087pt>
+<d.6-fac_results_3/pes.pdf, id=62, 250.53499pt x 102.75087pt>
 File: d.6-fac_results_3/pes.pdf Graphic file (type pdf)
 <use d.6-fac_results_3/pes.pdf>
 Package pdftex.def Info: d.6-fac_results_3/pes.pdf  used on input line 63.
@@ -2609,7 +3164,7 @@ Package pdftex.def Info: d.6-fac_results_3/pes.pdf  used on input line 63.
 
 pdfTeX warning: pdflatex (file ./d.6-fac_results_3/newmsdphonons0.pdf): PDF inc
 lusion: found PDF version <1.6>, but at most version <1.5> allowed
-<d.6-fac_results_3/newmsdphonons0.pdf, id=115, 363.50906pt x 346.92612pt>
+<d.6-fac_results_3/newmsdphonons0.pdf, id=63, 363.50906pt x 346.92612pt>
 File: d.6-fac_results_3/newmsdphonons0.pdf Graphic file (type pdf)
 <use d.6-fac_results_3/newmsdphonons0.pdf>
 Package pdftex.def Info: d.6-fac_results_3/newmsdphonons0.pdf  used on input li
@@ -2619,7 +3174,7 @@ ne 63.
 
 pdfTeX warning: pdflatex (file ./d.6-fac_results_3/ismsdmd.pdf): PDF inclusion:
  found PDF version <1.6>, but at most version <1.5> allowed
-<d.6-fac_results_3/ismsdmd.pdf, id=116, 596.74144pt x 453.695pt>
+<d.6-fac_results_3/ismsdmd.pdf, id=64, 596.74144pt x 453.695pt>
 File: d.6-fac_results_3/ismsdmd.pdf Graphic file (type pdf)
 <use d.6-fac_results_3/ismsdmd.pdf>
 Package pdftex.def Info: d.6-fac_results_3/ismsdmd.pdf  used on input line 63.
@@ -2628,52 +3183,93 @@ Package pdftex.def Info: d.6-fac_results_3/ismsdmd.pdf  used on input line 63.
 
 pdfTeX warning: pdflatex (file ./d.6-fac_results_3/newmsdphonons1.pdf): PDF inc
 lusion: found PDF version <1.6>, but at most version <1.5> allowed
-<d.6-fac_results_3/newmsdphonons1.pdf, id=117, 274.43327pt x 182.54799pt>
+<d.6-fac_results_3/newmsdphonons1.pdf, id=65, 274.43327pt x 182.54799pt>
 File: d.6-fac_results_3/newmsdphonons1.pdf Graphic file (type pdf)
 <use d.6-fac_results_3/newmsdphonons1.pdf>
 Package pdftex.def Info: d.6-fac_results_3/newmsdphonons1.pdf  used on input li
 ne 63.
 (pdftex.def)             Requested size: 274.43259pt x 182.54753pt.
 ) (./e.1-acknowledgements/acknowledgements.tex
-<acknowledgements/index.jpg, id=118, 218.8175pt x 123.46124pt>
+<acknowledgements/index.jpg, id=66, 218.8175pt x 123.46124pt>
 File: acknowledgements/index.jpg Graphic file (type jpg)
 <use acknowledgements/index.jpg>
 Package pdftex.def Info: acknowledgements/index.jpg  used on input line 39.
 (pdftex.def)             Requested size: 98.58943pt x 55.62674pt.
-<acknowledgements/image912.png, id=119, 195.63489pt x 96.69727pt>
+<acknowledgements/image912.png, id=67, 195.63489pt x 96.69727pt>
 File: acknowledgements/image912.png Graphic file (type png)
 <use acknowledgements/image912.png>
 Package pdftex.def Info: acknowledgements/image912.png  used on input line 39.
 (pdftex.def)             Requested size: 95.60258pt x 47.2537pt.
-File: 2.a-intro_dftheory/DF_Theory_Excitations_Zoom_2.pdf Graphic file (type pd
-f)
-<use 2.a-intro_dftheory/DF_Theory_Excitations_Zoom_2.pdf>
-Package pdftex.def Info: 2.a-intro_dftheory/DF_Theory_Excitations_Zoom_2.pdf  u
-sed on input line 39.
-(pdftex.def)             Requested size: 104.61705pt x 128.40971pt.
-<3.c-fac_results/persistlowT3.png, id=120, 501.875pt x 501.875pt>
-File: 3.c-fac_results/persistlowT3.png Graphic file (type png)
-<use 3.c-fac_results/persistlowT3.png>
-Package pdftex.def Info: 3.c-fac_results/persistlowT3.png  used on input line 3
-9.
-(pdftex.def)             Requested size: 128.4091pt x 128.40971pt.
+
+
+LaTeX Warning: File `2.a-intro_dftheory/DF_Theory_Excitations_Zoom_2.pdf' not f
+ound on input line 39.
+
+
+! Package pdftex.def Error: File `2.a-intro_dftheory/DF_Theory_Excitations_Zoom
+_2.pdf' not found: using draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.39 \end{frame}
+                
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+LaTeX Warning: File `3.c-fac_results/persistlowT3.png' not found on input line 
+39.
+
+
+! Package pdftex.def Error: File `3.c-fac_results/persistlowT3.png' not found: 
+using draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.39 \end{frame}
+                
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
 )
-<3.c-fac_results/persistlowT.jpg, id=121, 501.875pt x 501.875pt>
-File: 3.c-fac_results/persistlowT.jpg Graphic file (type jpg)
-<use 3.c-fac_results/persistlowT.jpg>
-Package pdftex.def Info: 3.c-fac_results/persistlowT.jpg  used on input line 22
-2.
-(pdftex.def)             Requested size: 192.6128pt x 192.61365pt.
+
+LaTeX Warning: File `3.c-fac_results/persistlowT.jpg' not found on input line 2
+22.
 
 
-pdfTeX warning: pdflatex (file ./1.c-fac_intro/taubwithirrev.pdf): PDF inclusio
-n: found PDF version <1.6>, but at most version <1.5> allowed
-<1.c-fac_intro/taubwithirrev.pdf, id=122, 262.38025pt x 277.9153pt>
-File: 1.c-fac_intro/taubwithirrev.pdf Graphic file (type pdf)
-<use 1.c-fac_intro/taubwithirrev.pdf>
-Package pdftex.def Info: 1.c-fac_intro/taubwithirrev.pdf  used on input line 22
-2.
-(pdftex.def)             Requested size: 154.29454pt x 163.42892pt.
+! Package pdftex.def Error: File `3.c-fac_results/persistlowT.jpg' not found: u
+sing draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.222 \end{frame}
+                 
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+LaTeX Warning: File `1.c-fac_intro/taubwithirrev.pdf' not found on input line 2
+22.
+
+
+! Package pdftex.def Error: File `1.c-fac_intro/taubwithirrev.pdf' not found: u
+sing draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.222 \end{frame}
+                 
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
 \tf@nav=\write8
 \openout8 = `presentation_temp.nav'.
 
@@ -2691,11 +3287,11 @@ Package logreq Info: Writing requests to 'presentation_temp.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 51495 strings out of 478268
- 1189150 string characters out of 5846347
- 2008862 words of memory out of 5000000
- 68541 multiletter control sequences out of 15000+600000
- 575077 words of font info for 126 fonts, out of 8000000 for 9000
+ 52865 strings out of 478268
+ 1249284 string characters out of 5846347
+ 2008866 words of memory out of 5000000
+ 69851 multiletter control sequences out of 15000+600000
+ 570078 words of font info for 117 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  128i,23n,122p,1840b,1187s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
@@ -2704,8 +3300,8 @@ No pages of output.
 pdfTeX warning: pdflatex: dangling objects discarded, no output file produced.
 
 PDF statistics:
- 122 PDF objects out of 1000 (max. 8388607)
+ 67 PDF objects out of 1000 (max. 8388607)
  24 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 529 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 254 words of extra memory for PDF output out of 10000 (max. 10000000)
 

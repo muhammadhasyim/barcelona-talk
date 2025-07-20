@@ -438,142 +438,89 @@ enefit from \pgfplotsset{compat=1.18} (current compat level: 1.9).
 Overfull \vbox (18.28288pt too high) detected at line 142
 [1{/usr/local/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
 (./a.1-intro_quickglassy/intro_quickglassy.tex
-
-pdfTeX warning: pdflatex (file ./3.a-intro_dh/gr_poly12_single-1.pdf): PDF incl
-usion: found PDF version <1.6>, but at most version <1.5> allowed
-
 Overfull \vbox (22.08557pt too high) detected at line 84
 [2]
 Overfull \vbox (22.98206pt too high) detected at line 84
 [3 <./intro_glassy/timerelax_b2o3_4.pdf>]
 Overfull \vbox (22.98206pt too high) detected at line 84
-[4 <./3.a-intro_dh/softspots_220.png>]
+[4 <./intro_glassy/softspots_280.png>]
 Overfull \vbox (22.98206pt too high) detected at line 84
-[5 <./intro_glassy/softspots_280.png>]
+[5]
 Overfull \vbox (22.98206pt too high) detected at line 84
-[6 <./3.a-intro_dh/poly12_lowT.png>]
+[6 <./intro_glassy/timerelax_poly12_0.pdf>]
 Overfull \vbox (22.98206pt too high) detected at line 84
-[7 <./3.a-intro_dh/gr_poly12_single-1.pdf>])
+[7 <./intro_glassy/timerelax_poly12_1.pdf>])
 (./a.2-intro_dftheory/intro_dftheory.tex
 Overfull \vbox (15.47429pt too high) detected at line 51
 [8]
 Overfull \vbox (15.47429pt too high) detected at line 51
-[9 <./2.a-intro_dftheory/DF_Theory_Excitations_Zoom_0.pdf>]
+[9 <./a.2-intro_dftheory/DF_Theory_Excitations_Zoom_0.pdf>]
 Overfull \vbox (15.47429pt too high) detected at line 51
-[10 <./2.a-intro_dftheory/DF_Theory_Excitations_Zoom_1.pdf>]
+[10 <./a.2-intro_dftheory/DF_Theory_Excitations_Zoom_1.pdf>]
 Overfull \vbox (15.47429pt too high) detected at line 51
-[11 <./2.a-intro_dftheory/DF_Theory_Excitations_Zoom_2.pdf>]
+[11 <./a.2-intro_dftheory/DF_Theory_Excitations_Zoom_2.pdf>]
 Overfull \vbox (15.47429pt too high) detected at line 51
-[12 <./2.a-intro_dftheory/facilitation_closer_1.pdf>]
+[12 <./a.2-intro_dftheory/facilitation_closer_1.pdf>]
 Overfull \vbox (15.47429pt too high) detected at line 51
-[13 <./2.a-intro_dftheory/facilitation_closer_2.pdf>])
+[13 <./a.2-intro_dftheory/facilitation_closer_2.pdf>])
 (./a.3-edf_overview/intermezzo.tex
 
-pdfTeX warning: pdflatex (file ./1.d-kt_msdintro/msd-supercooledliq-5.pdf): PDF
+pdfTeX warning: pdflatex (file ./c.1-kt_msdintro/msd-supercooledliq-5.pdf): PDF
  inclusion: found PDF version <1.6>, but at most version <1.5> allowed
 
 Overfull \vbox (93.47206pt too high) detected at line 54
-[14 <./1.d-kt_msdintro/msd-supercooledliq-5.pdf>])
+[14 <./c.1-kt_msdintro/msd-supercooledliq-5.pdf>])
 (./b.1-exc_pureshear/exc_pureshear.tex
 
-pdfTeX warning: pdflatex (file ./5.c-fac_summodel/PEL.pdf): PDF inclusion: foun
-d PDF version <1.6>, but at most version <1.5> allowed
-
-Overfull \hbox (15.93427pt too wide) in paragraph at lines 80--80
- [][] 
-
-
-pdfTeX warning: pdflatex (file ./1.b-exc_pureshear/zoomin-0.pdf): PDF inclusion
+pdfTeX warning: pdflatex (file ./b.1-exc_pureshear/zoomin-0.pdf): PDF inclusion
 : found PDF version <1.6>, but at most version <1.5> allowed
 
 
-pdfTeX warning: pdflatex (file ./1.b-exc_pureshear/zoomin-1.pdf): PDF inclusion
+pdfTeX warning: pdflatex (file ./b.1-exc_pureshear/zoomin-1.pdf): PDF inclusion
 : found PDF version <1.6>, but at most version <1.5> allowed
 
 
-pdfTeX warning: pdflatex (file ./1.b-exc_pureshear/zoomin-2.pdf): PDF inclusion
+pdfTeX warning: pdflatex (file ./b.1-exc_pureshear/zoomin-2.pdf): PDF inclusion
 : found PDF version <1.6>, but at most version <1.5> allowed
 
 
-pdfTeX warning: pdflatex (file ./1.b-exc_pureshear/zoomin-3.pdf): PDF inclusion
+pdfTeX warning: pdflatex (file ./b.1-exc_pureshear/zoomin-3.pdf): PDF inclusion
 : found PDF version <1.6>, but at most version <1.5> allowed
 
 
-pdfTeX warning: pdflatex (file ./1.b-exc_pureshear/T1transition.pdf): PDF inclu
+pdfTeX warning: pdflatex (file ./b.1-exc_pureshear/T1transition.pdf): PDF inclu
 sion: found PDF version <1.6>, but at most version <1.5> allowed
 
-Overfull \vbox (21.61967pt too high) detected at line 80
+Overfull \vbox (11.26973pt too high) detected at line 80
 [15]
-Overfull \hbox (15.93427pt too wide) in paragraph at lines 80--80
- [][] 
-
-Overfull \vbox (21.61967pt too high) detected at line 80
-[16 <./5.c-fac_summodel/PEL.pdf>]
-Overfull \hbox (15.93427pt too wide) in paragraph at lines 80--80
- [][] 
-
-Overfull \vbox (21.61967pt too high) detected at line 80
-[17 <./1.b-exc_pureshear/zoomout_dispmag.png>]
-Overfull \hbox (15.93427pt too wide) in paragraph at lines 80--80
- [][] 
-
-Overfull \vbox (21.61967pt too high) detected at line 80
-[18 <./1.b-exc_pureshear/zoomout_dispvector.png>]
-Overfull \hbox (15.93427pt too wide) in paragraph at lines 80--80
- [][] 
-
-Overfull \vbox (21.61967pt too high) detected at line 80
-[19 <./1.b-exc_pureshear/zoomout_dispvector_1.png>]
-Overfull \hbox (15.93427pt too wide) in paragraph at lines 80--80
- [][] 
-
-Overfull \vbox (21.61967pt too high) detected at line 80
-[20 <./1.b-exc_pureshear/zoomin-0.pdf>]
-Overfull \hbox (15.93427pt too wide) in paragraph at lines 80--80
- [][] 
-
-Overfull \vbox (21.61967pt too high) detected at line 80
-[21 <./1.b-exc_pureshear/zoomin-1.pdf>]
-Overfull \hbox (15.93427pt too wide) in paragraph at lines 80--80
- [][] 
-
-Overfull \vbox (21.61967pt too high) detected at line 80
-[22 <./1.b-exc_pureshear/zoomin-2.pdf>]
-Overfull \hbox (15.93427pt too wide) in paragraph at lines 80--80
- [][] 
-
-Overfull \vbox (21.61967pt too high) detected at line 80
-[23 <./1.b-exc_pureshear/zoomin-3.pdf>]
-Overfull \hbox (15.93427pt too wide) in paragraph at lines 80--80
- [][] 
-
-Overfull \vbox (21.61967pt too high) detected at line 80
-[24 <./1.b-exc_pureshear/zoomin-7.pdf>]
-Overfull \hbox (15.93427pt too wide) in paragraph at lines 80--80
- [][] 
-
-Overfull \vbox (21.61967pt too high) detected at line 80
-[25 <./1.b-exc_pureshear/zoomin-8.pdf>]
-Overfull \hbox (15.93427pt too wide) in paragraph at lines 80--80
- [][] 
-
-Overfull \vbox (21.61967pt too high) detected at line 80
-[26 <./1.b-exc_pureshear/zoomin-9.pdf>]
-Overfull \hbox (15.93427pt too wide) in paragraph at lines 80--80
- [][] 
-
-Overfull \vbox (21.61967pt too high) detected at line 80
+Overfull \vbox (11.26973pt too high) detected at line 80
+[16]
+Overfull \vbox (11.26973pt too high) detected at line 80
+[17 <./b.1-exc_pureshear/zoomout_dispmag.png>]
+Overfull \vbox (11.26973pt too high) detected at line 80
+[18 <./b.1-exc_pureshear/zoomout_dispvector.png>]
+Overfull \vbox (11.26973pt too high) detected at line 80
+[19 <./b.1-exc_pureshear/zoomout_dispvector_1.png>]
+Overfull \vbox (11.26973pt too high) detected at line 80
+[20 <./b.1-exc_pureshear/zoomin-0.pdf>]
+Overfull \vbox (11.26973pt too high) detected at line 80
+[21 <./b.1-exc_pureshear/zoomin-1.pdf>]
+Overfull \vbox (11.26973pt too high) detected at line 80
+[22 <./b.1-exc_pureshear/zoomin-2.pdf>]
+Overfull \vbox (11.26973pt too high) detected at line 80
+[23 <./b.1-exc_pureshear/zoomin-3.pdf>]
+Overfull \vbox (11.26973pt too high) detected at line 80
+[24 <./b.1-exc_pureshear/zoomin-7.pdf>]
+Overfull \vbox (11.26973pt too high) detected at line 80
+[25 <./b.1-exc_pureshear/zoomin-8.pdf>]
+Overfull \vbox (11.26973pt too high) detected at line 80
+[26 <./b.1-exc_pureshear/zoomin-9.pdf>]
+Overfull \vbox (11.26973pt too high) detected at line 80
 [27]
-Overfull \hbox (15.93427pt too wide) in paragraph at lines 80--80
- [][] 
-
-Overfull \vbox (21.61967pt too high) detected at line 80
+Overfull \vbox (11.26973pt too high) detected at line 80
 [28]
-Overfull \hbox (15.93427pt too wide) in paragraph at lines 80--80
- [][] 
-
-Overfull \vbox (21.61967pt too high) detected at line 80
-[29 <./1.b-exc_pureshear/T1transition.pdf>])
+Overfull \vbox (11.26973pt too high) detected at line 80
+[29 <./b.1-exc_pureshear/T1transition.pdf>])
 (./b.2-exc_results_1/exc_results_1.tex
 (/usr/local/texlive/2022/texmf-dist/tex/latex/lm/ts1lmss.fd)
 Overfull \vbox (18.09647pt too high) detected at line 42
@@ -604,19 +551,19 @@ Overfull \vbox (2.78098pt too high) detected at line 49
 [40 <./b.3-exc_results_2/giso-2.pdf>]) [41 <./ismeltingpaper_screen.png>]
 (./c.1-kt_msdintro/kt_msdintro.tex
 
-pdfTeX warning: pdflatex (file ./1.d-kt_msdintro/msd-supercooledliq-0.pdf): PDF
+pdfTeX warning: pdflatex (file ./c.1-kt_msdintro/msd-supercooledliq-0.pdf): PDF
  inclusion: found PDF version <1.6>, but at most version <1.5> allowed
 
 
-pdfTeX warning: pdflatex (file ./1.d-kt_msdintro/msd-supercooledliq-1.pdf): PDF
+pdfTeX warning: pdflatex (file ./c.1-kt_msdintro/msd-supercooledliq-1.pdf): PDF
  inclusion: found PDF version <1.6>, but at most version <1.5> allowed
 
 
-pdfTeX warning: pdflatex (file ./1.d-kt_msdintro/msd-supercooledliq-2.pdf): PDF
+pdfTeX warning: pdflatex (file ./c.1-kt_msdintro/msd-supercooledliq-2.pdf): PDF
  inclusion: found PDF version <1.6>, but at most version <1.5> allowed
 
 
-pdfTeX warning: pdflatex (file ./1.d-kt_msdintro/msd-supercooledliq-4.pdf): PDF
+pdfTeX warning: pdflatex (file ./c.1-kt_msdintro/msd-supercooledliq-4.pdf): PDF
  inclusion: found PDF version <1.6>, but at most version <1.5> allowed
 
 Overfull \vbox (11.90327pt too high) detected at line 67
@@ -624,15 +571,15 @@ Overfull \vbox (11.90327pt too high) detected at line 67
 Overfull \vbox (11.90327pt too high) detected at line 67
 [43]
 Overfull \vbox (11.90327pt too high) detected at line 67
-[44 <./1.d-kt_msdintro/msd-supercooledliq-0.pdf>]
+[44 <./c.1-kt_msdintro/msd-supercooledliq-0.pdf>]
 Overfull \vbox (11.90327pt too high) detected at line 67
-[45 <./1.d-kt_msdintro/msd-supercooledliq-1.pdf>]
+[45 <./c.1-kt_msdintro/msd-supercooledliq-1.pdf>]
 Overfull \vbox (11.90327pt too high) detected at line 67
 [46]
 Overfull \vbox (11.90327pt too high) detected at line 67
-[47 <./1.d-kt_msdintro/msd-supercooledliq-2.pdf>]
+[47 <./c.1-kt_msdintro/msd-supercooledliq-2.pdf>]
 Overfull \vbox (11.90327pt too high) detected at line 67
-[48 <./1.d-kt_msdintro/msd-supercooledliq-4.pdf>]
+[48 <./c.1-kt_msdintro/msd-supercooledliq-4.pdf>]
 Overfull \vbox (11.90327pt too high) detected at line 67
 [49]
 Overfull \vbox (11.90327pt too high) detected at line 67
@@ -644,222 +591,234 @@ Overfull \vbox (11.90327pt too high) detected at line 67
 Overfull \vbox (11.90327pt too high) detected at line 67
 [53]) (./c.2-kt_geomcharges_1/kt_geomcharges.tex
 
-pdfTeX warning: pdflatex (file ./3.d-kt_geomcharges/chargesequiv-2.pdf): PDF in
-clusion: found PDF version <1.6>, but at most version <1.5> allowed
+pdfTeX warning: pdflatex (file ./c.2-kt_geomcharges_1/chargesequiv-2.pdf): PDF 
+inclusion: found PDF version <1.6>, but at most version <1.5> allowed
 
 
-pdfTeX warning: pdflatex (file ./3.d-kt_geomcharges/dipolemag.pdf): PDF inclusi
-on: found PDF version <1.6>, but at most version <1.5> allowed
-[54 <./3.d-kt_geomcharges/chargesequiv-2.pdf> <./3.d-kt_geomcharges/dipolemag.p
-df>] [55] [56] [57]) (./c.6-kt_energyentropy/kt_energyentropy.tex
-
-pdfTeX warning: pdflatex (file ./4.d-kt_energyentropy/dofs_quadrupole-0.pdf): P
-DF inclusion: found PDF version <1.6>, but at most version <1.5> allowed
-
-
-pdfTeX warning: pdflatex (file ./4.d-kt_energyentropy/dofs_quadrupole-1.pdf): P
-DF inclusion: found PDF version <1.6>, but at most version <1.5> allowed
-
-
-pdfTeX warning: pdflatex (file ./4.d-kt_energyentropy/dofs_quadrupole-3.pdf): P
-DF inclusion: found PDF version <1.6>, but at most version <1.5> allowed
-[58] [59 <./4.d-kt_energyentropy/dofs_quadrupole-0.pdf>] [60 <./4.d-kt_energyen
-tropy/dofs_quadrupole-1.pdf>] [61 <./4.d-kt_energyentropy/dofs_quadrupole-3.pdf
->] [62] [63] [64] [65]) (./c.7-kt_meltingscenario/kt_meltingscenario.tex
-
-pdfTeX warning: pdflatex (file ./5.d-kt_meltingscenario/mechanism-0.pdf): PDF i
-nclusion: found PDF version <1.6>, but at most version <1.5> allowed
-
-
-pdfTeX warning: pdflatex (file ./5.d-kt_meltingscenario/mechanism-1.pdf): PDF i
-nclusion: found PDF version <1.6>, but at most version <1.5> allowed
-
-Overfull \vbox (7.18544pt too high) detected at line 48
-[66]
-Overfull \vbox (7.18544pt too high) detected at line 48
-[67 <./5.d-kt_meltingscenario/mechanism-0.pdf>]
-Overfull \vbox (7.18544pt too high) detected at line 48
-[68]
-Overfull \vbox (7.18544pt too high) detected at line 48
-[69]
-Overfull \vbox (7.18544pt too high) detected at line 48
-[70 <./5.d-kt_meltingscenario/mechanism-1.pdf>]
-Overfull \vbox (7.18544pt too high) detected at line 48
-[71]
-Overfull \vbox (7.18544pt too high) detected at line 48
-[72] [73]) (./c.8-kt_results_1/kt_results.tex
-(/usr/local/texlive/2022/texmf-dist/tex/latex/lm/t1lmtt.fd)
-
-pdfTeX warning: pdflatex (file ./7.d-kt_results/new-mechanism-0.pdf): PDF inclu
+pdfTeX warning: pdflatex (file ./c.2-kt_geomcharges_1/dipolemag.pdf): PDF inclu
 sion: found PDF version <1.6>, but at most version <1.5> allowed
 
+Overfull \hbox (13.2435pt too wide) detected at line 94
+[] \OT1/lmr/m/n/9 = [] \OMS/lmsy/m/n/9 ^^@ []
+
+Overfull \vbox (27.90303pt too high) detected at line 94
+[54 <./c.2-kt_geomcharges_1/chargesequiv-2.pdf> <./c.2-kt_geomcharges_1/dipolem
+ag.pdf>]) (./c.6-kt_energyentropy/kt_energyentropy.tex
+
+pdfTeX warning: pdflatex (file ./c.6-kt_energyentropy/dofs_quadrupole-0.pdf): P
+DF inclusion: found PDF version <1.6>, but at most version <1.5> allowed
+
+
+pdfTeX warning: pdflatex (file ./c.6-kt_energyentropy/dofs_quadrupole-1.pdf): P
+DF inclusion: found PDF version <1.6>, but at most version <1.5> allowed
+
+
+pdfTeX warning: pdflatex (file ./c.6-kt_energyentropy/dofs_quadrupole-3.pdf): P
+DF inclusion: found PDF version <1.6>, but at most version <1.5> allowed
+
+Overfull \vbox (41.60344pt too high) detected at line 48
+[55]
+Overfull \vbox (41.60344pt too high) detected at line 48
+[56 <./c.6-kt_energyentropy/dofs_quadrupole-0.pdf>]
+Overfull \vbox (41.60344pt too high) detected at line 48
+[57 <./c.6-kt_energyentropy/dofs_quadrupole-1.pdf>]
+Overfull \vbox (41.60344pt too high) detected at line 48
+[58 <./c.6-kt_energyentropy/dofs_quadrupole-3.pdf>])
+(./c.7-kt_meltingscenario/kt_meltingscenario.tex
+
+pdfTeX warning: pdflatex (file ./c.7-kt_meltingscenario/mechanism-0.pdf): PDF i
+nclusion: found PDF version <1.6>, but at most version <1.5> allowed
+
+
+pdfTeX warning: pdflatex (file ./c.7-kt_meltingscenario/mechanism-1.pdf): PDF i
+nclusion: found PDF version <1.6>, but at most version <1.5> allowed
+
+Overfull \vbox (7.18544pt too high) detected at line 48
+[59]
+Overfull \vbox (7.18544pt too high) detected at line 48
+[60 <./c.7-kt_meltingscenario/mechanism-0.pdf>]
+Overfull \vbox (7.18544pt too high) detected at line 48
+[61]
+Overfull \vbox (7.18544pt too high) detected at line 48
+[62]
+Overfull \vbox (7.18544pt too high) detected at line 48
+[63 <./c.7-kt_meltingscenario/mechanism-1.pdf>]
+Overfull \vbox (7.18544pt too high) detected at line 48
+[64]
+Overfull \vbox (7.18544pt too high) detected at line 48
+[65] [66]) (./c.8-kt_results_1/kt_results.tex
+(/usr/local/texlive/2022/texmf-dist/tex/latex/lm/t1lmtt.fd)
+
+pdfTeX warning: pdflatex (file ./c.8-kt_results_1/new-mechanism-0.pdf): PDF inc
+lusion: found PDF version <1.6>, but at most version <1.5> allowed
+
 Overfull \hbox (0.58324pt too wide) detected at line 124
 []
 
 Overfull \vbox (6.63614pt too high) detected at line 124
+[67]
+Overfull \hbox (0.58324pt too wide) detected at line 124
+[]
+
+Overfull \vbox (6.63614pt too high) detected at line 124
+[68]
+Overfull \hbox (0.58324pt too wide) detected at line 124
+[]
+
+Overfull \vbox (6.63614pt too high) detected at line 124
+[69 <./c.8-kt_results_1/new-mechanism-0.pdf>]
+Overfull \hbox (0.58324pt too wide) detected at line 124
+[]
+
+Overfull \vbox (12.93614pt too high) detected at line 124
+[70]
+Overfull \hbox (0.58324pt too wide) detected at line 124
+[]
+
+Overfull \vbox (12.93614pt too high) detected at line 124
+[71]
+Overfull \hbox (0.58324pt too wide) detected at line 124
+[]
+
+Overfull \vbox (12.93614pt too high) detected at line 124
+[72]) (./c.10-kt_merminwagner_1/kt_merminwagner.tex
+Overfull \vbox (4.55106pt too high) detected at line 38
+[73 <./c.10-kt_merminwagner_1/merminwagner_comparison_0.pdf> <./c.10-kt_merminw
+agner_1/merminwagner_comparison_1.pdf>]
+Overfull \vbox (4.55106pt too high) detected at line 38
 [74]
-Overfull \hbox (0.58324pt too wide) detected at line 124
-[]
+Overfull \vbox (4.55106pt too high) detected at line 38
+[75]) (./c.13-kt_keim_1/kt_keim.tex
 
-Overfull \vbox (6.63614pt too high) detected at line 124
-[75]
-Overfull \hbox (0.58324pt too wide) detected at line 124
-[]
+pdfTeX warning: pdflatex (file ./c.13-kt_keim_1/keim_setup_0.pdf): PDF inclusio
+n: found PDF version <1.6>, but at most version <1.5> allowed
 
-Overfull \vbox (6.63614pt too high) detected at line 124
-[76 <./7.d-kt_results/new-mechanism-0.pdf>]
-Overfull \hbox (0.58324pt too wide) detected at line 124
-[]
 
-Overfull \vbox (12.93614pt too high) detected at line 124
+pdfTeX warning: pdflatex (file ./c.13-kt_keim_1/keim_setup_1.pdf): PDF inclusio
+n: found PDF version <1.6>, but at most version <1.5> allowed
+
+
+pdfTeX warning: pdflatex (file ./c.13-kt_keim_1/keim_setup_2.pdf): PDF inclusio
+n: found PDF version <1.6>, but at most version <1.5> allowed
+
+Overfull \vbox (178.91501pt too high) detected at line 130
+[76]
+Overfull \vbox (178.91501pt too high) detected at line 130
 [77]
-Overfull \hbox (0.58324pt too wide) detected at line 124
-[]
-
-Overfull \vbox (12.93614pt too high) detected at line 124
+Overfull \vbox (178.91501pt too high) detected at line 130
 [78]
-Overfull \hbox (0.58324pt too wide) detected at line 124
-[]
-
-Overfull \vbox (12.93614pt too high) detected at line 124
-[79]) (./c.10-kt_merminwagner_1/kt_merminwagner.tex
-Overfull \vbox (4.55106pt too high) detected at line 38
-[80 <./8.d-kt_merminwagner/merminwagner_comparison_0.pdf> <./8.d-kt_merminwagne
-r/merminwagner_comparison_1.pdf>]
-Overfull \vbox (4.55106pt too high) detected at line 38
-[81]
-Overfull \vbox (4.55106pt too high) detected at line 38
-[82]) (./c.13-kt_keim_1/kt_keim.tex
-
-pdfTeX warning: pdflatex (file ./9.d-kt_keim/keim_setup_0.pdf): PDF inclusion: 
-found PDF version <1.6>, but at most version <1.5> allowed
-
-
-pdfTeX warning: pdflatex (file ./9.d-kt_keim/keim_setup_1.pdf): PDF inclusion: 
-found PDF version <1.6>, but at most version <1.5> allowed
-
-
-pdfTeX warning: pdflatex (file ./9.d-kt_keim/keim_setup_2.pdf): PDF inclusion: 
-found PDF version <1.6>, but at most version <1.5> allowed
-
+Overfull \vbox (178.91501pt too high) detected at line 130
+[79 <./c.13-kt_keim_1/Yrenorm_poly12.pdf>]
+Overfull \vbox (178.91501pt too high) detected at line 130
+[80]
+Overfull \vbox (178.91501pt too high) detected at line 130
+[81 <./c.13-kt_keim_1/keim_setup_0.pdf>]
+Overfull \vbox (178.91501pt too high) detected at line 130
+[82 <./c.13-kt_keim_1/keim_setup_1.pdf>]
 Overfull \vbox (178.91501pt too high) detected at line 130
 [83]
 Overfull \vbox (178.91501pt too high) detected at line 130
-[84]
+[84 <./c.13-kt_keim_1/keim_setup_2.pdf>]
 Overfull \vbox (178.91501pt too high) detected at line 130
 [85]
 Overfull \vbox (178.91501pt too high) detected at line 130
-[86 <./9.d-kt_keim/Yrenorm_poly12.pdf>]
+[86 <./c.13-kt_keim_1/YRG_keim_exp_0.pdf>]
 Overfull \vbox (178.91501pt too high) detected at line 130
 [87]
 Overfull \vbox (178.91501pt too high) detected at line 130
-[88 <./9.d-kt_keim/keim_setup_0.pdf>]
+[88 <./c.13-kt_keim_1/YRG_keim_exp_1.pdf>]
 Overfull \vbox (178.91501pt too high) detected at line 130
-[89 <./9.d-kt_keim/keim_setup_1.pdf>]
+[89 <./c.13-kt_keim_1/YRG_keim.pdf>]
 Overfull \vbox (178.91501pt too high) detected at line 130
-[90]
+[90 <./c.13-kt_keim_1/YRG_keim_closeup.pdf>]
 Overfull \vbox (178.91501pt too high) detected at line 130
-[91 <./9.d-kt_keim/keim_setup_2.pdf>]
+[91 <./c.13-kt_keim_1/msd_keim.png>]
 Overfull \vbox (178.91501pt too high) detected at line 130
-[92]
+[92 <./c.13-kt_keim_1/msd_keim_1.png>]
 Overfull \vbox (178.91501pt too high) detected at line 130
-[93 <./9.d-kt_keim/YRG_keim_exp_0.pdf>]
-Overfull \vbox (178.91501pt too high) detected at line 130
+[93]) (./c.15-kt_spatialcorrel/kt_spatialcorrel.tex
+Overfull \vbox (13.55333pt too high) detected at line 44
 [94]
-Overfull \vbox (178.91501pt too high) detected at line 130
-[95 <./9.d-kt_keim/YRG_keim_exp_1.pdf>]
-Overfull \vbox (178.91501pt too high) detected at line 130
-[96 <./9.d-kt_keim/YRG_keim.pdf>]
-Overfull \vbox (178.91501pt too high) detected at line 130
-[97 <./9.d-kt_keim/YRG_keim_closeup.pdf>]
-Overfull \vbox (178.91501pt too high) detected at line 130
-[98 <./9.d-kt_keim/msd_keim.png>]
-Overfull \vbox (178.91501pt too high) detected at line 130
-[99 <./9.d-kt_keim/msd_keim_1.png>]
-Overfull \vbox (178.91501pt too high) detected at line 130
-[100]) (./c.15-kt_spatialcorrel/kt_spatialcorrel.tex
 Overfull \vbox (13.55333pt too high) detected at line 44
-[101]
+[95]
 Overfull \vbox (13.55333pt too high) detected at line 44
-[102]
+[96]
 Overfull \vbox (13.55333pt too high) detected at line 44
-[103]
+[97]
 Overfull \vbox (13.55333pt too high) detected at line 44
-[104]
+[98 <./c.15-kt_spatialcorrel/spatialcorrel.pdf>]
 Overfull \vbox (13.55333pt too high) detected at line 44
-[105 <./10.d-kt_spatialcorrel/spatialcorrel.pdf>]
-Overfull \vbox (13.55333pt too high) detected at line 44
-[106]) (./d.1-fac_intro/fac_intro.tex
+[99]) (./d.1-fac_intro/fac_intro.tex
 
-pdfTeX warning: pdflatex (file ./1.c-fac_intro/interlude1.pdf): PDF inclusion: 
+pdfTeX warning: pdflatex (file ./d.1-fac_intro/interlude1.pdf): PDF inclusion: 
 found PDF version <1.6>, but at most version <1.5> allowed
 
 
-pdfTeX warning: pdflatex (file ./1.c-fac_intro/interlude2.pdf): PDF inclusion: 
+pdfTeX warning: pdflatex (file ./d.1-fac_intro/interlude2.pdf): PDF inclusion: 
 found PDF version <1.6>, but at most version <1.5> allowed
 
 
-pdfTeX warning: pdflatex (file ./1.c-fac_intro/bare_test_0.pdf): PDF inclusion:
+pdfTeX warning: pdflatex (file ./d.1-fac_intro/bare_test_0.pdf): PDF inclusion:
  found PDF version <1.6>, but at most version <1.5> allowed
 
 
-pdfTeX warning: pdflatex (file ./1.c-fac_intro/bare_test_3.pdf): PDF inclusion:
+pdfTeX warning: pdflatex (file ./d.1-fac_intro/bare_test_3.pdf): PDF inclusion:
  found PDF version <1.6>, but at most version <1.5> allowed
 
 
-pdfTeX warning: pdflatex (file ./1.c-fac_intro/test_3.pdf): PDF inclusion: foun
+pdfTeX warning: pdflatex (file ./d.1-fac_intro/test_3.pdf): PDF inclusion: foun
 d PDF version <1.6>, but at most version <1.5> allowed
 
 
-pdfTeX warning: pdflatex (file ./1.c-fac_intro/test_6.pdf): PDF inclusion: foun
+pdfTeX warning: pdflatex (file ./d.1-fac_intro/test_6.pdf): PDF inclusion: foun
 d PDF version <1.6>, but at most version <1.5> allowed
 
 Overfull \vbox (23.35045pt too high) detected at line 60
-[107]
+[100]
 Overfull \vbox (23.35045pt too high) detected at line 60
-[108 <./1.c-fac_intro/interlude1.pdf>]
+[101 <./d.1-fac_intro/interlude1.pdf>]
 Overfull \vbox (23.35045pt too high) detected at line 60
-[109 <./1.c-fac_intro/interlude2.pdf>]
+[102 <./d.1-fac_intro/interlude2.pdf>]
 Overfull \vbox (23.35045pt too high) detected at line 60
-[110 <./1.c-fac_intro/bare_test_0.pdf>]
+[103 <./d.1-fac_intro/bare_test_0.pdf>]
 Overfull \vbox (23.35045pt too high) detected at line 60
-[111 <./1.c-fac_intro/bare_test_3.pdf>]
+[104 <./d.1-fac_intro/bare_test_3.pdf>]
 Overfull \vbox (23.35045pt too high) detected at line 60
-[112]
+[105]
 Overfull \vbox (23.35045pt too high) detected at line 60
-[113 <./1.c-fac_intro/test_3.pdf>]
+[106 <./d.1-fac_intro/test_3.pdf>]
 Overfull \vbox (23.35045pt too high) detected at line 60
-[114 <./1.c-fac_intro/test_6.pdf>]
+[107 <./d.1-fac_intro/test_6.pdf>]
 Overfull \vbox (23.35045pt too high) detected at line 60
-[115]
+[108]
 Overfull \vbox (23.35045pt too high) detected at line 60
-[116]
+[109]
 Overfull \vbox (23.35045pt too high) detected at line 60
-[117]
+[110]
 Overfull \vbox (23.35045pt too high) detected at line 60
-[118]
+[111]
 Overfull \vbox (23.35045pt too high) detected at line 60
-[119]) (./d.2-fac_intrc_1/fac_intrc.tex [120] [121]
+[112]) (./d.2-fac_intrc_1/fac_intrc.tex [113] [114]
 
-pdfTeX warning: pdflatex (file ./2.c-fac_intrc/excconfig2.pdf): PDF inclusion: 
-found PDF version <1.6>, but at most version <1.5> allowed
+pdfTeX warning: pdflatex (file ./d.2-fac_intrc_1/excconfig2.pdf): PDF inclusion
+: found PDF version <1.6>, but at most version <1.5> allowed
 
 Overfull \vbox (72.20912pt too high) detected at line 105
-[122 <./2.c-fac_intrc/excconfig2.pdf>]
+[115 <./d.2-fac_intrc_1/excconfig2.pdf>]
 
-pdfTeX warning: pdflatex (file ./3.c-fac_results/minima.pdf): PDF inclusion: fo
-und PDF version <1.6>, but at most version <1.5> allowed
+pdfTeX warning: pdflatex (file ./d.4-fac_results_1/minima.pdf): PDF inclusion: 
+found PDF version <1.6>, but at most version <1.5> allowed
 
 Overfull \vbox (68.29839pt too high) detected at line 105
-[123 <./3.c-fac_results/minima.pdf>]
+[116 <./d.4-fac_results_1/minima.pdf>]
 
-pdfTeX warning: pdflatex (file ./2.c-fac_intrc/pes.pdf): PDF inclusion: found P
-DF version <1.6>, but at most version <1.5> allowed
+pdfTeX warning: pdflatex (file ./d.2-fac_intrc_1/pes.pdf): PDF inclusion: found
+ PDF version <1.6>, but at most version <1.5> allowed
 
 Overfull \vbox (12.16171pt too high) detected at line 105
-[124 <./2.c-fac_intrc/pes.pdf>]
+[117 <./d.2-fac_intrc_1/pes.pdf>]
 Overfull \vbox (12.16171pt too high) detected at line 105
-[125]) (./d.4-fac_results_1/fac_results_1.tex<<VPlayer.swf>><<d.4-fac_results_1
+[118]) (./d.4-fac_results_1/fac_results_1.tex<<VPlayer.swf>><<d.4-fac_results_1
 /displowT.mp4>>
 
 pdfTeX warning: pdflatex (file ./d.4-fac_results_1/out-700.pdf): PDF inclusion:
@@ -870,13 +829,13 @@ pdfTeX warning: pdflatex (file ./d.4-fac_results_1/persout-012.pdf): PDF inclus
 ion: found PDF version <1.6>, but at most version <1.5> allowed
 
 Overfull \vbox (13.60052pt too high) detected at line 42
-[126 <./d.4-fac_results_1/displowT3.png>]
+[119 <./d.4-fac_results_1/displowT3.png>]
 Overfull \vbox (15.29297pt too high) detected at line 42
-[127 <./d.4-fac_results_1/out-700.pdf>]
+[120 <./d.4-fac_results_1/out-700.pdf>]
 Overfull \vbox (15.85052pt too high) detected at line 42
-[128 <./d.4-fac_results_1/persistlowT3.png>]
+[121 <./d.4-fac_results_1/persistlowT3.png>]
 Overfull \vbox (28.44295pt too high) detected at line 42
-[129 <./d.4-fac_results_1/persout-012.pdf>] [130])
+[122 <./d.4-fac_results_1/persout-012.pdf>] [123])
 (./d.5-fac_results_2/fac_results_2.tex
 
 pdfTeX warning: pdflatex (file ./d.5-fac_results_2/surveyresults1.pdf): PDF inc
@@ -895,13 +854,13 @@ pdfTeX warning: pdflatex (file ./d.5-fac_results_2/surveyresults.pdf): PDF incl
 usion: found PDF version <1.6>, but at most version <1.5> allowed
 
 Overfull \vbox (9.74269pt too high) detected at line 11
-[131 <./d.5-fac_results_2/surveyresults1.pdf>]
+[124 <./d.5-fac_results_2/surveyresults1.pdf>]
 Overfull \vbox (9.74269pt too high) detected at line 11
-[132 <./d.5-fac_results_2/surveyresults2.pdf>]
+[125 <./d.5-fac_results_2/surveyresults2.pdf>]
 Overfull \vbox (9.74269pt too high) detected at line 11
-[133 <./d.5-fac_results_2/surveyresults3.pdf>]
+[126 <./d.5-fac_results_2/surveyresults3.pdf>]
 Overfull \vbox (9.74269pt too high) detected at line 11
-[134 <./d.5-fac_results_2/surveyresults.pdf>])
+[127 <./d.5-fac_results_2/surveyresults.pdf>])
 (./d.6-fac_results_3/fac_results_3.tex
 
 pdfTeX warning: pdflatex (file ./d.6-fac_results_3/pes.pdf): PDF inclusion: fou
@@ -920,45 +879,45 @@ pdfTeX warning: pdflatex (file ./d.6-fac_results_3/newmsdphonons1.pdf): PDF inc
 lusion: found PDF version <1.6>, but at most version <1.5> allowed
 
 Overfull \vbox (32.47269pt too high) detected at line 63
-[135]
+[128]
 Overfull \vbox (32.47269pt too high) detected at line 63
-[136 <./d.6-fac_results_3/pes.pdf>]
+[129 <./d.6-fac_results_3/pes.pdf>]
 Overfull \vbox (32.47269pt too high) detected at line 63
-[137]
+[130]
 Overfull \vbox (32.47269pt too high) detected at line 63
-[138]
+[131]
 Overfull \vbox (32.47269pt too high) detected at line 63
-[139 <./d.6-fac_results_3/newmsdphonons0.pdf>]
+[132 <./d.6-fac_results_3/newmsdphonons0.pdf>]
 Overfull \vbox (32.47269pt too high) detected at line 63
-[140 <./d.6-fac_results_3/ismsdmd.pdf>]
+[133 <./d.6-fac_results_3/ismsdmd.pdf>]
 Overfull \vbox (32.47269pt too high) detected at line 63
-[141]
+[134]
 Overfull \vbox (32.47269pt too high) detected at line 63
-[142 <./d.6-fac_results_3/newmsdphonons1.pdf>])
+[135 <./d.6-fac_results_3/newmsdphonons1.pdf>])
 (./e.1-acknowledgements/acknowledgements.tex
 Overfull \vbox (9.40187pt too high) detected at line 39
-[143 <./acknowledgements/index.jpg> <./acknowledgements/image912.png> <./3.c-fa
-c_results/persistlowT3.png>]
+[136 <./acknowledgements/index.jpg> <./acknowledgements/image912.png> <./d.6-fa
+c_results_3/persistlowT3.png>]
 Overfull \vbox (9.40187pt too high) detected at line 39
-[144]
+[137]
 Overfull \vbox (9.40187pt too high) detected at line 39
-[145]
+[138]
 Overfull \vbox (9.40187pt too high) detected at line 39
-[146])
+[139])
 
-pdfTeX warning: pdflatex (file ./1.c-fac_intro/taubwithirrev.pdf): PDF inclusio
+pdfTeX warning: pdflatex (file ./d.1-fac_intro/taubwithirrev.pdf): PDF inclusio
 n: found PDF version <1.6>, but at most version <1.5> allowed
 
 Overfull \vbox (46.65074pt too high) detected at line 218
-[147]
+[140]
 Overfull \vbox (46.65074pt too high) detected at line 218
-[148 <./3.c-fac_results/persistlowT.jpg>]
+[141 <./d.6-fac_results_3/persistlowT.jpg>]
 Overfull \vbox (46.65074pt too high) detected at line 218
-[149]
+[142]
 Overfull \vbox (46.65074pt too high) detected at line 218
-[150 <./1.c-fac_intro/taubwithirrev.pdf>]
+[143 <./d.1-fac_intro/taubwithirrev.pdf>]
 Overfull \vbox (46.65074pt too high) detected at line 218
-[151] (output/presentation.aux) )
+[144] (output/presentation.aux) )
 (see the transcript file for additional information){/usr/local/texlive/2022/te
 xmf-dist/fonts/enc/dvips/lm/lm-rm.enc}{/usr/local/texlive/2022/texmf-dist/fonts
 /enc/dvips/lm/lm-mathsy.enc}{/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips
@@ -998,7 +957,7 @@ texmf-dist/fonts/type1/public/lm/lmsy10.pfb></usr/local/texlive/2022/texmf-dist
 /lmsy8.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/lm/lmsy9.pfb>
 </usr/local/texlive/2022/texmf-dist/fonts/type1/public/lm/lmtt8.pfb></usr/local
 /texlive/2022/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb>
-Output written on output/presentation.pdf (151 pages, 155916915 bytes).
+Output written on output/presentation.pdf (144 pages, 151472321 bytes).
 Transcript written on output/presentation.log.
 INFO - This is Biber 2.17
 INFO - Logfile is 'output/presentation.blg'
@@ -1443,142 +1402,89 @@ enefit from \pgfplotsset{compat=1.18} (current compat level: 1.9).
 Overfull \vbox (18.28288pt too high) detected at line 142
 [1{/usr/local/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
 (./a.1-intro_quickglassy/intro_quickglassy.tex
-
-pdfTeX warning: pdflatex (file ./3.a-intro_dh/gr_poly12_single-1.pdf): PDF incl
-usion: found PDF version <1.6>, but at most version <1.5> allowed
-
 Overfull \vbox (22.08557pt too high) detected at line 84
 [2]
 Overfull \vbox (22.98206pt too high) detected at line 84
 [3 <./intro_glassy/timerelax_b2o3_4.pdf>]
 Overfull \vbox (22.98206pt too high) detected at line 84
-[4 <./3.a-intro_dh/softspots_220.png>]
+[4 <./intro_glassy/softspots_280.png>]
 Overfull \vbox (22.98206pt too high) detected at line 84
-[5 <./intro_glassy/softspots_280.png>]
+[5]
 Overfull \vbox (22.98206pt too high) detected at line 84
-[6 <./3.a-intro_dh/poly12_lowT.png>]
+[6 <./intro_glassy/timerelax_poly12_0.pdf>]
 Overfull \vbox (22.98206pt too high) detected at line 84
-[7 <./3.a-intro_dh/gr_poly12_single-1.pdf>])
+[7 <./intro_glassy/timerelax_poly12_1.pdf>])
 (./a.2-intro_dftheory/intro_dftheory.tex
 Overfull \vbox (15.47429pt too high) detected at line 51
 [8]
 Overfull \vbox (15.47429pt too high) detected at line 51
-[9 <./2.a-intro_dftheory/DF_Theory_Excitations_Zoom_0.pdf>]
+[9 <./a.2-intro_dftheory/DF_Theory_Excitations_Zoom_0.pdf>]
 Overfull \vbox (15.47429pt too high) detected at line 51
-[10 <./2.a-intro_dftheory/DF_Theory_Excitations_Zoom_1.pdf>]
+[10 <./a.2-intro_dftheory/DF_Theory_Excitations_Zoom_1.pdf>]
 Overfull \vbox (15.47429pt too high) detected at line 51
-[11 <./2.a-intro_dftheory/DF_Theory_Excitations_Zoom_2.pdf>]
+[11 <./a.2-intro_dftheory/DF_Theory_Excitations_Zoom_2.pdf>]
 Overfull \vbox (15.47429pt too high) detected at line 51
-[12 <./2.a-intro_dftheory/facilitation_closer_1.pdf>]
+[12 <./a.2-intro_dftheory/facilitation_closer_1.pdf>]
 Overfull \vbox (15.47429pt too high) detected at line 51
-[13 <./2.a-intro_dftheory/facilitation_closer_2.pdf>])
+[13 <./a.2-intro_dftheory/facilitation_closer_2.pdf>])
 (./a.3-edf_overview/intermezzo.tex
 
-pdfTeX warning: pdflatex (file ./1.d-kt_msdintro/msd-supercooledliq-5.pdf): PDF
+pdfTeX warning: pdflatex (file ./c.1-kt_msdintro/msd-supercooledliq-5.pdf): PDF
  inclusion: found PDF version <1.6>, but at most version <1.5> allowed
 
 Overfull \vbox (93.47206pt too high) detected at line 54
-[14 <./1.d-kt_msdintro/msd-supercooledliq-5.pdf>])
+[14 <./c.1-kt_msdintro/msd-supercooledliq-5.pdf>])
 (./b.1-exc_pureshear/exc_pureshear.tex
 
-pdfTeX warning: pdflatex (file ./5.c-fac_summodel/PEL.pdf): PDF inclusion: foun
-d PDF version <1.6>, but at most version <1.5> allowed
-
-Overfull \hbox (15.93427pt too wide) in paragraph at lines 80--80
- [][] 
-
-
-pdfTeX warning: pdflatex (file ./1.b-exc_pureshear/zoomin-0.pdf): PDF inclusion
+pdfTeX warning: pdflatex (file ./b.1-exc_pureshear/zoomin-0.pdf): PDF inclusion
 : found PDF version <1.6>, but at most version <1.5> allowed
 
 
-pdfTeX warning: pdflatex (file ./1.b-exc_pureshear/zoomin-1.pdf): PDF inclusion
+pdfTeX warning: pdflatex (file ./b.1-exc_pureshear/zoomin-1.pdf): PDF inclusion
 : found PDF version <1.6>, but at most version <1.5> allowed
 
 
-pdfTeX warning: pdflatex (file ./1.b-exc_pureshear/zoomin-2.pdf): PDF inclusion
+pdfTeX warning: pdflatex (file ./b.1-exc_pureshear/zoomin-2.pdf): PDF inclusion
 : found PDF version <1.6>, but at most version <1.5> allowed
 
 
-pdfTeX warning: pdflatex (file ./1.b-exc_pureshear/zoomin-3.pdf): PDF inclusion
+pdfTeX warning: pdflatex (file ./b.1-exc_pureshear/zoomin-3.pdf): PDF inclusion
 : found PDF version <1.6>, but at most version <1.5> allowed
 
 
-pdfTeX warning: pdflatex (file ./1.b-exc_pureshear/T1transition.pdf): PDF inclu
+pdfTeX warning: pdflatex (file ./b.1-exc_pureshear/T1transition.pdf): PDF inclu
 sion: found PDF version <1.6>, but at most version <1.5> allowed
 
-Overfull \vbox (21.61967pt too high) detected at line 80
+Overfull \vbox (11.26973pt too high) detected at line 80
 [15]
-Overfull \hbox (15.93427pt too wide) in paragraph at lines 80--80
- [][] 
-
-Overfull \vbox (21.61967pt too high) detected at line 80
-[16 <./5.c-fac_summodel/PEL.pdf>]
-Overfull \hbox (15.93427pt too wide) in paragraph at lines 80--80
- [][] 
-
-Overfull \vbox (21.61967pt too high) detected at line 80
-[17 <./1.b-exc_pureshear/zoomout_dispmag.png>]
-Overfull \hbox (15.93427pt too wide) in paragraph at lines 80--80
- [][] 
-
-Overfull \vbox (21.61967pt too high) detected at line 80
-[18 <./1.b-exc_pureshear/zoomout_dispvector.png>]
-Overfull \hbox (15.93427pt too wide) in paragraph at lines 80--80
- [][] 
-
-Overfull \vbox (21.61967pt too high) detected at line 80
-[19 <./1.b-exc_pureshear/zoomout_dispvector_1.png>]
-Overfull \hbox (15.93427pt too wide) in paragraph at lines 80--80
- [][] 
-
-Overfull \vbox (21.61967pt too high) detected at line 80
-[20 <./1.b-exc_pureshear/zoomin-0.pdf>]
-Overfull \hbox (15.93427pt too wide) in paragraph at lines 80--80
- [][] 
-
-Overfull \vbox (21.61967pt too high) detected at line 80
-[21 <./1.b-exc_pureshear/zoomin-1.pdf>]
-Overfull \hbox (15.93427pt too wide) in paragraph at lines 80--80
- [][] 
-
-Overfull \vbox (21.61967pt too high) detected at line 80
-[22 <./1.b-exc_pureshear/zoomin-2.pdf>]
-Overfull \hbox (15.93427pt too wide) in paragraph at lines 80--80
- [][] 
-
-Overfull \vbox (21.61967pt too high) detected at line 80
-[23 <./1.b-exc_pureshear/zoomin-3.pdf>]
-Overfull \hbox (15.93427pt too wide) in paragraph at lines 80--80
- [][] 
-
-Overfull \vbox (21.61967pt too high) detected at line 80
-[24 <./1.b-exc_pureshear/zoomin-7.pdf>]
-Overfull \hbox (15.93427pt too wide) in paragraph at lines 80--80
- [][] 
-
-Overfull \vbox (21.61967pt too high) detected at line 80
-[25 <./1.b-exc_pureshear/zoomin-8.pdf>]
-Overfull \hbox (15.93427pt too wide) in paragraph at lines 80--80
- [][] 
-
-Overfull \vbox (21.61967pt too high) detected at line 80
-[26 <./1.b-exc_pureshear/zoomin-9.pdf>]
-Overfull \hbox (15.93427pt too wide) in paragraph at lines 80--80
- [][] 
-
-Overfull \vbox (21.61967pt too high) detected at line 80
+Overfull \vbox (11.26973pt too high) detected at line 80
+[16]
+Overfull \vbox (11.26973pt too high) detected at line 80
+[17 <./b.1-exc_pureshear/zoomout_dispmag.png>]
+Overfull \vbox (11.26973pt too high) detected at line 80
+[18 <./b.1-exc_pureshear/zoomout_dispvector.png>]
+Overfull \vbox (11.26973pt too high) detected at line 80
+[19 <./b.1-exc_pureshear/zoomout_dispvector_1.png>]
+Overfull \vbox (11.26973pt too high) detected at line 80
+[20 <./b.1-exc_pureshear/zoomin-0.pdf>]
+Overfull \vbox (11.26973pt too high) detected at line 80
+[21 <./b.1-exc_pureshear/zoomin-1.pdf>]
+Overfull \vbox (11.26973pt too high) detected at line 80
+[22 <./b.1-exc_pureshear/zoomin-2.pdf>]
+Overfull \vbox (11.26973pt too high) detected at line 80
+[23 <./b.1-exc_pureshear/zoomin-3.pdf>]
+Overfull \vbox (11.26973pt too high) detected at line 80
+[24 <./b.1-exc_pureshear/zoomin-7.pdf>]
+Overfull \vbox (11.26973pt too high) detected at line 80
+[25 <./b.1-exc_pureshear/zoomin-8.pdf>]
+Overfull \vbox (11.26973pt too high) detected at line 80
+[26 <./b.1-exc_pureshear/zoomin-9.pdf>]
+Overfull \vbox (11.26973pt too high) detected at line 80
 [27]
-Overfull \hbox (15.93427pt too wide) in paragraph at lines 80--80
- [][] 
-
-Overfull \vbox (21.61967pt too high) detected at line 80
+Overfull \vbox (11.26973pt too high) detected at line 80
 [28]
-Overfull \hbox (15.93427pt too wide) in paragraph at lines 80--80
- [][] 
-
-Overfull \vbox (21.61967pt too high) detected at line 80
-[29 <./1.b-exc_pureshear/T1transition.pdf>])
+Overfull \vbox (11.26973pt too high) detected at line 80
+[29 <./b.1-exc_pureshear/T1transition.pdf>])
 (./b.2-exc_results_1/exc_results_1.tex
 (/usr/local/texlive/2022/texmf-dist/tex/latex/lm/ts1lmss.fd)
 Overfull \vbox (18.09647pt too high) detected at line 42
@@ -1609,19 +1515,19 @@ Overfull \vbox (2.78098pt too high) detected at line 49
 [40 <./b.3-exc_results_2/giso-2.pdf>]) [41 <./ismeltingpaper_screen.png>]
 (./c.1-kt_msdintro/kt_msdintro.tex
 
-pdfTeX warning: pdflatex (file ./1.d-kt_msdintro/msd-supercooledliq-0.pdf): PDF
+pdfTeX warning: pdflatex (file ./c.1-kt_msdintro/msd-supercooledliq-0.pdf): PDF
  inclusion: found PDF version <1.6>, but at most version <1.5> allowed
 
 
-pdfTeX warning: pdflatex (file ./1.d-kt_msdintro/msd-supercooledliq-1.pdf): PDF
+pdfTeX warning: pdflatex (file ./c.1-kt_msdintro/msd-supercooledliq-1.pdf): PDF
  inclusion: found PDF version <1.6>, but at most version <1.5> allowed
 
 
-pdfTeX warning: pdflatex (file ./1.d-kt_msdintro/msd-supercooledliq-2.pdf): PDF
+pdfTeX warning: pdflatex (file ./c.1-kt_msdintro/msd-supercooledliq-2.pdf): PDF
  inclusion: found PDF version <1.6>, but at most version <1.5> allowed
 
 
-pdfTeX warning: pdflatex (file ./1.d-kt_msdintro/msd-supercooledliq-4.pdf): PDF
+pdfTeX warning: pdflatex (file ./c.1-kt_msdintro/msd-supercooledliq-4.pdf): PDF
  inclusion: found PDF version <1.6>, but at most version <1.5> allowed
 
 Overfull \vbox (11.90327pt too high) detected at line 67
@@ -1629,15 +1535,15 @@ Overfull \vbox (11.90327pt too high) detected at line 67
 Overfull \vbox (11.90327pt too high) detected at line 67
 [43]
 Overfull \vbox (11.90327pt too high) detected at line 67
-[44 <./1.d-kt_msdintro/msd-supercooledliq-0.pdf>]
+[44 <./c.1-kt_msdintro/msd-supercooledliq-0.pdf>]
 Overfull \vbox (11.90327pt too high) detected at line 67
-[45 <./1.d-kt_msdintro/msd-supercooledliq-1.pdf>]
+[45 <./c.1-kt_msdintro/msd-supercooledliq-1.pdf>]
 Overfull \vbox (11.90327pt too high) detected at line 67
 [46]
 Overfull \vbox (11.90327pt too high) detected at line 67
-[47 <./1.d-kt_msdintro/msd-supercooledliq-2.pdf>]
+[47 <./c.1-kt_msdintro/msd-supercooledliq-2.pdf>]
 Overfull \vbox (11.90327pt too high) detected at line 67
-[48 <./1.d-kt_msdintro/msd-supercooledliq-4.pdf>]
+[48 <./c.1-kt_msdintro/msd-supercooledliq-4.pdf>]
 Overfull \vbox (11.90327pt too high) detected at line 67
 [49]
 Overfull \vbox (11.90327pt too high) detected at line 67
@@ -1649,222 +1555,234 @@ Overfull \vbox (11.90327pt too high) detected at line 67
 Overfull \vbox (11.90327pt too high) detected at line 67
 [53]) (./c.2-kt_geomcharges_1/kt_geomcharges.tex
 
-pdfTeX warning: pdflatex (file ./3.d-kt_geomcharges/chargesequiv-2.pdf): PDF in
-clusion: found PDF version <1.6>, but at most version <1.5> allowed
+pdfTeX warning: pdflatex (file ./c.2-kt_geomcharges_1/chargesequiv-2.pdf): PDF 
+inclusion: found PDF version <1.6>, but at most version <1.5> allowed
 
 
-pdfTeX warning: pdflatex (file ./3.d-kt_geomcharges/dipolemag.pdf): PDF inclusi
-on: found PDF version <1.6>, but at most version <1.5> allowed
-[54 <./3.d-kt_geomcharges/chargesequiv-2.pdf> <./3.d-kt_geomcharges/dipolemag.p
-df>] [55] [56] [57]) (./c.6-kt_energyentropy/kt_energyentropy.tex
-
-pdfTeX warning: pdflatex (file ./4.d-kt_energyentropy/dofs_quadrupole-0.pdf): P
-DF inclusion: found PDF version <1.6>, but at most version <1.5> allowed
-
-
-pdfTeX warning: pdflatex (file ./4.d-kt_energyentropy/dofs_quadrupole-1.pdf): P
-DF inclusion: found PDF version <1.6>, but at most version <1.5> allowed
-
-
-pdfTeX warning: pdflatex (file ./4.d-kt_energyentropy/dofs_quadrupole-3.pdf): P
-DF inclusion: found PDF version <1.6>, but at most version <1.5> allowed
-[58] [59 <./4.d-kt_energyentropy/dofs_quadrupole-0.pdf>] [60 <./4.d-kt_energyen
-tropy/dofs_quadrupole-1.pdf>] [61 <./4.d-kt_energyentropy/dofs_quadrupole-3.pdf
->] [62] [63] [64] [65]) (./c.7-kt_meltingscenario/kt_meltingscenario.tex
-
-pdfTeX warning: pdflatex (file ./5.d-kt_meltingscenario/mechanism-0.pdf): PDF i
-nclusion: found PDF version <1.6>, but at most version <1.5> allowed
-
-
-pdfTeX warning: pdflatex (file ./5.d-kt_meltingscenario/mechanism-1.pdf): PDF i
-nclusion: found PDF version <1.6>, but at most version <1.5> allowed
-
-Overfull \vbox (7.18544pt too high) detected at line 48
-[66]
-Overfull \vbox (7.18544pt too high) detected at line 48
-[67 <./5.d-kt_meltingscenario/mechanism-0.pdf>]
-Overfull \vbox (7.18544pt too high) detected at line 48
-[68]
-Overfull \vbox (7.18544pt too high) detected at line 48
-[69]
-Overfull \vbox (7.18544pt too high) detected at line 48
-[70 <./5.d-kt_meltingscenario/mechanism-1.pdf>]
-Overfull \vbox (7.18544pt too high) detected at line 48
-[71]
-Overfull \vbox (7.18544pt too high) detected at line 48
-[72] [73]) (./c.8-kt_results_1/kt_results.tex
-(/usr/local/texlive/2022/texmf-dist/tex/latex/lm/t1lmtt.fd)
-
-pdfTeX warning: pdflatex (file ./7.d-kt_results/new-mechanism-0.pdf): PDF inclu
+pdfTeX warning: pdflatex (file ./c.2-kt_geomcharges_1/dipolemag.pdf): PDF inclu
 sion: found PDF version <1.6>, but at most version <1.5> allowed
 
+Overfull \hbox (13.2435pt too wide) detected at line 94
+[] \OT1/lmr/m/n/9 = [] \OMS/lmsy/m/n/9 ^^@ []
+
+Overfull \vbox (27.90303pt too high) detected at line 94
+[54 <./c.2-kt_geomcharges_1/chargesequiv-2.pdf> <./c.2-kt_geomcharges_1/dipolem
+ag.pdf>]) (./c.6-kt_energyentropy/kt_energyentropy.tex
+
+pdfTeX warning: pdflatex (file ./c.6-kt_energyentropy/dofs_quadrupole-0.pdf): P
+DF inclusion: found PDF version <1.6>, but at most version <1.5> allowed
+
+
+pdfTeX warning: pdflatex (file ./c.6-kt_energyentropy/dofs_quadrupole-1.pdf): P
+DF inclusion: found PDF version <1.6>, but at most version <1.5> allowed
+
+
+pdfTeX warning: pdflatex (file ./c.6-kt_energyentropy/dofs_quadrupole-3.pdf): P
+DF inclusion: found PDF version <1.6>, but at most version <1.5> allowed
+
+Overfull \vbox (41.60344pt too high) detected at line 48
+[55]
+Overfull \vbox (41.60344pt too high) detected at line 48
+[56 <./c.6-kt_energyentropy/dofs_quadrupole-0.pdf>]
+Overfull \vbox (41.60344pt too high) detected at line 48
+[57 <./c.6-kt_energyentropy/dofs_quadrupole-1.pdf>]
+Overfull \vbox (41.60344pt too high) detected at line 48
+[58 <./c.6-kt_energyentropy/dofs_quadrupole-3.pdf>])
+(./c.7-kt_meltingscenario/kt_meltingscenario.tex
+
+pdfTeX warning: pdflatex (file ./c.7-kt_meltingscenario/mechanism-0.pdf): PDF i
+nclusion: found PDF version <1.6>, but at most version <1.5> allowed
+
+
+pdfTeX warning: pdflatex (file ./c.7-kt_meltingscenario/mechanism-1.pdf): PDF i
+nclusion: found PDF version <1.6>, but at most version <1.5> allowed
+
+Overfull \vbox (7.18544pt too high) detected at line 48
+[59]
+Overfull \vbox (7.18544pt too high) detected at line 48
+[60 <./c.7-kt_meltingscenario/mechanism-0.pdf>]
+Overfull \vbox (7.18544pt too high) detected at line 48
+[61]
+Overfull \vbox (7.18544pt too high) detected at line 48
+[62]
+Overfull \vbox (7.18544pt too high) detected at line 48
+[63 <./c.7-kt_meltingscenario/mechanism-1.pdf>]
+Overfull \vbox (7.18544pt too high) detected at line 48
+[64]
+Overfull \vbox (7.18544pt too high) detected at line 48
+[65] [66]) (./c.8-kt_results_1/kt_results.tex
+(/usr/local/texlive/2022/texmf-dist/tex/latex/lm/t1lmtt.fd)
+
+pdfTeX warning: pdflatex (file ./c.8-kt_results_1/new-mechanism-0.pdf): PDF inc
+lusion: found PDF version <1.6>, but at most version <1.5> allowed
+
 Overfull \hbox (0.58324pt too wide) detected at line 124
 []
 
 Overfull \vbox (6.63614pt too high) detected at line 124
+[67]
+Overfull \hbox (0.58324pt too wide) detected at line 124
+[]
+
+Overfull \vbox (6.63614pt too high) detected at line 124
+[68]
+Overfull \hbox (0.58324pt too wide) detected at line 124
+[]
+
+Overfull \vbox (6.63614pt too high) detected at line 124
+[69 <./c.8-kt_results_1/new-mechanism-0.pdf>]
+Overfull \hbox (0.58324pt too wide) detected at line 124
+[]
+
+Overfull \vbox (12.93614pt too high) detected at line 124
+[70]
+Overfull \hbox (0.58324pt too wide) detected at line 124
+[]
+
+Overfull \vbox (12.93614pt too high) detected at line 124
+[71]
+Overfull \hbox (0.58324pt too wide) detected at line 124
+[]
+
+Overfull \vbox (12.93614pt too high) detected at line 124
+[72]) (./c.10-kt_merminwagner_1/kt_merminwagner.tex
+Overfull \vbox (4.55106pt too high) detected at line 38
+[73 <./c.10-kt_merminwagner_1/merminwagner_comparison_0.pdf> <./c.10-kt_merminw
+agner_1/merminwagner_comparison_1.pdf>]
+Overfull \vbox (4.55106pt too high) detected at line 38
 [74]
-Overfull \hbox (0.58324pt too wide) detected at line 124
-[]
+Overfull \vbox (4.55106pt too high) detected at line 38
+[75]) (./c.13-kt_keim_1/kt_keim.tex
 
-Overfull \vbox (6.63614pt too high) detected at line 124
-[75]
-Overfull \hbox (0.58324pt too wide) detected at line 124
-[]
+pdfTeX warning: pdflatex (file ./c.13-kt_keim_1/keim_setup_0.pdf): PDF inclusio
+n: found PDF version <1.6>, but at most version <1.5> allowed
 
-Overfull \vbox (6.63614pt too high) detected at line 124
-[76 <./7.d-kt_results/new-mechanism-0.pdf>]
-Overfull \hbox (0.58324pt too wide) detected at line 124
-[]
 
-Overfull \vbox (12.93614pt too high) detected at line 124
+pdfTeX warning: pdflatex (file ./c.13-kt_keim_1/keim_setup_1.pdf): PDF inclusio
+n: found PDF version <1.6>, but at most version <1.5> allowed
+
+
+pdfTeX warning: pdflatex (file ./c.13-kt_keim_1/keim_setup_2.pdf): PDF inclusio
+n: found PDF version <1.6>, but at most version <1.5> allowed
+
+Overfull \vbox (178.91501pt too high) detected at line 130
+[76]
+Overfull \vbox (178.91501pt too high) detected at line 130
 [77]
-Overfull \hbox (0.58324pt too wide) detected at line 124
-[]
-
-Overfull \vbox (12.93614pt too high) detected at line 124
+Overfull \vbox (178.91501pt too high) detected at line 130
 [78]
-Overfull \hbox (0.58324pt too wide) detected at line 124
-[]
-
-Overfull \vbox (12.93614pt too high) detected at line 124
-[79]) (./c.10-kt_merminwagner_1/kt_merminwagner.tex
-Overfull \vbox (4.55106pt too high) detected at line 38
-[80 <./8.d-kt_merminwagner/merminwagner_comparison_0.pdf> <./8.d-kt_merminwagne
-r/merminwagner_comparison_1.pdf>]
-Overfull \vbox (4.55106pt too high) detected at line 38
-[81]
-Overfull \vbox (4.55106pt too high) detected at line 38
-[82]) (./c.13-kt_keim_1/kt_keim.tex
-
-pdfTeX warning: pdflatex (file ./9.d-kt_keim/keim_setup_0.pdf): PDF inclusion: 
-found PDF version <1.6>, but at most version <1.5> allowed
-
-
-pdfTeX warning: pdflatex (file ./9.d-kt_keim/keim_setup_1.pdf): PDF inclusion: 
-found PDF version <1.6>, but at most version <1.5> allowed
-
-
-pdfTeX warning: pdflatex (file ./9.d-kt_keim/keim_setup_2.pdf): PDF inclusion: 
-found PDF version <1.6>, but at most version <1.5> allowed
-
+Overfull \vbox (178.91501pt too high) detected at line 130
+[79 <./c.13-kt_keim_1/Yrenorm_poly12.pdf>]
+Overfull \vbox (178.91501pt too high) detected at line 130
+[80]
+Overfull \vbox (178.91501pt too high) detected at line 130
+[81 <./c.13-kt_keim_1/keim_setup_0.pdf>]
+Overfull \vbox (178.91501pt too high) detected at line 130
+[82 <./c.13-kt_keim_1/keim_setup_1.pdf>]
 Overfull \vbox (178.91501pt too high) detected at line 130
 [83]
 Overfull \vbox (178.91501pt too high) detected at line 130
-[84]
+[84 <./c.13-kt_keim_1/keim_setup_2.pdf>]
 Overfull \vbox (178.91501pt too high) detected at line 130
 [85]
 Overfull \vbox (178.91501pt too high) detected at line 130
-[86 <./9.d-kt_keim/Yrenorm_poly12.pdf>]
+[86 <./c.13-kt_keim_1/YRG_keim_exp_0.pdf>]
 Overfull \vbox (178.91501pt too high) detected at line 130
 [87]
 Overfull \vbox (178.91501pt too high) detected at line 130
-[88 <./9.d-kt_keim/keim_setup_0.pdf>]
+[88 <./c.13-kt_keim_1/YRG_keim_exp_1.pdf>]
 Overfull \vbox (178.91501pt too high) detected at line 130
-[89 <./9.d-kt_keim/keim_setup_1.pdf>]
+[89 <./c.13-kt_keim_1/YRG_keim.pdf>]
 Overfull \vbox (178.91501pt too high) detected at line 130
-[90]
+[90 <./c.13-kt_keim_1/YRG_keim_closeup.pdf>]
 Overfull \vbox (178.91501pt too high) detected at line 130
-[91 <./9.d-kt_keim/keim_setup_2.pdf>]
+[91 <./c.13-kt_keim_1/msd_keim.png>]
 Overfull \vbox (178.91501pt too high) detected at line 130
-[92]
+[92 <./c.13-kt_keim_1/msd_keim_1.png>]
 Overfull \vbox (178.91501pt too high) detected at line 130
-[93 <./9.d-kt_keim/YRG_keim_exp_0.pdf>]
-Overfull \vbox (178.91501pt too high) detected at line 130
+[93]) (./c.15-kt_spatialcorrel/kt_spatialcorrel.tex
+Overfull \vbox (13.55333pt too high) detected at line 44
 [94]
-Overfull \vbox (178.91501pt too high) detected at line 130
-[95 <./9.d-kt_keim/YRG_keim_exp_1.pdf>]
-Overfull \vbox (178.91501pt too high) detected at line 130
-[96 <./9.d-kt_keim/YRG_keim.pdf>]
-Overfull \vbox (178.91501pt too high) detected at line 130
-[97 <./9.d-kt_keim/YRG_keim_closeup.pdf>]
-Overfull \vbox (178.91501pt too high) detected at line 130
-[98 <./9.d-kt_keim/msd_keim.png>]
-Overfull \vbox (178.91501pt too high) detected at line 130
-[99 <./9.d-kt_keim/msd_keim_1.png>]
-Overfull \vbox (178.91501pt too high) detected at line 130
-[100]) (./c.15-kt_spatialcorrel/kt_spatialcorrel.tex
 Overfull \vbox (13.55333pt too high) detected at line 44
-[101]
+[95]
 Overfull \vbox (13.55333pt too high) detected at line 44
-[102]
+[96]
 Overfull \vbox (13.55333pt too high) detected at line 44
-[103]
+[97]
 Overfull \vbox (13.55333pt too high) detected at line 44
-[104]
+[98 <./c.15-kt_spatialcorrel/spatialcorrel.pdf>]
 Overfull \vbox (13.55333pt too high) detected at line 44
-[105 <./10.d-kt_spatialcorrel/spatialcorrel.pdf>]
-Overfull \vbox (13.55333pt too high) detected at line 44
-[106]) (./d.1-fac_intro/fac_intro.tex
+[99]) (./d.1-fac_intro/fac_intro.tex
 
-pdfTeX warning: pdflatex (file ./1.c-fac_intro/interlude1.pdf): PDF inclusion: 
+pdfTeX warning: pdflatex (file ./d.1-fac_intro/interlude1.pdf): PDF inclusion: 
 found PDF version <1.6>, but at most version <1.5> allowed
 
 
-pdfTeX warning: pdflatex (file ./1.c-fac_intro/interlude2.pdf): PDF inclusion: 
+pdfTeX warning: pdflatex (file ./d.1-fac_intro/interlude2.pdf): PDF inclusion: 
 found PDF version <1.6>, but at most version <1.5> allowed
 
 
-pdfTeX warning: pdflatex (file ./1.c-fac_intro/bare_test_0.pdf): PDF inclusion:
+pdfTeX warning: pdflatex (file ./d.1-fac_intro/bare_test_0.pdf): PDF inclusion:
  found PDF version <1.6>, but at most version <1.5> allowed
 
 
-pdfTeX warning: pdflatex (file ./1.c-fac_intro/bare_test_3.pdf): PDF inclusion:
+pdfTeX warning: pdflatex (file ./d.1-fac_intro/bare_test_3.pdf): PDF inclusion:
  found PDF version <1.6>, but at most version <1.5> allowed
 
 
-pdfTeX warning: pdflatex (file ./1.c-fac_intro/test_3.pdf): PDF inclusion: foun
+pdfTeX warning: pdflatex (file ./d.1-fac_intro/test_3.pdf): PDF inclusion: foun
 d PDF version <1.6>, but at most version <1.5> allowed
 
 
-pdfTeX warning: pdflatex (file ./1.c-fac_intro/test_6.pdf): PDF inclusion: foun
+pdfTeX warning: pdflatex (file ./d.1-fac_intro/test_6.pdf): PDF inclusion: foun
 d PDF version <1.6>, but at most version <1.5> allowed
 
 Overfull \vbox (23.35045pt too high) detected at line 60
-[107]
+[100]
 Overfull \vbox (23.35045pt too high) detected at line 60
-[108 <./1.c-fac_intro/interlude1.pdf>]
+[101 <./d.1-fac_intro/interlude1.pdf>]
 Overfull \vbox (23.35045pt too high) detected at line 60
-[109 <./1.c-fac_intro/interlude2.pdf>]
+[102 <./d.1-fac_intro/interlude2.pdf>]
 Overfull \vbox (23.35045pt too high) detected at line 60
-[110 <./1.c-fac_intro/bare_test_0.pdf>]
+[103 <./d.1-fac_intro/bare_test_0.pdf>]
 Overfull \vbox (23.35045pt too high) detected at line 60
-[111 <./1.c-fac_intro/bare_test_3.pdf>]
+[104 <./d.1-fac_intro/bare_test_3.pdf>]
 Overfull \vbox (23.35045pt too high) detected at line 60
-[112]
+[105]
 Overfull \vbox (23.35045pt too high) detected at line 60
-[113 <./1.c-fac_intro/test_3.pdf>]
+[106 <./d.1-fac_intro/test_3.pdf>]
 Overfull \vbox (23.35045pt too high) detected at line 60
-[114 <./1.c-fac_intro/test_6.pdf>]
+[107 <./d.1-fac_intro/test_6.pdf>]
 Overfull \vbox (23.35045pt too high) detected at line 60
-[115]
+[108]
 Overfull \vbox (23.35045pt too high) detected at line 60
-[116]
+[109]
 Overfull \vbox (23.35045pt too high) detected at line 60
-[117]
+[110]
 Overfull \vbox (23.35045pt too high) detected at line 60
-[118]
+[111]
 Overfull \vbox (23.35045pt too high) detected at line 60
-[119]) (./d.2-fac_intrc_1/fac_intrc.tex [120] [121]
+[112]) (./d.2-fac_intrc_1/fac_intrc.tex [113] [114]
 
-pdfTeX warning: pdflatex (file ./2.c-fac_intrc/excconfig2.pdf): PDF inclusion: 
-found PDF version <1.6>, but at most version <1.5> allowed
+pdfTeX warning: pdflatex (file ./d.2-fac_intrc_1/excconfig2.pdf): PDF inclusion
+: found PDF version <1.6>, but at most version <1.5> allowed
 
 Overfull \vbox (72.20912pt too high) detected at line 105
-[122 <./2.c-fac_intrc/excconfig2.pdf>]
+[115 <./d.2-fac_intrc_1/excconfig2.pdf>]
 
-pdfTeX warning: pdflatex (file ./3.c-fac_results/minima.pdf): PDF inclusion: fo
-und PDF version <1.6>, but at most version <1.5> allowed
+pdfTeX warning: pdflatex (file ./d.4-fac_results_1/minima.pdf): PDF inclusion: 
+found PDF version <1.6>, but at most version <1.5> allowed
 
 Overfull \vbox (68.29839pt too high) detected at line 105
-[123 <./3.c-fac_results/minima.pdf>]
+[116 <./d.4-fac_results_1/minima.pdf>]
 
-pdfTeX warning: pdflatex (file ./2.c-fac_intrc/pes.pdf): PDF inclusion: found P
-DF version <1.6>, but at most version <1.5> allowed
+pdfTeX warning: pdflatex (file ./d.2-fac_intrc_1/pes.pdf): PDF inclusion: found
+ PDF version <1.6>, but at most version <1.5> allowed
 
 Overfull \vbox (12.16171pt too high) detected at line 105
-[124 <./2.c-fac_intrc/pes.pdf>]
+[117 <./d.2-fac_intrc_1/pes.pdf>]
 Overfull \vbox (12.16171pt too high) detected at line 105
-[125]) (./d.4-fac_results_1/fac_results_1.tex<<VPlayer.swf>><<d.4-fac_results_1
+[118]) (./d.4-fac_results_1/fac_results_1.tex<<VPlayer.swf>><<d.4-fac_results_1
 /displowT.mp4>>
 
 pdfTeX warning: pdflatex (file ./d.4-fac_results_1/out-700.pdf): PDF inclusion:
@@ -1875,13 +1793,13 @@ pdfTeX warning: pdflatex (file ./d.4-fac_results_1/persout-012.pdf): PDF inclus
 ion: found PDF version <1.6>, but at most version <1.5> allowed
 
 Overfull \vbox (13.60052pt too high) detected at line 42
-[126 <./d.4-fac_results_1/displowT3.png>]
+[119 <./d.4-fac_results_1/displowT3.png>]
 Overfull \vbox (15.29297pt too high) detected at line 42
-[127 <./d.4-fac_results_1/out-700.pdf>]
+[120 <./d.4-fac_results_1/out-700.pdf>]
 Overfull \vbox (15.85052pt too high) detected at line 42
-[128 <./d.4-fac_results_1/persistlowT3.png>]
+[121 <./d.4-fac_results_1/persistlowT3.png>]
 Overfull \vbox (28.44295pt too high) detected at line 42
-[129 <./d.4-fac_results_1/persout-012.pdf>] [130])
+[122 <./d.4-fac_results_1/persout-012.pdf>] [123])
 (./d.5-fac_results_2/fac_results_2.tex
 
 pdfTeX warning: pdflatex (file ./d.5-fac_results_2/surveyresults1.pdf): PDF inc
@@ -1900,13 +1818,13 @@ pdfTeX warning: pdflatex (file ./d.5-fac_results_2/surveyresults.pdf): PDF incl
 usion: found PDF version <1.6>, but at most version <1.5> allowed
 
 Overfull \vbox (9.74269pt too high) detected at line 11
-[131 <./d.5-fac_results_2/surveyresults1.pdf>]
+[124 <./d.5-fac_results_2/surveyresults1.pdf>]
 Overfull \vbox (9.74269pt too high) detected at line 11
-[132 <./d.5-fac_results_2/surveyresults2.pdf>]
+[125 <./d.5-fac_results_2/surveyresults2.pdf>]
 Overfull \vbox (9.74269pt too high) detected at line 11
-[133 <./d.5-fac_results_2/surveyresults3.pdf>]
+[126 <./d.5-fac_results_2/surveyresults3.pdf>]
 Overfull \vbox (9.74269pt too high) detected at line 11
-[134 <./d.5-fac_results_2/surveyresults.pdf>])
+[127 <./d.5-fac_results_2/surveyresults.pdf>])
 (./d.6-fac_results_3/fac_results_3.tex
 
 pdfTeX warning: pdflatex (file ./d.6-fac_results_3/pes.pdf): PDF inclusion: fou
@@ -1925,45 +1843,45 @@ pdfTeX warning: pdflatex (file ./d.6-fac_results_3/newmsdphonons1.pdf): PDF inc
 lusion: found PDF version <1.6>, but at most version <1.5> allowed
 
 Overfull \vbox (32.47269pt too high) detected at line 63
-[135]
+[128]
 Overfull \vbox (32.47269pt too high) detected at line 63
-[136 <./d.6-fac_results_3/pes.pdf>]
+[129 <./d.6-fac_results_3/pes.pdf>]
 Overfull \vbox (32.47269pt too high) detected at line 63
-[137]
+[130]
 Overfull \vbox (32.47269pt too high) detected at line 63
-[138]
+[131]
 Overfull \vbox (32.47269pt too high) detected at line 63
-[139 <./d.6-fac_results_3/newmsdphonons0.pdf>]
+[132 <./d.6-fac_results_3/newmsdphonons0.pdf>]
 Overfull \vbox (32.47269pt too high) detected at line 63
-[140 <./d.6-fac_results_3/ismsdmd.pdf>]
+[133 <./d.6-fac_results_3/ismsdmd.pdf>]
 Overfull \vbox (32.47269pt too high) detected at line 63
-[141]
+[134]
 Overfull \vbox (32.47269pt too high) detected at line 63
-[142 <./d.6-fac_results_3/newmsdphonons1.pdf>])
+[135 <./d.6-fac_results_3/newmsdphonons1.pdf>])
 (./e.1-acknowledgements/acknowledgements.tex
 Overfull \vbox (9.40187pt too high) detected at line 39
-[143 <./acknowledgements/index.jpg> <./acknowledgements/image912.png> <./3.c-fa
-c_results/persistlowT3.png>]
+[136 <./acknowledgements/index.jpg> <./acknowledgements/image912.png> <./d.6-fa
+c_results_3/persistlowT3.png>]
 Overfull \vbox (9.40187pt too high) detected at line 39
-[144]
+[137]
 Overfull \vbox (9.40187pt too high) detected at line 39
-[145]
+[138]
 Overfull \vbox (9.40187pt too high) detected at line 39
-[146])
+[139])
 
-pdfTeX warning: pdflatex (file ./1.c-fac_intro/taubwithirrev.pdf): PDF inclusio
+pdfTeX warning: pdflatex (file ./d.1-fac_intro/taubwithirrev.pdf): PDF inclusio
 n: found PDF version <1.6>, but at most version <1.5> allowed
 
 Overfull \vbox (46.65074pt too high) detected at line 218
-[147]
+[140]
 Overfull \vbox (46.65074pt too high) detected at line 218
-[148 <./3.c-fac_results/persistlowT.jpg>]
+[141 <./d.6-fac_results_3/persistlowT.jpg>]
 Overfull \vbox (46.65074pt too high) detected at line 218
-[149]
+[142]
 Overfull \vbox (46.65074pt too high) detected at line 218
-[150 <./1.c-fac_intro/taubwithirrev.pdf>]
+[143 <./d.1-fac_intro/taubwithirrev.pdf>]
 Overfull \vbox (46.65074pt too high) detected at line 218
-[151] (output/presentation.aux) )
+[144] (output/presentation.aux) )
 (see the transcript file for additional information){/usr/local/texlive/2022/te
 xmf-dist/fonts/enc/dvips/lm/lm-rm.enc}{/usr/local/texlive/2022/texmf-dist/fonts
 /enc/dvips/lm/lm-mathsy.enc}{/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips
@@ -2003,7 +1921,7 @@ texmf-dist/fonts/type1/public/lm/lmsy10.pfb></usr/local/texlive/2022/texmf-dist
 /lmsy8.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/lm/lmsy9.pfb>
 </usr/local/texlive/2022/texmf-dist/fonts/type1/public/lm/lmtt8.pfb></usr/local
 /texlive/2022/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb>
-Output written on output/presentation.pdf (151 pages, 155916915 bytes).
+Output written on output/presentation.pdf (144 pages, 151472294 bytes).
 Transcript written on output/presentation.log.
 This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex)
  restricted \write18 enabled.
@@ -2445,142 +2363,89 @@ enefit from \pgfplotsset{compat=1.18} (current compat level: 1.9).
 Overfull \vbox (18.28288pt too high) detected at line 142
 [1{/usr/local/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
 (./a.1-intro_quickglassy/intro_quickglassy.tex
-
-pdfTeX warning: pdflatex (file ./3.a-intro_dh/gr_poly12_single-1.pdf): PDF incl
-usion: found PDF version <1.6>, but at most version <1.5> allowed
-
 Overfull \vbox (22.08557pt too high) detected at line 84
 [2]
 Overfull \vbox (22.98206pt too high) detected at line 84
 [3 <./intro_glassy/timerelax_b2o3_4.pdf>]
 Overfull \vbox (22.98206pt too high) detected at line 84
-[4 <./3.a-intro_dh/softspots_220.png>]
+[4 <./intro_glassy/softspots_280.png>]
 Overfull \vbox (22.98206pt too high) detected at line 84
-[5 <./intro_glassy/softspots_280.png>]
+[5]
 Overfull \vbox (22.98206pt too high) detected at line 84
-[6 <./3.a-intro_dh/poly12_lowT.png>]
+[6 <./intro_glassy/timerelax_poly12_0.pdf>]
 Overfull \vbox (22.98206pt too high) detected at line 84
-[7 <./3.a-intro_dh/gr_poly12_single-1.pdf>])
+[7 <./intro_glassy/timerelax_poly12_1.pdf>])
 (./a.2-intro_dftheory/intro_dftheory.tex
 Overfull \vbox (15.47429pt too high) detected at line 51
 [8]
 Overfull \vbox (15.47429pt too high) detected at line 51
-[9 <./2.a-intro_dftheory/DF_Theory_Excitations_Zoom_0.pdf>]
+[9 <./a.2-intro_dftheory/DF_Theory_Excitations_Zoom_0.pdf>]
 Overfull \vbox (15.47429pt too high) detected at line 51
-[10 <./2.a-intro_dftheory/DF_Theory_Excitations_Zoom_1.pdf>]
+[10 <./a.2-intro_dftheory/DF_Theory_Excitations_Zoom_1.pdf>]
 Overfull \vbox (15.47429pt too high) detected at line 51
-[11 <./2.a-intro_dftheory/DF_Theory_Excitations_Zoom_2.pdf>]
+[11 <./a.2-intro_dftheory/DF_Theory_Excitations_Zoom_2.pdf>]
 Overfull \vbox (15.47429pt too high) detected at line 51
-[12 <./2.a-intro_dftheory/facilitation_closer_1.pdf>]
+[12 <./a.2-intro_dftheory/facilitation_closer_1.pdf>]
 Overfull \vbox (15.47429pt too high) detected at line 51
-[13 <./2.a-intro_dftheory/facilitation_closer_2.pdf>])
+[13 <./a.2-intro_dftheory/facilitation_closer_2.pdf>])
 (./a.3-edf_overview/intermezzo.tex
 
-pdfTeX warning: pdflatex (file ./1.d-kt_msdintro/msd-supercooledliq-5.pdf): PDF
+pdfTeX warning: pdflatex (file ./c.1-kt_msdintro/msd-supercooledliq-5.pdf): PDF
  inclusion: found PDF version <1.6>, but at most version <1.5> allowed
 
 Overfull \vbox (93.47206pt too high) detected at line 54
-[14 <./1.d-kt_msdintro/msd-supercooledliq-5.pdf>])
+[14 <./c.1-kt_msdintro/msd-supercooledliq-5.pdf>])
 (./b.1-exc_pureshear/exc_pureshear.tex
 
-pdfTeX warning: pdflatex (file ./5.c-fac_summodel/PEL.pdf): PDF inclusion: foun
-d PDF version <1.6>, but at most version <1.5> allowed
-
-Overfull \hbox (15.93427pt too wide) in paragraph at lines 80--80
- [][] 
-
-
-pdfTeX warning: pdflatex (file ./1.b-exc_pureshear/zoomin-0.pdf): PDF inclusion
+pdfTeX warning: pdflatex (file ./b.1-exc_pureshear/zoomin-0.pdf): PDF inclusion
 : found PDF version <1.6>, but at most version <1.5> allowed
 
 
-pdfTeX warning: pdflatex (file ./1.b-exc_pureshear/zoomin-1.pdf): PDF inclusion
+pdfTeX warning: pdflatex (file ./b.1-exc_pureshear/zoomin-1.pdf): PDF inclusion
 : found PDF version <1.6>, but at most version <1.5> allowed
 
 
-pdfTeX warning: pdflatex (file ./1.b-exc_pureshear/zoomin-2.pdf): PDF inclusion
+pdfTeX warning: pdflatex (file ./b.1-exc_pureshear/zoomin-2.pdf): PDF inclusion
 : found PDF version <1.6>, but at most version <1.5> allowed
 
 
-pdfTeX warning: pdflatex (file ./1.b-exc_pureshear/zoomin-3.pdf): PDF inclusion
+pdfTeX warning: pdflatex (file ./b.1-exc_pureshear/zoomin-3.pdf): PDF inclusion
 : found PDF version <1.6>, but at most version <1.5> allowed
 
 
-pdfTeX warning: pdflatex (file ./1.b-exc_pureshear/T1transition.pdf): PDF inclu
+pdfTeX warning: pdflatex (file ./b.1-exc_pureshear/T1transition.pdf): PDF inclu
 sion: found PDF version <1.6>, but at most version <1.5> allowed
 
-Overfull \vbox (21.61967pt too high) detected at line 80
+Overfull \vbox (11.26973pt too high) detected at line 80
 [15]
-Overfull \hbox (15.93427pt too wide) in paragraph at lines 80--80
- [][] 
-
-Overfull \vbox (21.61967pt too high) detected at line 80
-[16 <./5.c-fac_summodel/PEL.pdf>]
-Overfull \hbox (15.93427pt too wide) in paragraph at lines 80--80
- [][] 
-
-Overfull \vbox (21.61967pt too high) detected at line 80
-[17 <./1.b-exc_pureshear/zoomout_dispmag.png>]
-Overfull \hbox (15.93427pt too wide) in paragraph at lines 80--80
- [][] 
-
-Overfull \vbox (21.61967pt too high) detected at line 80
-[18 <./1.b-exc_pureshear/zoomout_dispvector.png>]
-Overfull \hbox (15.93427pt too wide) in paragraph at lines 80--80
- [][] 
-
-Overfull \vbox (21.61967pt too high) detected at line 80
-[19 <./1.b-exc_pureshear/zoomout_dispvector_1.png>]
-Overfull \hbox (15.93427pt too wide) in paragraph at lines 80--80
- [][] 
-
-Overfull \vbox (21.61967pt too high) detected at line 80
-[20 <./1.b-exc_pureshear/zoomin-0.pdf>]
-Overfull \hbox (15.93427pt too wide) in paragraph at lines 80--80
- [][] 
-
-Overfull \vbox (21.61967pt too high) detected at line 80
-[21 <./1.b-exc_pureshear/zoomin-1.pdf>]
-Overfull \hbox (15.93427pt too wide) in paragraph at lines 80--80
- [][] 
-
-Overfull \vbox (21.61967pt too high) detected at line 80
-[22 <./1.b-exc_pureshear/zoomin-2.pdf>]
-Overfull \hbox (15.93427pt too wide) in paragraph at lines 80--80
- [][] 
-
-Overfull \vbox (21.61967pt too high) detected at line 80
-[23 <./1.b-exc_pureshear/zoomin-3.pdf>]
-Overfull \hbox (15.93427pt too wide) in paragraph at lines 80--80
- [][] 
-
-Overfull \vbox (21.61967pt too high) detected at line 80
-[24 <./1.b-exc_pureshear/zoomin-7.pdf>]
-Overfull \hbox (15.93427pt too wide) in paragraph at lines 80--80
- [][] 
-
-Overfull \vbox (21.61967pt too high) detected at line 80
-[25 <./1.b-exc_pureshear/zoomin-8.pdf>]
-Overfull \hbox (15.93427pt too wide) in paragraph at lines 80--80
- [][] 
-
-Overfull \vbox (21.61967pt too high) detected at line 80
-[26 <./1.b-exc_pureshear/zoomin-9.pdf>]
-Overfull \hbox (15.93427pt too wide) in paragraph at lines 80--80
- [][] 
-
-Overfull \vbox (21.61967pt too high) detected at line 80
+Overfull \vbox (11.26973pt too high) detected at line 80
+[16]
+Overfull \vbox (11.26973pt too high) detected at line 80
+[17 <./b.1-exc_pureshear/zoomout_dispmag.png>]
+Overfull \vbox (11.26973pt too high) detected at line 80
+[18 <./b.1-exc_pureshear/zoomout_dispvector.png>]
+Overfull \vbox (11.26973pt too high) detected at line 80
+[19 <./b.1-exc_pureshear/zoomout_dispvector_1.png>]
+Overfull \vbox (11.26973pt too high) detected at line 80
+[20 <./b.1-exc_pureshear/zoomin-0.pdf>]
+Overfull \vbox (11.26973pt too high) detected at line 80
+[21 <./b.1-exc_pureshear/zoomin-1.pdf>]
+Overfull \vbox (11.26973pt too high) detected at line 80
+[22 <./b.1-exc_pureshear/zoomin-2.pdf>]
+Overfull \vbox (11.26973pt too high) detected at line 80
+[23 <./b.1-exc_pureshear/zoomin-3.pdf>]
+Overfull \vbox (11.26973pt too high) detected at line 80
+[24 <./b.1-exc_pureshear/zoomin-7.pdf>]
+Overfull \vbox (11.26973pt too high) detected at line 80
+[25 <./b.1-exc_pureshear/zoomin-8.pdf>]
+Overfull \vbox (11.26973pt too high) detected at line 80
+[26 <./b.1-exc_pureshear/zoomin-9.pdf>]
+Overfull \vbox (11.26973pt too high) detected at line 80
 [27]
-Overfull \hbox (15.93427pt too wide) in paragraph at lines 80--80
- [][] 
-
-Overfull \vbox (21.61967pt too high) detected at line 80
+Overfull \vbox (11.26973pt too high) detected at line 80
 [28]
-Overfull \hbox (15.93427pt too wide) in paragraph at lines 80--80
- [][] 
-
-Overfull \vbox (21.61967pt too high) detected at line 80
-[29 <./1.b-exc_pureshear/T1transition.pdf>])
+Overfull \vbox (11.26973pt too high) detected at line 80
+[29 <./b.1-exc_pureshear/T1transition.pdf>])
 (./b.2-exc_results_1/exc_results_1.tex
 (/usr/local/texlive/2022/texmf-dist/tex/latex/lm/ts1lmss.fd)
 Overfull \vbox (18.09647pt too high) detected at line 42
@@ -2611,19 +2476,19 @@ Overfull \vbox (2.78098pt too high) detected at line 49
 [40 <./b.3-exc_results_2/giso-2.pdf>]) [41 <./ismeltingpaper_screen.png>]
 (./c.1-kt_msdintro/kt_msdintro.tex
 
-pdfTeX warning: pdflatex (file ./1.d-kt_msdintro/msd-supercooledliq-0.pdf): PDF
+pdfTeX warning: pdflatex (file ./c.1-kt_msdintro/msd-supercooledliq-0.pdf): PDF
  inclusion: found PDF version <1.6>, but at most version <1.5> allowed
 
 
-pdfTeX warning: pdflatex (file ./1.d-kt_msdintro/msd-supercooledliq-1.pdf): PDF
+pdfTeX warning: pdflatex (file ./c.1-kt_msdintro/msd-supercooledliq-1.pdf): PDF
  inclusion: found PDF version <1.6>, but at most version <1.5> allowed
 
 
-pdfTeX warning: pdflatex (file ./1.d-kt_msdintro/msd-supercooledliq-2.pdf): PDF
+pdfTeX warning: pdflatex (file ./c.1-kt_msdintro/msd-supercooledliq-2.pdf): PDF
  inclusion: found PDF version <1.6>, but at most version <1.5> allowed
 
 
-pdfTeX warning: pdflatex (file ./1.d-kt_msdintro/msd-supercooledliq-4.pdf): PDF
+pdfTeX warning: pdflatex (file ./c.1-kt_msdintro/msd-supercooledliq-4.pdf): PDF
  inclusion: found PDF version <1.6>, but at most version <1.5> allowed
 
 Overfull \vbox (11.90327pt too high) detected at line 67
@@ -2631,15 +2496,15 @@ Overfull \vbox (11.90327pt too high) detected at line 67
 Overfull \vbox (11.90327pt too high) detected at line 67
 [43]
 Overfull \vbox (11.90327pt too high) detected at line 67
-[44 <./1.d-kt_msdintro/msd-supercooledliq-0.pdf>]
+[44 <./c.1-kt_msdintro/msd-supercooledliq-0.pdf>]
 Overfull \vbox (11.90327pt too high) detected at line 67
-[45 <./1.d-kt_msdintro/msd-supercooledliq-1.pdf>]
+[45 <./c.1-kt_msdintro/msd-supercooledliq-1.pdf>]
 Overfull \vbox (11.90327pt too high) detected at line 67
 [46]
 Overfull \vbox (11.90327pt too high) detected at line 67
-[47 <./1.d-kt_msdintro/msd-supercooledliq-2.pdf>]
+[47 <./c.1-kt_msdintro/msd-supercooledliq-2.pdf>]
 Overfull \vbox (11.90327pt too high) detected at line 67
-[48 <./1.d-kt_msdintro/msd-supercooledliq-4.pdf>]
+[48 <./c.1-kt_msdintro/msd-supercooledliq-4.pdf>]
 Overfull \vbox (11.90327pt too high) detected at line 67
 [49]
 Overfull \vbox (11.90327pt too high) detected at line 67
@@ -2651,222 +2516,234 @@ Overfull \vbox (11.90327pt too high) detected at line 67
 Overfull \vbox (11.90327pt too high) detected at line 67
 [53]) (./c.2-kt_geomcharges_1/kt_geomcharges.tex
 
-pdfTeX warning: pdflatex (file ./3.d-kt_geomcharges/chargesequiv-2.pdf): PDF in
-clusion: found PDF version <1.6>, but at most version <1.5> allowed
+pdfTeX warning: pdflatex (file ./c.2-kt_geomcharges_1/chargesequiv-2.pdf): PDF 
+inclusion: found PDF version <1.6>, but at most version <1.5> allowed
 
 
-pdfTeX warning: pdflatex (file ./3.d-kt_geomcharges/dipolemag.pdf): PDF inclusi
-on: found PDF version <1.6>, but at most version <1.5> allowed
-[54 <./3.d-kt_geomcharges/chargesequiv-2.pdf> <./3.d-kt_geomcharges/dipolemag.p
-df>] [55] [56] [57]) (./c.6-kt_energyentropy/kt_energyentropy.tex
-
-pdfTeX warning: pdflatex (file ./4.d-kt_energyentropy/dofs_quadrupole-0.pdf): P
-DF inclusion: found PDF version <1.6>, but at most version <1.5> allowed
-
-
-pdfTeX warning: pdflatex (file ./4.d-kt_energyentropy/dofs_quadrupole-1.pdf): P
-DF inclusion: found PDF version <1.6>, but at most version <1.5> allowed
-
-
-pdfTeX warning: pdflatex (file ./4.d-kt_energyentropy/dofs_quadrupole-3.pdf): P
-DF inclusion: found PDF version <1.6>, but at most version <1.5> allowed
-[58] [59 <./4.d-kt_energyentropy/dofs_quadrupole-0.pdf>] [60 <./4.d-kt_energyen
-tropy/dofs_quadrupole-1.pdf>] [61 <./4.d-kt_energyentropy/dofs_quadrupole-3.pdf
->] [62] [63] [64] [65]) (./c.7-kt_meltingscenario/kt_meltingscenario.tex
-
-pdfTeX warning: pdflatex (file ./5.d-kt_meltingscenario/mechanism-0.pdf): PDF i
-nclusion: found PDF version <1.6>, but at most version <1.5> allowed
-
-
-pdfTeX warning: pdflatex (file ./5.d-kt_meltingscenario/mechanism-1.pdf): PDF i
-nclusion: found PDF version <1.6>, but at most version <1.5> allowed
-
-Overfull \vbox (7.18544pt too high) detected at line 48
-[66]
-Overfull \vbox (7.18544pt too high) detected at line 48
-[67 <./5.d-kt_meltingscenario/mechanism-0.pdf>]
-Overfull \vbox (7.18544pt too high) detected at line 48
-[68]
-Overfull \vbox (7.18544pt too high) detected at line 48
-[69]
-Overfull \vbox (7.18544pt too high) detected at line 48
-[70 <./5.d-kt_meltingscenario/mechanism-1.pdf>]
-Overfull \vbox (7.18544pt too high) detected at line 48
-[71]
-Overfull \vbox (7.18544pt too high) detected at line 48
-[72] [73]) (./c.8-kt_results_1/kt_results.tex
-(/usr/local/texlive/2022/texmf-dist/tex/latex/lm/t1lmtt.fd)
-
-pdfTeX warning: pdflatex (file ./7.d-kt_results/new-mechanism-0.pdf): PDF inclu
+pdfTeX warning: pdflatex (file ./c.2-kt_geomcharges_1/dipolemag.pdf): PDF inclu
 sion: found PDF version <1.6>, but at most version <1.5> allowed
 
+Overfull \hbox (13.2435pt too wide) detected at line 94
+[] \OT1/lmr/m/n/9 = [] \OMS/lmsy/m/n/9 ^^@ []
+
+Overfull \vbox (27.90303pt too high) detected at line 94
+[54 <./c.2-kt_geomcharges_1/chargesequiv-2.pdf> <./c.2-kt_geomcharges_1/dipolem
+ag.pdf>]) (./c.6-kt_energyentropy/kt_energyentropy.tex
+
+pdfTeX warning: pdflatex (file ./c.6-kt_energyentropy/dofs_quadrupole-0.pdf): P
+DF inclusion: found PDF version <1.6>, but at most version <1.5> allowed
+
+
+pdfTeX warning: pdflatex (file ./c.6-kt_energyentropy/dofs_quadrupole-1.pdf): P
+DF inclusion: found PDF version <1.6>, but at most version <1.5> allowed
+
+
+pdfTeX warning: pdflatex (file ./c.6-kt_energyentropy/dofs_quadrupole-3.pdf): P
+DF inclusion: found PDF version <1.6>, but at most version <1.5> allowed
+
+Overfull \vbox (41.60344pt too high) detected at line 48
+[55]
+Overfull \vbox (41.60344pt too high) detected at line 48
+[56 <./c.6-kt_energyentropy/dofs_quadrupole-0.pdf>]
+Overfull \vbox (41.60344pt too high) detected at line 48
+[57 <./c.6-kt_energyentropy/dofs_quadrupole-1.pdf>]
+Overfull \vbox (41.60344pt too high) detected at line 48
+[58 <./c.6-kt_energyentropy/dofs_quadrupole-3.pdf>])
+(./c.7-kt_meltingscenario/kt_meltingscenario.tex
+
+pdfTeX warning: pdflatex (file ./c.7-kt_meltingscenario/mechanism-0.pdf): PDF i
+nclusion: found PDF version <1.6>, but at most version <1.5> allowed
+
+
+pdfTeX warning: pdflatex (file ./c.7-kt_meltingscenario/mechanism-1.pdf): PDF i
+nclusion: found PDF version <1.6>, but at most version <1.5> allowed
+
+Overfull \vbox (7.18544pt too high) detected at line 48
+[59]
+Overfull \vbox (7.18544pt too high) detected at line 48
+[60 <./c.7-kt_meltingscenario/mechanism-0.pdf>]
+Overfull \vbox (7.18544pt too high) detected at line 48
+[61]
+Overfull \vbox (7.18544pt too high) detected at line 48
+[62]
+Overfull \vbox (7.18544pt too high) detected at line 48
+[63 <./c.7-kt_meltingscenario/mechanism-1.pdf>]
+Overfull \vbox (7.18544pt too high) detected at line 48
+[64]
+Overfull \vbox (7.18544pt too high) detected at line 48
+[65] [66]) (./c.8-kt_results_1/kt_results.tex
+(/usr/local/texlive/2022/texmf-dist/tex/latex/lm/t1lmtt.fd)
+
+pdfTeX warning: pdflatex (file ./c.8-kt_results_1/new-mechanism-0.pdf): PDF inc
+lusion: found PDF version <1.6>, but at most version <1.5> allowed
+
 Overfull \hbox (0.58324pt too wide) detected at line 124
 []
 
 Overfull \vbox (6.63614pt too high) detected at line 124
+[67]
+Overfull \hbox (0.58324pt too wide) detected at line 124
+[]
+
+Overfull \vbox (6.63614pt too high) detected at line 124
+[68]
+Overfull \hbox (0.58324pt too wide) detected at line 124
+[]
+
+Overfull \vbox (6.63614pt too high) detected at line 124
+[69 <./c.8-kt_results_1/new-mechanism-0.pdf>]
+Overfull \hbox (0.58324pt too wide) detected at line 124
+[]
+
+Overfull \vbox (12.93614pt too high) detected at line 124
+[70]
+Overfull \hbox (0.58324pt too wide) detected at line 124
+[]
+
+Overfull \vbox (12.93614pt too high) detected at line 124
+[71]
+Overfull \hbox (0.58324pt too wide) detected at line 124
+[]
+
+Overfull \vbox (12.93614pt too high) detected at line 124
+[72]) (./c.10-kt_merminwagner_1/kt_merminwagner.tex
+Overfull \vbox (4.55106pt too high) detected at line 38
+[73 <./c.10-kt_merminwagner_1/merminwagner_comparison_0.pdf> <./c.10-kt_merminw
+agner_1/merminwagner_comparison_1.pdf>]
+Overfull \vbox (4.55106pt too high) detected at line 38
 [74]
-Overfull \hbox (0.58324pt too wide) detected at line 124
-[]
+Overfull \vbox (4.55106pt too high) detected at line 38
+[75]) (./c.13-kt_keim_1/kt_keim.tex
 
-Overfull \vbox (6.63614pt too high) detected at line 124
-[75]
-Overfull \hbox (0.58324pt too wide) detected at line 124
-[]
+pdfTeX warning: pdflatex (file ./c.13-kt_keim_1/keim_setup_0.pdf): PDF inclusio
+n: found PDF version <1.6>, but at most version <1.5> allowed
 
-Overfull \vbox (6.63614pt too high) detected at line 124
-[76 <./7.d-kt_results/new-mechanism-0.pdf>]
-Overfull \hbox (0.58324pt too wide) detected at line 124
-[]
 
-Overfull \vbox (12.93614pt too high) detected at line 124
+pdfTeX warning: pdflatex (file ./c.13-kt_keim_1/keim_setup_1.pdf): PDF inclusio
+n: found PDF version <1.6>, but at most version <1.5> allowed
+
+
+pdfTeX warning: pdflatex (file ./c.13-kt_keim_1/keim_setup_2.pdf): PDF inclusio
+n: found PDF version <1.6>, but at most version <1.5> allowed
+
+Overfull \vbox (178.91501pt too high) detected at line 130
+[76]
+Overfull \vbox (178.91501pt too high) detected at line 130
 [77]
-Overfull \hbox (0.58324pt too wide) detected at line 124
-[]
-
-Overfull \vbox (12.93614pt too high) detected at line 124
+Overfull \vbox (178.91501pt too high) detected at line 130
 [78]
-Overfull \hbox (0.58324pt too wide) detected at line 124
-[]
-
-Overfull \vbox (12.93614pt too high) detected at line 124
-[79]) (./c.10-kt_merminwagner_1/kt_merminwagner.tex
-Overfull \vbox (4.55106pt too high) detected at line 38
-[80 <./8.d-kt_merminwagner/merminwagner_comparison_0.pdf> <./8.d-kt_merminwagne
-r/merminwagner_comparison_1.pdf>]
-Overfull \vbox (4.55106pt too high) detected at line 38
-[81]
-Overfull \vbox (4.55106pt too high) detected at line 38
-[82]) (./c.13-kt_keim_1/kt_keim.tex
-
-pdfTeX warning: pdflatex (file ./9.d-kt_keim/keim_setup_0.pdf): PDF inclusion: 
-found PDF version <1.6>, but at most version <1.5> allowed
-
-
-pdfTeX warning: pdflatex (file ./9.d-kt_keim/keim_setup_1.pdf): PDF inclusion: 
-found PDF version <1.6>, but at most version <1.5> allowed
-
-
-pdfTeX warning: pdflatex (file ./9.d-kt_keim/keim_setup_2.pdf): PDF inclusion: 
-found PDF version <1.6>, but at most version <1.5> allowed
-
+Overfull \vbox (178.91501pt too high) detected at line 130
+[79 <./c.13-kt_keim_1/Yrenorm_poly12.pdf>]
+Overfull \vbox (178.91501pt too high) detected at line 130
+[80]
+Overfull \vbox (178.91501pt too high) detected at line 130
+[81 <./c.13-kt_keim_1/keim_setup_0.pdf>]
+Overfull \vbox (178.91501pt too high) detected at line 130
+[82 <./c.13-kt_keim_1/keim_setup_1.pdf>]
 Overfull \vbox (178.91501pt too high) detected at line 130
 [83]
 Overfull \vbox (178.91501pt too high) detected at line 130
-[84]
+[84 <./c.13-kt_keim_1/keim_setup_2.pdf>]
 Overfull \vbox (178.91501pt too high) detected at line 130
 [85]
 Overfull \vbox (178.91501pt too high) detected at line 130
-[86 <./9.d-kt_keim/Yrenorm_poly12.pdf>]
+[86 <./c.13-kt_keim_1/YRG_keim_exp_0.pdf>]
 Overfull \vbox (178.91501pt too high) detected at line 130
 [87]
 Overfull \vbox (178.91501pt too high) detected at line 130
-[88 <./9.d-kt_keim/keim_setup_0.pdf>]
+[88 <./c.13-kt_keim_1/YRG_keim_exp_1.pdf>]
 Overfull \vbox (178.91501pt too high) detected at line 130
-[89 <./9.d-kt_keim/keim_setup_1.pdf>]
+[89 <./c.13-kt_keim_1/YRG_keim.pdf>]
 Overfull \vbox (178.91501pt too high) detected at line 130
-[90]
+[90 <./c.13-kt_keim_1/YRG_keim_closeup.pdf>]
 Overfull \vbox (178.91501pt too high) detected at line 130
-[91 <./9.d-kt_keim/keim_setup_2.pdf>]
+[91 <./c.13-kt_keim_1/msd_keim.png>]
 Overfull \vbox (178.91501pt too high) detected at line 130
-[92]
+[92 <./c.13-kt_keim_1/msd_keim_1.png>]
 Overfull \vbox (178.91501pt too high) detected at line 130
-[93 <./9.d-kt_keim/YRG_keim_exp_0.pdf>]
-Overfull \vbox (178.91501pt too high) detected at line 130
+[93]) (./c.15-kt_spatialcorrel/kt_spatialcorrel.tex
+Overfull \vbox (13.55333pt too high) detected at line 44
 [94]
-Overfull \vbox (178.91501pt too high) detected at line 130
-[95 <./9.d-kt_keim/YRG_keim_exp_1.pdf>]
-Overfull \vbox (178.91501pt too high) detected at line 130
-[96 <./9.d-kt_keim/YRG_keim.pdf>]
-Overfull \vbox (178.91501pt too high) detected at line 130
-[97 <./9.d-kt_keim/YRG_keim_closeup.pdf>]
-Overfull \vbox (178.91501pt too high) detected at line 130
-[98 <./9.d-kt_keim/msd_keim.png>]
-Overfull \vbox (178.91501pt too high) detected at line 130
-[99 <./9.d-kt_keim/msd_keim_1.png>]
-Overfull \vbox (178.91501pt too high) detected at line 130
-[100]) (./c.15-kt_spatialcorrel/kt_spatialcorrel.tex
 Overfull \vbox (13.55333pt too high) detected at line 44
-[101]
+[95]
 Overfull \vbox (13.55333pt too high) detected at line 44
-[102]
+[96]
 Overfull \vbox (13.55333pt too high) detected at line 44
-[103]
+[97]
 Overfull \vbox (13.55333pt too high) detected at line 44
-[104]
+[98 <./c.15-kt_spatialcorrel/spatialcorrel.pdf>]
 Overfull \vbox (13.55333pt too high) detected at line 44
-[105 <./10.d-kt_spatialcorrel/spatialcorrel.pdf>]
-Overfull \vbox (13.55333pt too high) detected at line 44
-[106]) (./d.1-fac_intro/fac_intro.tex
+[99]) (./d.1-fac_intro/fac_intro.tex
 
-pdfTeX warning: pdflatex (file ./1.c-fac_intro/interlude1.pdf): PDF inclusion: 
+pdfTeX warning: pdflatex (file ./d.1-fac_intro/interlude1.pdf): PDF inclusion: 
 found PDF version <1.6>, but at most version <1.5> allowed
 
 
-pdfTeX warning: pdflatex (file ./1.c-fac_intro/interlude2.pdf): PDF inclusion: 
+pdfTeX warning: pdflatex (file ./d.1-fac_intro/interlude2.pdf): PDF inclusion: 
 found PDF version <1.6>, but at most version <1.5> allowed
 
 
-pdfTeX warning: pdflatex (file ./1.c-fac_intro/bare_test_0.pdf): PDF inclusion:
+pdfTeX warning: pdflatex (file ./d.1-fac_intro/bare_test_0.pdf): PDF inclusion:
  found PDF version <1.6>, but at most version <1.5> allowed
 
 
-pdfTeX warning: pdflatex (file ./1.c-fac_intro/bare_test_3.pdf): PDF inclusion:
+pdfTeX warning: pdflatex (file ./d.1-fac_intro/bare_test_3.pdf): PDF inclusion:
  found PDF version <1.6>, but at most version <1.5> allowed
 
 
-pdfTeX warning: pdflatex (file ./1.c-fac_intro/test_3.pdf): PDF inclusion: foun
+pdfTeX warning: pdflatex (file ./d.1-fac_intro/test_3.pdf): PDF inclusion: foun
 d PDF version <1.6>, but at most version <1.5> allowed
 
 
-pdfTeX warning: pdflatex (file ./1.c-fac_intro/test_6.pdf): PDF inclusion: foun
+pdfTeX warning: pdflatex (file ./d.1-fac_intro/test_6.pdf): PDF inclusion: foun
 d PDF version <1.6>, but at most version <1.5> allowed
 
 Overfull \vbox (23.35045pt too high) detected at line 60
-[107]
+[100]
 Overfull \vbox (23.35045pt too high) detected at line 60
-[108 <./1.c-fac_intro/interlude1.pdf>]
+[101 <./d.1-fac_intro/interlude1.pdf>]
 Overfull \vbox (23.35045pt too high) detected at line 60
-[109 <./1.c-fac_intro/interlude2.pdf>]
+[102 <./d.1-fac_intro/interlude2.pdf>]
 Overfull \vbox (23.35045pt too high) detected at line 60
-[110 <./1.c-fac_intro/bare_test_0.pdf>]
+[103 <./d.1-fac_intro/bare_test_0.pdf>]
 Overfull \vbox (23.35045pt too high) detected at line 60
-[111 <./1.c-fac_intro/bare_test_3.pdf>]
+[104 <./d.1-fac_intro/bare_test_3.pdf>]
 Overfull \vbox (23.35045pt too high) detected at line 60
-[112]
+[105]
 Overfull \vbox (23.35045pt too high) detected at line 60
-[113 <./1.c-fac_intro/test_3.pdf>]
+[106 <./d.1-fac_intro/test_3.pdf>]
 Overfull \vbox (23.35045pt too high) detected at line 60
-[114 <./1.c-fac_intro/test_6.pdf>]
+[107 <./d.1-fac_intro/test_6.pdf>]
 Overfull \vbox (23.35045pt too high) detected at line 60
-[115]
+[108]
 Overfull \vbox (23.35045pt too high) detected at line 60
-[116]
+[109]
 Overfull \vbox (23.35045pt too high) detected at line 60
-[117]
+[110]
 Overfull \vbox (23.35045pt too high) detected at line 60
-[118]
+[111]
 Overfull \vbox (23.35045pt too high) detected at line 60
-[119]) (./d.2-fac_intrc_1/fac_intrc.tex [120] [121]
+[112]) (./d.2-fac_intrc_1/fac_intrc.tex [113] [114]
 
-pdfTeX warning: pdflatex (file ./2.c-fac_intrc/excconfig2.pdf): PDF inclusion: 
-found PDF version <1.6>, but at most version <1.5> allowed
+pdfTeX warning: pdflatex (file ./d.2-fac_intrc_1/excconfig2.pdf): PDF inclusion
+: found PDF version <1.6>, but at most version <1.5> allowed
 
 Overfull \vbox (72.20912pt too high) detected at line 105
-[122 <./2.c-fac_intrc/excconfig2.pdf>]
+[115 <./d.2-fac_intrc_1/excconfig2.pdf>]
 
-pdfTeX warning: pdflatex (file ./3.c-fac_results/minima.pdf): PDF inclusion: fo
-und PDF version <1.6>, but at most version <1.5> allowed
+pdfTeX warning: pdflatex (file ./d.4-fac_results_1/minima.pdf): PDF inclusion: 
+found PDF version <1.6>, but at most version <1.5> allowed
 
 Overfull \vbox (68.29839pt too high) detected at line 105
-[123 <./3.c-fac_results/minima.pdf>]
+[116 <./d.4-fac_results_1/minima.pdf>]
 
-pdfTeX warning: pdflatex (file ./2.c-fac_intrc/pes.pdf): PDF inclusion: found P
-DF version <1.6>, but at most version <1.5> allowed
+pdfTeX warning: pdflatex (file ./d.2-fac_intrc_1/pes.pdf): PDF inclusion: found
+ PDF version <1.6>, but at most version <1.5> allowed
 
 Overfull \vbox (12.16171pt too high) detected at line 105
-[124 <./2.c-fac_intrc/pes.pdf>]
+[117 <./d.2-fac_intrc_1/pes.pdf>]
 Overfull \vbox (12.16171pt too high) detected at line 105
-[125]) (./d.4-fac_results_1/fac_results_1.tex<<VPlayer.swf>><<d.4-fac_results_1
+[118]) (./d.4-fac_results_1/fac_results_1.tex<<VPlayer.swf>><<d.4-fac_results_1
 /displowT.mp4>>
 
 pdfTeX warning: pdflatex (file ./d.4-fac_results_1/out-700.pdf): PDF inclusion:
@@ -2877,13 +2754,13 @@ pdfTeX warning: pdflatex (file ./d.4-fac_results_1/persout-012.pdf): PDF inclus
 ion: found PDF version <1.6>, but at most version <1.5> allowed
 
 Overfull \vbox (13.60052pt too high) detected at line 42
-[126 <./d.4-fac_results_1/displowT3.png>]
+[119 <./d.4-fac_results_1/displowT3.png>]
 Overfull \vbox (15.29297pt too high) detected at line 42
-[127 <./d.4-fac_results_1/out-700.pdf>]
+[120 <./d.4-fac_results_1/out-700.pdf>]
 Overfull \vbox (15.85052pt too high) detected at line 42
-[128 <./d.4-fac_results_1/persistlowT3.png>]
+[121 <./d.4-fac_results_1/persistlowT3.png>]
 Overfull \vbox (28.44295pt too high) detected at line 42
-[129 <./d.4-fac_results_1/persout-012.pdf>] [130])
+[122 <./d.4-fac_results_1/persout-012.pdf>] [123])
 (./d.5-fac_results_2/fac_results_2.tex
 
 pdfTeX warning: pdflatex (file ./d.5-fac_results_2/surveyresults1.pdf): PDF inc
@@ -2902,13 +2779,13 @@ pdfTeX warning: pdflatex (file ./d.5-fac_results_2/surveyresults.pdf): PDF incl
 usion: found PDF version <1.6>, but at most version <1.5> allowed
 
 Overfull \vbox (9.74269pt too high) detected at line 11
-[131 <./d.5-fac_results_2/surveyresults1.pdf>]
+[124 <./d.5-fac_results_2/surveyresults1.pdf>]
 Overfull \vbox (9.74269pt too high) detected at line 11
-[132 <./d.5-fac_results_2/surveyresults2.pdf>]
+[125 <./d.5-fac_results_2/surveyresults2.pdf>]
 Overfull \vbox (9.74269pt too high) detected at line 11
-[133 <./d.5-fac_results_2/surveyresults3.pdf>]
+[126 <./d.5-fac_results_2/surveyresults3.pdf>]
 Overfull \vbox (9.74269pt too high) detected at line 11
-[134 <./d.5-fac_results_2/surveyresults.pdf>])
+[127 <./d.5-fac_results_2/surveyresults.pdf>])
 (./d.6-fac_results_3/fac_results_3.tex
 
 pdfTeX warning: pdflatex (file ./d.6-fac_results_3/pes.pdf): PDF inclusion: fou
@@ -2927,45 +2804,45 @@ pdfTeX warning: pdflatex (file ./d.6-fac_results_3/newmsdphonons1.pdf): PDF inc
 lusion: found PDF version <1.6>, but at most version <1.5> allowed
 
 Overfull \vbox (32.47269pt too high) detected at line 63
-[135]
+[128]
 Overfull \vbox (32.47269pt too high) detected at line 63
-[136 <./d.6-fac_results_3/pes.pdf>]
+[129 <./d.6-fac_results_3/pes.pdf>]
 Overfull \vbox (32.47269pt too high) detected at line 63
-[137]
+[130]
 Overfull \vbox (32.47269pt too high) detected at line 63
-[138]
+[131]
 Overfull \vbox (32.47269pt too high) detected at line 63
-[139 <./d.6-fac_results_3/newmsdphonons0.pdf>]
+[132 <./d.6-fac_results_3/newmsdphonons0.pdf>]
 Overfull \vbox (32.47269pt too high) detected at line 63
-[140 <./d.6-fac_results_3/ismsdmd.pdf>]
+[133 <./d.6-fac_results_3/ismsdmd.pdf>]
 Overfull \vbox (32.47269pt too high) detected at line 63
-[141]
+[134]
 Overfull \vbox (32.47269pt too high) detected at line 63
-[142 <./d.6-fac_results_3/newmsdphonons1.pdf>])
+[135 <./d.6-fac_results_3/newmsdphonons1.pdf>])
 (./e.1-acknowledgements/acknowledgements.tex
 Overfull \vbox (9.40187pt too high) detected at line 39
-[143 <./acknowledgements/index.jpg> <./acknowledgements/image912.png> <./3.c-fa
-c_results/persistlowT3.png>]
+[136 <./acknowledgements/index.jpg> <./acknowledgements/image912.png> <./d.6-fa
+c_results_3/persistlowT3.png>]
 Overfull \vbox (9.40187pt too high) detected at line 39
-[144]
+[137]
 Overfull \vbox (9.40187pt too high) detected at line 39
-[145]
+[138]
 Overfull \vbox (9.40187pt too high) detected at line 39
-[146])
+[139])
 
-pdfTeX warning: pdflatex (file ./1.c-fac_intro/taubwithirrev.pdf): PDF inclusio
+pdfTeX warning: pdflatex (file ./d.1-fac_intro/taubwithirrev.pdf): PDF inclusio
 n: found PDF version <1.6>, but at most version <1.5> allowed
 
 Overfull \vbox (46.65074pt too high) detected at line 218
-[147]
+[140]
 Overfull \vbox (46.65074pt too high) detected at line 218
-[148 <./3.c-fac_results/persistlowT.jpg>]
+[141 <./d.6-fac_results_3/persistlowT.jpg>]
 Overfull \vbox (46.65074pt too high) detected at line 218
-[149]
+[142]
 Overfull \vbox (46.65074pt too high) detected at line 218
-[150 <./1.c-fac_intro/taubwithirrev.pdf>]
+[143 <./d.1-fac_intro/taubwithirrev.pdf>]
 Overfull \vbox (46.65074pt too high) detected at line 218
-[151] (output/presentation.aux) )
+[144] (output/presentation.aux) )
 (see the transcript file for additional information){/usr/local/texlive/2022/te
 xmf-dist/fonts/enc/dvips/lm/lm-rm.enc}{/usr/local/texlive/2022/texmf-dist/fonts
 /enc/dvips/lm/lm-mathsy.enc}{/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips
@@ -3005,5 +2882,5 @@ texmf-dist/fonts/type1/public/lm/lmsy10.pfb></usr/local/texlive/2022/texmf-dist
 /lmsy8.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/lm/lmsy9.pfb>
 </usr/local/texlive/2022/texmf-dist/fonts/type1/public/lm/lmtt8.pfb></usr/local
 /texlive/2022/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb>
-Output written on output/presentation.pdf (151 pages, 155916915 bytes).
+Output written on output/presentation.pdf (144 pages, 151472294 bytes).
 Transcript written on output/presentation.log.
